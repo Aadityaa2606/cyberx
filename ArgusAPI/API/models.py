@@ -73,7 +73,7 @@ class SmsLog(models.Model):
     # ]
     address = models.CharField(max_length=100)
     sms_type = models.CharField(max_length=100)
-    datetime = models.DateTimeField()
+    datetime = models.CharField(max_length=100)
     message = models.TextField()
     Contacts = models.ForeignKey(
         Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)

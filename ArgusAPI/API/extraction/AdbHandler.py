@@ -198,6 +198,8 @@ class AdbHandler:
         code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb exec-out screencap -p >> "+ARTIFACTS_PATH+"homescreen.png"])
         # create the json file and store it
         device_name = "Iphonee"
+        # move the homescreen.png file from our artifacts to our root directory
+        shutil.move(ARTIFACTS_PATH+"homescreen.png", FILE_PATH+"homescreen.png")
         device = Device.objects.create(
             device_name=device_name,
             vnet_status=vnet_status,

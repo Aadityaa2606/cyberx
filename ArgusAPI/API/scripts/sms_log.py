@@ -33,7 +33,7 @@ def import_sms_logs():
 
         # Calculate the datetime object
         epoch = datetime(1970, 1, 1)
-        date = epoch + timedelta(seconds=date_seconds)
+        date = str(epoch + timedelta(seconds=date_seconds))
         try:
             address_last_10 = address[-10:]
         except IndexError:

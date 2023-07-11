@@ -50,7 +50,7 @@ def start_extraction():
     db_status.save()
     print("main data over")
     
-    adb_handler.get_files()
+    # adb_handler.get_files()
     # # After Photos recieved
     PhotoMeta()
     db_status.photo_meta_status = True

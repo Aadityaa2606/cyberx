@@ -1,0 +1,2246 @@
+Row: 0 number=+919600573555, date=1681142346870, type=2, duration=25, name=
+Row: 1 number=+919080276386, date=1681199917944, type=2, duration=0, name=Aadthiya 🎮
+Row: 2 number=+919080276386, date=1681492111015, type=2, duration=31, name=Aadthiya 🎮
+Row: 3 number=+919841759993, date=1684261952077, type=2, duration=654, name=
+Row: 4 number=+919500522229, date=1684262889538, type=2, duration=373, name=Amma 👩‍👦
+Row: 5 number=+919080276386, date=1684264493151, type=2, duration=0, name=Aadthiya 🎮
+Row: 6 number=+919750063777, date=1684290616266, type=3, duration=34, name=Shreevarsaan VIT
+Row: 7 number=+919750063777, date=1684290695617, type=2, duration=22, name=Shreevarsaan VIT
+Row: 8 number=+919750063777, date=1684290925272, type=1, duration=2, name=Shreevarsaan VIT
+Row: 9 number=+919500522229, date=1684297452348, type=2, duration=94, name=Amma 👩‍👦
+Row: 10 number=+918921135258, date=1684300933939, type=1, duration=96, name=
+Row: 11 number=+919841759993, date=1684303517150, type=2, duration=91, name=
+Row: 12 number=+919841759993, date=1684307086961, type=1, duration=37, name=
+Row: 13 number=+919524404333, date=1681492352712, type=1, duration=6, name=
+Row: 14 number=+918921135258, date=1684307147684, type=1, duration=279, name=
+Row: 15 number=+919841759993, date=1684309306598, type=1, duration=80, name=
+Row: 16 number=+918921135258, date=1684309458513, type=1, duration=102, name=
+Row: 17 number=+919841759993, date=1684309568562, type=2, duration=130, name=
+Row: 18 number=+919080276386, date=1684312292381, type=2, duration=69, name=Aadthiya 🎮
+Row: 19 number=+919841759993, date=1684324544528, type=1, duration=57, name=
+Row: 20 number=+918921135258, date=1684327303634, type=1, duration=24, name=
+Row: 21 number=+918921135258, date=1684329522549, type=1, duration=144, name=
+Row: 22 number=+919841759993, date=1684329736315, type=2, duration=16, name=
+Row: 23 number=+918921135258, date=1684331406059, type=1, duration=107, name=
+Row: 24 number=+919361588911, date=1681532150374, type=1, duration=82, name=
+Row: 25 number=+919080276386, date=1684331526946, type=2, duration=393, name=Aadthiya 🎮
+Row: 26 number=+919445410570, date=1684332120376, type=1, duration=73, name=
+Row: 27 number=+919500522229, date=1684333721983, type=3, duration=34, name=Amma 👩‍👦
+Row: 28 number=+919750063777, date=1684334279509, type=1, duration=41, name=Shreevarsaan VIT
+Row: 29 number=+919500522229, date=1684334331269, type=2, duration=241, name=Amma 👩‍👦
+Row: 30 number=+919445410570, date=1684334619690, type=2, duration=48, name=
+Row: 31 number=+918921135258, date=1684335671765, type=1, duration=50, name=
+Row: 32 number=+919669662159, date=1684336143774, type=1, duration=19, name=
+Row: 33 number=+919669662159, date=1684336182918, type=2, duration=0, name=
+Row: 34 number=+919080276386, date=1684336768593, type=2, duration=0, name=Aadthiya 🎮
+Row: 35 number=+919524404333, date=1681534236660, type=1, duration=27, name=
+Row: 36 number=+919750063777, date=1684337043196, type=1, duration=29, name=Shreevarsaan VIT
+Row: 37 number=+919080276386, date=1684337135377, type=1, duration=62, name=Aadthiya 🎮
+Row: 38 number=+918921135258, date=1684337818638, type=1, duration=268, name=
+Row: 39 number=+918921135258, date=1684341858301, type=3, duration=3, name=
+Row: 40 number=+918921135258, date=1684342180827, type=3, duration=2, name=
+Row: 41 number=+919962818599, date=1684341724530, type=1, duration=647, name=
+Row: 42 number=+918921135258, date=1684342386496, type=2, duration=260, name=
+Row: 43 number=+918921135258, date=1684342934383, type=1, duration=108, name=
+Row: 44 number=+919994925661, date=1684343294526, type=2, duration=0, name=
+Row: 45 number=9500522229, date=1684343339346, type=2, duration=29, name=
+Row: 46 number=+919080276386, date=1681534920881, type=2, duration=107, name=Aadthiya 🎮
+Row: 47 number=+919994925661, date=1684343368079, type=3, duration=5, name=
+Row: 48 number=+919994925661, date=1684343381712, type=2, duration=0, name=
+Row: 49 number=+918921135258, date=1684343745110, type=3, duration=3, name=
+Row: 50 number=+919994925661, date=1684343382622, type=1, duration=524, name=
+Row: 51 number=+918921135258, date=1684344997517, type=2, duration=70, name=
+Row: 52 number=+919585339677, date=1684345190756, type=2, duration=23, name=
+Row: 53 number=+919994239369, date=1684345340467, type=1, duration=74, name=
+Row: 54 number=+919585339677, date=1684345784312, type=2, duration=13, name=
+Row: 55 number=+918072285202, date=1684345915630, type=2, duration=18, name=Ezhil👨‍💻
+Row: 56 number=9080276386, date=1684348924782, type=2, duration=373, name=
+Row: 57 number=+917738098250, date=1681538938275, type=1, duration=90, name=Abhinav ⚽
+Row: 58 number=+918072285202, date=1684349368341, type=2, duration=10, name=Ezhil👨‍💻
+Row: 59 number=+919994925661, date=1684349391834, type=2, duration=60, name=
+Row: 60 number=+917448500929, date=1684350358784, type=1, duration=63, name=
+Row: 61 number=+919994239369, date=1684351849119, type=1, duration=25, name=
+Row: 62 number=+919841759993, date=1684377271381, type=1, duration=88, name=
+Row: 63 number=+917448500929, date=1684379948760, type=2, duration=0, name=
+Row: 64 number=+919841759993, date=1684380512266, type=2, duration=0, name=
+Row: 65 number=+919841759993, date=1684380531941, type=2, duration=0, name=
+Row: 66 number=+919841759993, date=1684380907602, type=1, duration=17, name=
+Row: 67 number=+917448500929, date=1684381269176, type=1, duration=25, name=
+Row: 68 number=+919080276386, date=1681539243809, type=2, duration=0, name=Aadthiya 🎮
+Row: 69 number=+919841759993, date=1684381512546, type=2, duration=51, name=
+Row: 70 number=+919841759993, date=1684381669695, type=2, duration=0, name=
+Row: 71 number=+918921135258, date=1684381778870, type=2, duration=13, name=
+Row: 72 number=+918921135258, date=1684382383022, type=1, duration=33, name=
+Row: 73 number=+917010693760, date=1684382810421, type=2, duration=0, name=
+Row: 74 number=+917010693760, date=1684383292357, type=2, duration=22, name=
+Row: 75 number=+917448500929, date=1684392831660, type=2, duration=101, name=
+Row: 76 number=9080276386, date=1684392951257, type=2, duration=227, name=
+Row: 77 number=9500522229, date=1684393744397, type=2, duration=0, name=
+Row: 78 number=+919500522229, date=1684393820944, type=1, duration=303, name=Amma 👩‍👦
+Row: 79 number=+919080276386, date=1681539341725, type=1, duration=182, name=Aadthiya 🎮
+Row: 80 number=+917448500929, date=1684394928133, type=2, duration=23, name=
+Row: 81 number=+918921135258, date=1684396762067, type=1, duration=12, name=
+Row: 82 number=+917448500929, date=1684400126581, type=2, duration=57, name=
+Row: 83 number=+917448500929, date=1684400530667, type=2, duration=91, name=
+Row: 84 number=+917448500929, date=1684401949093, type=2, duration=133, name=
+Row: 85 number=+919500522229, date=1684402095478, type=2, duration=124, name=Amma 👩‍👦
+Row: 86 number=+917448500929, date=1684406884076, type=2, duration=152, name=
+Row: 87 number=+919445410570, date=1684410158706, type=2, duration=800, name=
+Row: 88 number=+919750063777, date=1684415200603, type=1, duration=9, name=Shreevarsaan VIT
+Row: 89 number=+919445410570, date=1684415915582, type=1, duration=44, name=
+Row: 90 number=+919524404333, date=1681540898132, type=1, duration=24, name=
+Row: 91 number=+919080276386, date=1684417951920, type=5, duration=4, name=Aadthiya 🎮
+Row: 92 number=+919080276386, date=1684418018491, type=2, duration=46, name=Aadthiya 🎮
+Row: 93 number=+919500522229, date=1684428804940, type=3, duration=5, name=Amma 👩‍👦
+Row: 94 number=+919080276386, date=1684428770299, type=2, duration=44, name=Aadthiya 🎮
+Row: 95 number=+919500522229, date=1684428834197, type=2, duration=33, name=Amma 👩‍👦
+Row: 96 number=+919080276386, date=1684431628210, type=2, duration=0, name=Aadthiya 🎮
+Row: 97 number=+919750063777, date=1684431891364, type=2, duration=0, name=Shreevarsaan VIT
+Row: 98 number=+917738098250, date=1684432135295, type=2, duration=17, name=Abhinav ⚽
+Row: 99 number=+919080276386, date=1684433843513, type=3, duration=34, name=Aadthiya 🎮
+Row: 100 number=+919080276386, date=1684433891187, type=2, duration=0, name=Aadthiya 🎮
+Row: 101 number=+917738098250, date=1681542355673, type=1, duration=109, name=Abhinav ⚽
+Row: 102 number=+919080276386, date=1684464664320, type=3, duration=25, name=Aadthiya 🎮
+Row: 103 number=+919080276386, date=1684465158266, type=3, duration=34, name=Aadthiya 🎮
+Row: 104 number=+919080276386, date=1684465215613, type=2, duration=0, name=Aadthiya 🎮
+Row: 105 number=+919445410570, date=1684465263265, type=2, duration=0, name=
+Row: 106 number=+919080276386, date=1684465333892, type=2, duration=0, name=Aadthiya 🎮
+Row: 107 number=+919080276386, date=1684465554320, type=2, duration=0, name=Aadthiya 🎮
+Row: 108 number=+919445410570, date=1684465594234, type=2, duration=0, name=
+Row: 109 number=+919445410570, date=1684465664847, type=1, duration=24, name=
+Row: 110 number=+919080276386, date=1684465843404, type=3, duration=34, name=Aadthiya 🎮
+Row: 111 number=9080276386, date=1684465892693, type=2, duration=0, name=
+Row: 112 number=+919080276386, date=1681200076501, type=1, duration=15, name=Aadthiya 🎮
+Row: 113 number=+919080276386, date=1681542822213, type=2, duration=7, name=Aadthiya 🎮
+Row: 114 number=+919080276386, date=1684465993199, type=2, duration=23, name=Aadthiya 🎮
+Row: 115 number=+919080276386, date=1684466468007, type=2, duration=51, name=Aadthiya 🎮
+Row: 116 number=+919080276386, date=1684466741573, type=2, duration=7, name=Aadthiya 🎮
+Row: 117 number=+919080276386, date=1684467350753, type=3, duration=33, name=Aadthiya 🎮
+Row: 118 number=+919080276386, date=1684467401748, type=2, duration=18, name=Aadthiya 🎮
+Row: 119 number=+919750063777, date=1684476935854, type=3, duration=34, name=Shreevarsaan VIT
+Row: 120 number=+919841759993, date=1684481765942, type=3, duration=30, name=
+Row: 121 number=+919500522229, date=1684498281419, type=2, duration=167, name=Amma 👩‍👦
+Row: 122 number=+919080276386, date=1684504386800, type=2, duration=0, name=Aadthiya 🎮
+Row: 123 number=+919445410570, date=1684504431627, type=2, duration=0, name=
+Row: 124 number=+919524404333, date=1681549271476, type=1, duration=41, name=
+Row: 125 number=+917358479083, date=1684507582241, type=3, duration=34, name=
+Row: 126 number=+919080276386, date=1684508783744, type=2, duration=0, name=Aadthiya 🎮
+Row: 127 number=+919445410570, date=1684508830591, type=2, duration=0, name=
+Row: 128 number=+919445410570, date=1684508858986, type=1, duration=104, name=
+Row: 129 number=+919445410570, date=1684510996517, type=2, duration=21, name=
+Row: 130 number=+919080276386, date=1684511364086, type=2, duration=0, name=Aadthiya 🎮
+Row: 131 number=7092036331, date=1684511406952, type=2, duration=0, name=
+Row: 132 number=+919677372245, date=1684511428021, type=2, duration=9, name=
+Row: 133 number=+919677372245, date=1684511443074, type=2, duration=0, name=
+Row: 134 number=+919677372245, date=1684511468616, type=2, duration=0, name=
+Row: 135 number=+919080276386, date=1681552202805, type=2, duration=8, name=Aadthiya 🎮
+Row: 136 number=+919677372245, date=1684511468762, type=1, duration=12, name=
+Row: 137 number=+919677372245, date=1684511629683, type=1, duration=6, name=
+Row: 138 number=+919677372245, date=1684511701968, type=3, duration=12, name=
+Row: 139 number=+919080276386, date=1684511667677, type=1, duration=74, name=Aadthiya 🎮
+Row: 140 number=+919677372245, date=1684511749006, type=2, duration=0, name=
+Row: 141 number=+919445410570, date=1684512396960, type=2, duration=14, name=
+Row: 142 number=+919080276386, date=1684512424615, type=2, duration=101, name=Aadthiya 🎮
+Row: 143 number=+919080276386, date=1684514508803, type=2, duration=0, name=Aadthiya 🎮
+Row: 144 number=7092036331, date=1684514548424, type=2, duration=0, name=
+Row: 145 number=+919080276386, date=1684514720147, type=2, duration=49, name=Aadthiya 🎮
+Row: 146 number=+919524404333, date=1681553179010, type=2, duration=0, name=
+Row: 147 number=+917092036331, date=1684515637822, type=1, duration=68, name=
+Row: 148 number=+919080276386, date=1684517293981, type=2, duration=96, name=Aadthiya 🎮
+Row: 149 number=+919080276386, date=1684518269606, type=1, duration=10, name=Aadthiya 🎮
+Row: 150 number=+919080276386, date=1684519586758, type=2, duration=11, name=Aadthiya 🎮
+Row: 151 number=+919080276386, date=1684549028910, type=2, duration=0, name=Aadthiya 🎮
+Row: 152 number=+919080276386, date=1684549070429, type=2, duration=0, name=Aadthiya 🎮
+Row: 153 number=+919445410570, date=1684549107258, type=2, duration=46, name=
+Row: 154 number=+919500522229, date=1684549476930, type=3, duration=34, name=Amma 👩‍👦
+Row: 155 number=+919080276386, date=1684549686483, type=2, duration=0, name=Aadthiya 🎮
+Row: 156 number=7092036331, date=1684549728119, type=2, duration=24, name=
+Row: 157 number=+917738098250, date=1681553297458, type=2, duration=11, name=Abhinav ⚽
+Row: 158 number=+919500522229, date=1684549834871, type=2, duration=14, name=Amma 👩‍👦
+Row: 159 number=+919445410570, date=1684550267414, type=2, duration=17, name=
+Row: 160 number=+919080276386, date=1684550679225, type=2, duration=0, name=Aadthiya 🎮
+Row: 161 number=+919080276386, date=1684550929303, type=2, duration=0, name=Aadthiya 🎮
+Row: 162 number=+919080276386, date=1684552009110, type=1, duration=0, name=Aadthiya 🎮
+Row: 163 number=+919080276386, date=1684552023902, type=2, duration=15, name=Aadthiya 🎮
+Row: 164 number=+919080276386, date=1684552433309, type=1, duration=15, name=Aadthiya 🎮
+Row: 165 number=+919305562086, date=1684555643654, type=3, duration=9, name=
+Row: 166 number=+919500522229, date=1684563820149, type=2, duration=29, name=Amma 👩‍👦
+Row: 167 number=+917448500929, date=1684565072034, type=1, duration=56, name=
+Row: 168 number=+919524404333, date=1681553324147, type=1, duration=8, name=
+Row: 169 number=+919500522229, date=1684580847067, type=2, duration=144, name=Amma 👩‍👦
+Row: 170 number=+919500522229, date=1684581072437, type=1, duration=15, name=Amma 👩‍👦
+Row: 171 number=+919500522229, date=1684582291665, type=2, duration=1114, name=Amma 👩‍👦
+Row: 172 number=+917358479083, date=1684593284369, type=3, duration=34, name=
+Row: 173 number=+919750063777, date=1684601344375, type=2, duration=14, name=Shreevarsaan VIT
+Row: 174 number=9080276386, date=1684654624308, type=2, duration=0, name=
+Row: 175 number=+917738098250, date=1684672289413, type=2, duration=58, name=Abhinav ⚽
+Row: 176 number=+918072285202, date=1684685436386, type=2, duration=0, name=Ezhil👨‍💻
+Row: 177 number=+917448500929, date=1684685456168, type=2, duration=78, name=
+Row: 178 number=+919500522229, date=1684736502234, type=2, duration=7, name=Amma 👩‍👦
+Row: 179 number=+919524404333, date=1681553342841, type=2, duration=0, name=
+Row: 180 number=+919500522229, date=1684736518675, type=2, duration=320, name=Amma 👩‍👦
+Row: 181 number=+916369675465, date=1684743795695, type=1, duration=15, name=Vibu ✏️
+Row: 182 number=8220273849, date=1684757514492, type=2, duration=0, name=Tharun VIT
+Row: 183 number=+919500522229, date=1684757716983, type=2, duration=346, name=Amma 👩‍👦
+Row: 184 number=+919600573555, date=1684761416521, type=1, duration=29, name=
+Row: 185 number=+919600573555, date=1684761466252, type=1, duration=11, name=
+Row: 186 number=+917738098250, date=1684763635481, type=2, duration=102, name=
+Row: 187 number=+919750063777, date=1684767279299, type=3, duration=34, name=
+Row: 188 number=+919750063777, date=1684767338824, type=2, duration=0, name=
+Row: 189 number=+919994239369, date=1684769239774, type=1, duration=24, name=
+Row: 190 number=+919080276386, date=1681560299820, type=1, duration=33, name=Aadthiya 🎮
+Row: 191 number=+917738098250, date=1684769440672, type=2, duration=20, name=
+Row: 192 number=+917738098250, date=1684771126202, type=2, duration=27, name=
+Row: 193 number=+917448500929, date=1684773902929, type=1, duration=57, name=
+Row: 194 number=+919994239369, date=1684830145048, type=1, duration=13, name=
+Row: 195 number=8870364842, date=1684846039818, type=2, duration=0, name=
+Row: 196 number=8870364842, date=1684846220882, type=2, duration=0, name=
+Row: 197 number=+917448500929, date=1684848629245, type=1, duration=10, name=
+Row: 198 number=+919994239369, date=1684850563951, type=1, duration=25, name=
+Row: 199 number=+919500522229, date=1684852404267, type=2, duration=290, name=
+Row: 200 number=9080276386, date=1684854586185, type=2, duration=49, name=Aadthiya 🎮
+Row: 201 number=+919080276386, date=1681561016850, type=2, duration=10, name=Aadthiya 🎮
+Row: 202 number=8220273849, date=1684856648779, type=2, duration=26, name=
+Row: 203 number=9080276386, date=1684858423210, type=2, duration=0, name=
+Row: 204 number=9080276386, date=1684859860764, type=2, duration=0, name=
+Row: 205 number=9176968629, date=1684859893875, type=2, duration=80, name=
+Row: 206 number=+919750063777, date=1684895505073, type=2, duration=0, name=
+Row: 207 number=+917738098250, date=1684896013212, type=1, duration=9, name=
+Row: 208 number=+919500522229, date=1684902304446, type=2, duration=148, name=
+Row: 209 number=9080276386, date=1684914157888, type=2, duration=130, name=
+Row: 210 number=+918072285202, date=1684914328100, type=2, duration=160, name=
+Row: 211 number=+918072285202, date=1684914515217, type=2, duration=36, name=
+Row: 212 number=+919080276386, date=1681561371832, type=3, duration=0, name=Aadthiya 🎮
+Row: 213 number=+918681047129, date=1684915366641, type=2, duration=0, name=
+Row: 214 number=+918681047129, date=1684915964223, type=2, duration=0, name=
+Row: 215 number=+919445410570, date=1684930052249, type=2, duration=0, name=
+Row: 216 number=+919445410570, date=1684930438193, type=1, duration=158, name=
+Row: 217 number=+919500522229, date=1684932139051, type=2, duration=289, name=
+Row: 218 number=+919955978725, date=1684936734431, type=1, duration=78, name=
+Row: 219 number=9080276386, date=1684939897898, type=2, duration=7, name=
+Row: 220 number=+917738098250, date=1684942818992, type=2, duration=32, name=
+Row: 221 number=+919677372245, date=1684942898793, type=2, duration=16, name=
+Row: 222 number=+918883666174, date=1684943580858, type=2, duration=55, name=
+Row: 223 number=+919080276386, date=1681200428283, type=1, duration=8, name=Aadthiya 🎮
+Row: 224 number=+919500522229, date=1681562513250, type=3, duration=0, name=Amma 👩‍👦
+Row: 225 number=+916374725831, date=1684946504989, type=1, duration=33, name=
+Row: 226 number=+917738098250, date=1684956529110, type=2, duration=0, name=
+Row: 227 number=+917738098250, date=1684956541718, type=2, duration=25, name=
+Row: 228 number=+917738098250, date=1684956855014, type=2, duration=0, name=
+Row: 229 number=+919750063777, date=1684956863104, type=2, duration=7, name=
+Row: 230 number=+919994239369, date=1684984595254, type=1, duration=8, name=
+Row: 231 number=+917738098250, date=1684987308214, type=3, duration=34, name=
+Row: 232 number=+917738098250, date=1684987729066, type=2, duration=12, name=
+Row: 233 number=+917738098250, date=1684988104424, type=2, duration=9, name=
+Row: 234 number=+917738098250, date=1684995211069, type=2, duration=0, name=
+Row: 235 number=+919500522229, date=1681564830196, type=2, duration=301, name=Amma 👩‍👦
+Row: 236 number=+919677372245, date=1684997102701, type=2, duration=27, name=
+Row: 237 number=+919677372245, date=1684997231407, type=1, duration=19, name=
+Row: 238 number=+917448500929, date=1685000768374, type=3, duration=24, name=
+Row: 239 number=+917448500929, date=1685000797792, type=2, duration=52, name=
+Row: 240 number=+919677372245, date=1685001783654, type=3, duration=15, name=
+Row: 241 number=9080276386, date=1685006987093, type=2, duration=18, name=
+Row: 242 number=+919524712765, date=1685014805002, type=1, duration=11, name=
+Row: 243 number=8220273849, date=1685014916434, type=2, duration=0, name=
+Row: 244 number=+918220273849, date=1685014967997, type=1, duration=17, name=
+Row: 245 number=+918072285202, date=1685015016764, type=2, duration=17, name=
+Row: 246 number=+916380205363, date=1681571052944, type=3, duration=0, name=
+Row: 247 number=+919524712765, date=1685015195811, type=2, duration=0, name=
+Row: 248 number=8870364842, date=1685015452870, type=2, duration=14, name=
+Row: 249 number=+918218419552, date=1685020830512, type=1, duration=52, name=
+Row: 250 number=9500522229, date=1685022073906, type=2, duration=741, name=
+Row: 251 number=+919500522229, date=1685023326786, type=1, duration=217, name=
+Row: 252 number=9080276386, date=1685033448699, type=2, duration=0, name=
+Row: 253 number=+919080276386, date=1685033518888, type=1, duration=1002, name=
+Row: 254 number=9080276386, date=1685039226853, type=2, duration=197, name=
+Row: 255 number=9080276386, date=1685039486088, type=2, duration=0, name=
+Row: 256 number=+919944788330, date=1685073692630, type=3, duration=2, name=
+Row: 257 number=+916380205363, date=1681571368125, type=2, duration=19, name=
+Row: 258 number=+918921135258, date=1685078425611, type=1, duration=45, name=
+Row: 259 number=9080276386, date=1685078480461, type=2, duration=0, name=
+Row: 260 number=+919445410570, date=1685078552452, type=2, duration=0, name=
+Row: 261 number=+919080276386, date=1685078700323, type=1, duration=71, name=
+Row: 262 number=+919080276386, date=1685078784614, type=1, duration=764, name=
+Row: 263 number=+919445410570, date=1685083869493, type=1, duration=20, name=
+Row: 264 number=+919750063777, date=1685085190280, type=3, duration=34, name=
+Row: 265 number=+919750063777, date=1685085666371, type=2, duration=13, name=
+Row: 266 number=+919750063777, date=1685089894177, type=3, duration=34, name=
+Row: 267 number=+917738098250, date=1685094914244, type=1, duration=17, name=
+Row: 268 number=+919080276386, date=1681571959094, type=1, duration=15, name=Aadthiya 🎮
+Row: 269 number=9176968629, date=1685106049345, type=2, duration=104, name=
+Row: 270 number=9080276386, date=1685106215701, type=2, duration=0, name=
+Row: 271 number=+919080276386, date=1685106292647, type=1, duration=96, name=
+Row: 272 number=+916369675465, date=1685107325218, type=1, duration=24, name=
+Row: 273 number=+916369675465, date=1685109683878, type=1, duration=58, name=
+Row: 274 number=9500522229, date=1685112885518, type=2, duration=322, name=
+Row: 275 number=+917358665743, date=1685113423593, type=1, duration=201, name=
+Row: 276 number=+918248851706, date=1685116532836, type=1, duration=21, name=
+Row: 277 number=+919524404333, date=1685119747302, type=1, duration=32, name=
+Row: 278 number=+919080276386, date=1685165306154, type=2, duration=178, name=
+Row: 279 number=+919445410570, date=1681573843275, type=2, duration=64, name=
+Row: 280 number=+919524404333, date=1685170382605, type=3, duration=28, name=
+Row: 281 number=+919524404333, date=1685170879890, type=2, duration=20, name=
+Row: 282 number=9500522229, date=1685175967009, type=2, duration=298, name=
+Row: 283 number=7092036331, date=1685185709788, type=2, duration=19, name=
+Row: 284 number=+917358605304, date=1685185864140, type=1, duration=30, name=
+Row: 285 number=+919080276386, date=1685185946036, type=2, duration=124, name=
+Row: 286 number=+918220273849, date=1685186467281, type=1, duration=11, name=
+Row: 287 number=6382464930, date=1685187560573, type=2, duration=21, name=
+Row: 288 number=+919080276386, date=1685187845253, type=2, duration=10, name=
+Row: 289 number=+919080276386, date=1685188311286, type=2, duration=13, name=
+Row: 290 number=+919080276386, date=1681574573208, type=2, duration=17, name=Aadthiya 🎮
+Row: 291 number=+916369675465, date=1685189330874, type=2, duration=73, name=
+Row: 292 number=+916369675465, date=1685192133233, type=2, duration=18, name=
+Row: 293 number=8870364842, date=1685196947806, type=2, duration=17, name=
+Row: 294 number=+919080276386, date=1685197500428, type=2, duration=37, name=Aadthiya 🎮
+Row: 295 number=+919080276386, date=1685198070589, type=2, duration=9, name=Aadthiya 🎮
+Row: 296 number=+919994239369, date=1685200772606, type=1, duration=29, name=
+Row: 297 number=+919750063777, date=1685206040058, type=1, duration=92, name=Shreevarsaan VIT
+Row: 298 number=+918218419552, date=1685206965711, type=1, duration=57, name=
+Row: 299 number=+919080276386, date=1685210682461, type=1, duration=12, name=Aadthiya 🎮
+Row: 300 number=+919080276386, date=1685210709915, type=2, duration=11, name=Aadthiya 🎮
+Row: 301 number=+919080276386, date=1681574659762, type=2, duration=5, name=Aadthiya 🎮
+Row: 302 number=+919080276386, date=1685212845696, type=1, duration=37, name=Aadthiya 🎮
+Row: 303 number=+919818837687, date=1685244966222, type=5, duration=4, name=
+Row: 304 number=+919080276386, date=1685245275613, type=2, duration=0, name=Aadthiya 🎮
+Row: 305 number=+919080276386, date=1685245418093, type=1, duration=25, name=Aadthiya 🎮
+Row: 306 number=+919750063777, date=1685247191885, type=2, duration=50, name=Shreevarsaan VIT
+Row: 307 number=8870364842, date=1685247766349, type=2, duration=28, name=
+Row: 308 number=9080276386, date=1685250050596, type=2, duration=8, name=
+Row: 309 number=+919750063777, date=1685250608717, type=2, duration=13, name=Shreevarsaan VIT
+Row: 310 number=9500522229, date=1685258869490, type=2, duration=10, name=
+Row: 311 number=9500522229, date=1685258943962, type=2, duration=158, name=
+Row: 312 number=+917738098250, date=1681577836814, type=2, duration=46, name=Abhinav ⚽
+Row: 313 number=9080276386, date=1685260933111, type=2, duration=175, name=
+Row: 314 number=9080276386, date=1685262176565, type=2, duration=10, name=
+Row: 315 number=+917738098250, date=1685267571191, type=2, duration=16, name=Abhinav ⚽
+Row: 316 number=+917738098250, date=1685272677680, type=2, duration=8, name=Abhinav ⚽
+Row: 317 number=7339081125, date=1685273021078, type=2, duration=40, name=
+Row: 318 number=9080276386, date=1685273524211, type=2, duration=61, name=
+Row: 319 number=9500522229, date=1685273683885, type=2, duration=0, name=
+Row: 320 number=+919500522229, date=1685273716798, type=1, duration=62, name=Amma 👩‍👦
+Row: 321 number=7339081125, date=1685273811555, type=2, duration=26, name=
+Row: 322 number=+919385621741, date=1685275027457, type=2, duration=21, name=
+Row: 323 number=+919080276386, date=1681581213626, type=2, duration=0, name=Aadthiya 🎮
+Row: 324 number=+917738098250, date=1685276644547, type=2, duration=25, name=Abhinav ⚽
+Row: 325 number=9080276386, date=1685285689876, type=2, duration=12, name=
+Row: 326 number=+919994239369, date=1685286571364, type=1, duration=7, name=
+Row: 327 number=+919500522229, date=1685288637322, type=2, duration=150, name=Amma 👩‍👦
+Row: 328 number=+917448500929, date=1685289059176, type=1, duration=121, name=
+Row: 329 number=9080276386, date=1685296382331, type=2, duration=0, name=
+Row: 330 number=9176968629, date=1685296396847, type=2, duration=96, name=Vibu ✏️
+Row: 331 number=+916369675465, date=1685297867676, type=1, duration=450, name=Vibu ✏️
+Row: 332 number=+919080276386, date=1685332015503, type=1, duration=27, name=Aadthiya 🎮
+Row: 333 number=+919080276386, date=1685332061944, type=2, duration=339, name=Aadthiya 🎮
+Row: 334 number=+917738098250, date=1681203203698, type=1, duration=90, name=Abhinav ⚽
+Row: 335 number=+919080276386, date=1681581601879, type=2, duration=0, name=Aadthiya 🎮
+Row: 336 number=+919080276386, date=1685332559505, type=2, duration=76, name=Aadthiya 🎮
+Row: 337 number=+919342267690, date=1685340951914, type=3, duration=29, name=
+Row: 338 number=+919080276386, date=1685342787480, type=3, duration=16, name=Aadthiya 🎮
+Row: 339 number=+919080276386, date=1685343011746, type=2, duration=0, name=Aadthiya 🎮
+Row: 340 number=+919080276386, date=1685343011436, type=1, duration=20, name=Aadthiya 🎮
+Row: 341 number=+919500522229, date=1685343172734, type=2, duration=65, name=Amma 👩‍👦
+Row: 342 number=+919080276386, date=1685343252558, type=1, duration=2, name=Aadthiya 🎮
+Row: 343 number=+919080276386, date=1685343261866, type=1, duration=15, name=Aadthiya 🎮
+Row: 344 number=+919994239369, date=1685345425544, type=1, duration=24, name=
+Row: 345 number=+919994239369, date=1685345471708, type=1, duration=19, name=
+Row: 346 number=+919080276386, date=1681617470603, type=2, duration=0, name=Aadthiya 🎮
+Row: 347 number=+919080276386, date=1685348059297, type=2, duration=6, name=Aadthiya 🎮
+Row: 348 number=+919342267690, date=1685358090147, type=3, duration=29, name=
+Row: 349 number=+919500522229, date=1685361395483, type=2, duration=50, name=Amma 👩‍👦
+Row: 350 number=+919342267690, date=1685365158243, type=1, duration=321, name=
+Row: 351 number=+919080276386, date=1685369701813, type=2, duration=229, name=Aadthiya 🎮
+Row: 352 number=+919080276386, date=1685370683849, type=3, duration=27, name=Aadthiya 🎮
+Row: 353 number=+919080276386, date=1685371145260, type=3, duration=12, name=Aadthiya 🎮
+Row: 354 number=+918681047129, date=1685371309830, type=3, duration=34, name=
+Row: 355 number=+919500522229, date=1685380401789, type=2, duration=94, name=Amma 👩‍👦
+Row: 356 number=+919080276386, date=1685380882450, type=2, duration=0, name=Aadthiya 🎮
+Row: 357 number=+919080276386, date=1681617519679, type=1, duration=11, name=Aadthiya 🎮
+Row: 358 number=+919080276386, date=1685380978993, type=1, duration=248, name=Aadthiya 🎮
+Row: 359 number=+919080276386, date=1685383607402, type=2, duration=56, name=Aadthiya 🎮
+Row: 360 number=+919080276386, date=1685429105267, type=2, duration=0, name=Aadthiya 🎮
+Row: 361 number=+919500522229, date=1685429159034, type=2, duration=47, name=Amma 👩‍👦
+Row: 362 number=+919080276386, date=1685429401160, type=1, duration=12, name=Aadthiya 🎮
+Row: 363 number=+919080276386, date=1685429728984, type=2, duration=0, name=Aadthiya 🎮
+Row: 364 number=+919524404333, date=1685434360382, type=1, duration=38, name=
+Row: 365 number=+919524404333, date=1685440191859, type=2, duration=0, name=
+Row: 366 number=+917738098250, date=1685440197651, type=2, duration=16, name=Abhinav ⚽
+Row: 367 number=9176968629, date=1685440428004, type=2, duration=8, name=Vibu ✏️
+Row: 368 number=+919524404333, date=1681620201580, type=2, duration=20, name=
+Row: 369 number=+911726132888, date=1685441707167, type=3, duration=34, name=
+Row: 370 number=+911726132888, date=1685444667873, type=3, duration=34, name=
+Row: 371 number=+911726132888, date=1685444708491, type=3, duration=23, name=
+Row: 372 number=+919080276386, date=1685446073389, type=2, duration=24, name=Aadthiya 🎮
+Row: 373 number=+919080276386, date=1685446512235, type=1, duration=12, name=Aadthiya 🎮
+Row: 374 number=+919080276386, date=1685446841956, type=1, duration=17, name=Aadthiya 🎮
+Row: 375 number=+919445410570, date=1685447556421, type=2, duration=0, name=
+Row: 376 number=+919445410570, date=1685449441482, type=1, duration=201, name=
+Row: 377 number=+919445410570, date=1685450242059, type=2, duration=116, name=
+Row: 378 number=+918270700777, date=1685450380078, type=2, duration=39, name=
+Row: 379 number=+917738098250, date=1681620243515, type=2, duration=0, name=Abhinav ⚽
+Row: 380 number=+919500522229, date=1685450811734, type=1, duration=201, name=Amma 👩‍👦
+Row: 381 number=+919500522229, date=1685453923806, type=2, duration=78, name=Amma 👩‍👦
+Row: 382 number=+918921135258, date=1685454427026, type=1, duration=352, name=
+Row: 383 number=9080276386, date=1685455209574, type=2, duration=243, name=
+Row: 384 number=+919500522229, date=1685455867582, type=1, duration=5, name=Amma 👩‍👦
+Row: 385 number=7200577131, date=1685458019708, type=2, duration=373, name=
+Row: 386 number=+919500522229, date=1685458733226, type=2, duration=386, name=Amma 👩‍👦
+Row: 387 number=+919962818599, date=1685460849989, type=2, duration=0, name=
+Row: 388 number=+917092036331, date=1685462113910, type=1, duration=27, name=
+Row: 389 number=8220273849, date=1685468843498, type=2, duration=10, name=Tharun VIT
+Row: 390 number=+919750063777, date=1681620283264, type=2, duration=12, name=Shreevarsaan VIT
+Row: 391 number=9994239369, date=1685473774625, type=2, duration=12, name=
+Row: 392 number=+919750063777, date=1685500180199, type=1, duration=9, name=Shreevarsaan VIT
+Row: 393 number=+917738098250, date=1685500694949, type=2, duration=23, name=Abhinav ⚽
+Row: 394 number=+917738098250, date=1685506946681, type=2, duration=0, name=Abhinav ⚽
+Row: 395 number=+917738098250, date=1685506963242, type=1, duration=28, name=Abhinav ⚽
+Row: 396 number=9080276386, date=1685507011633, type=2, duration=0, name=
+Row: 397 number=9080276386, date=1685507030007, type=2, duration=31, name=
+Row: 398 number=+917738098250, date=1685512525168, type=1, duration=31, name=Abhinav ⚽
+Row: 399 number=+917738098250, date=1685512666026, type=1, duration=10, name=Abhinav ⚽
+Row: 400 number=+919841759993, date=1685513260646, type=1, duration=71, name=
+Row: 401 number=+917738098250, date=1681620389911, type=1, duration=9, name=Abhinav ⚽
+Row: 402 number=+919080276386, date=1685519538713, type=3, duration=31, name=Aadthiya 🎮
+Row: 403 number=+919994239369, date=1685520724275, type=3, duration=27, name=
+Row: 404 number=+917738098250, date=1685521734266, type=2, duration=32, name=Abhinav ⚽
+Row: 405 number=+919994239369, date=1685522657497, type=2, duration=0, name=
+Row: 406 number=+919500522229, date=1685522836631, type=2, duration=135, name=Amma 👩‍👦
+Row: 407 number=9080276386, date=1685524947868, type=2, duration=68, name=
+Row: 408 number=+918921135258, date=1685528127368, type=2, duration=0, name=
+Row: 409 number=+919841759993, date=1685528446165, type=2, duration=0, name=
+Row: 410 number=+919841759993, date=1685528823372, type=1, duration=21, name=
+Row: 411 number=+919650785400, date=1685529659856, type=2, duration=14, name=
+Row: 412 number=+917738098250, date=1681620863366, type=2, duration=0, name=Abhinav ⚽
+Row: 413 number=+917738098250, date=1685535092542, type=2, duration=0, name=Abhinav ⚽
+Row: 414 number=9080276386, date=1685535248142, type=2, duration=0, name=
+Row: 415 number=+917738098250, date=1685535768538, type=1, duration=25, name=Abhinav ⚽
+Row: 416 number=9080276386, date=1685536257631, type=2, duration=0, name=
+Row: 417 number=9176968629, date=1685536298295, type=2, duration=0, name=Vibu ✏️
+Row: 418 number=+919080276386, date=1685536609259, type=1, duration=152, name=Aadthiya 🎮
+Row: 419 number=+61476384451, date=1685537434586, type=1, duration=277, name=
+Row: 420 number=+919500522229, date=1685539889115, type=1, duration=103, name=Amma 👩‍👦
+Row: 421 number=7092036331, date=1685540413709, type=2, duration=151, name=
+Row: 422 number=+918921135258, date=1685541086110, type=1, duration=12, name=
+Row: 423 number=+917738098250, date=1681620904697, type=1, duration=10, name=Abhinav ⚽
+Row: 424 number=+919994239369, date=1685542626349, type=1, duration=36, name=
+Row: 425 number=+919080276386, date=1685544695888, type=3, duration=31, name=Aadthiya 🎮
+Row: 426 number=+919080276386, date=1685544746808, type=2, duration=21, name=Aadthiya 🎮
+Row: 427 number=+919080276386, date=1685546527617, type=2, duration=39, name=Aadthiya 🎮
+Row: 428 number=+918921135258, date=1685550011394, type=2, duration=61, name=
+Row: 429 number=+918921135258, date=1685550435211, type=1, duration=30, name=
+Row: 430 number=+918921135258, date=1685552675567, type=2, duration=38, name=
+Row: 431 number=8220273849, date=1685552767951, type=2, duration=10, name=Tharun VIT
+Row: 432 number=+919750063777, date=1685553642117, type=1, duration=5, name=Shreevarsaan VIT
+Row: 433 number=+919750063777, date=1685554584661, type=2, duration=15, name=Shreevarsaan VIT
+Row: 434 number=+919080276386, date=1681624503229, type=2, duration=0, name=Aadthiya 🎮
+Row: 435 number=+918220273849, date=1685588065115, type=3, duration=34, name=
+Row: 436 number=+917738098250, date=1685591314114, type=2, duration=0, name=Abhinav ⚽
+Row: 437 number=+917738098250, date=1685591355950, type=1, duration=34, name=Abhinav ⚽
+Row: 438 number=+919750063777, date=1685593075946, type=1, duration=17, name=Shreevarsaan VIT
+Row: 439 number=+917738098250, date=1685594000430, type=2, duration=0, name=Abhinav ⚽
+Row: 440 number=+919750063777, date=1685594036371, type=2, duration=5, name=Shreevarsaan VIT
+Row: 441 number=09090232361, date=1685599571751, type=2, duration=36, name=
+Row: 442 number=+918921135258, date=1685599623582, type=2, duration=72, name=
+Row: 443 number=9080276386, date=1685599884163, type=2, duration=88, name=
+Row: 444 number=9080276386, date=1685600175773, type=2, duration=84, name=
+Row: 445 number=+917738098250, date=1681207598172, type=2, duration=14, name=Abhinav ⚽
+Row: 446 number=+919080276386, date=1681624550612, type=1, duration=29, name=Aadthiya 🎮
+Row: 447 number=+917358665743, date=1685600322970, type=2, duration=166, name=
+Row: 448 number=+919650785400, date=1685600514118, type=2, duration=48, name=
+Row: 449 number=+919445410570, date=1685600600555, type=2, duration=0, name=
+Row: 450 number=9500522229, date=1685600735983, type=2, duration=163, name=
+Row: 451 number=+917358665743, date=1685601857073, type=2, duration=75, name=
+Row: 452 number=+919650785400, date=1685602100515, type=2, duration=74, name=
+Row: 453 number=+919445410570, date=1685602844123, type=1, duration=20, name=
+Row: 454 number=+919445410570, date=1685603626896, type=2, duration=18, name=
+Row: 455 number=+917738098250, date=1685603794674, type=2, duration=4, name=Abhinav ⚽
+Row: 456 number=+918921135258, date=1685609147592, type=1, duration=182, name=
+Row: 457 number=+919500522229, date=1681624699549, type=2, duration=189, name=Amma 👩‍👦
+Row: 458 number=+919789963399, date=1685610352027, type=2, duration=39, name=
+Row: 459 number=+917358665743, date=1685610527687, type=2, duration=76, name=
+Row: 460 number=+917358665743, date=1685614900375, type=2, duration=11, name=
+Row: 461 number=7092036331, date=1685615730593, type=2, duration=13, name=
+Row: 462 number=9080276386, date=1685618520691, type=2, duration=236, name=
+Row: 463 number=8220273849, date=1685619245132, type=2, duration=0, name=Tharun VIT
+Row: 464 number=+918220273849, date=1685619271469, type=1, duration=20, name=
+Row: 465 number=+918921135258, date=1685622674641, type=3, duration=30, name=
+Row: 466 number=+918921135258, date=1685623821554, type=2, duration=104, name=
+Row: 467 number=+919841759993, date=1685624777173, type=2, duration=120, name=
+Row: 468 number=+919080276386, date=1681626610514, type=1, duration=11, name=Aadthiya 🎮
+Row: 469 number=+917358665743, date=1685624924130, type=2, duration=111, name=
+Row: 470 number=+919841759993, date=1685625046320, type=2, duration=68, name=
+Row: 471 number=+918921135258, date=1685627513003, type=1, duration=101, name=
+Row: 472 number=+917358665743, date=1685627625247, type=2, duration=51, name=
+Row: 473 number=+919080276386, date=1685627893753, type=1, duration=167, name=Aadthiya 🎮
+Row: 474 number=+919750063777, date=1685628568306, type=3, duration=34, name=Shreevarsaan VIT
+Row: 475 number=+919750063777, date=1685628664181, type=5, duration=3, name=Shreevarsaan VIT
+Row: 476 number=+919750063777, date=1685628848108, type=5, duration=2, name=Shreevarsaan VIT
+Row: 477 number=+919750063777, date=1685629227940, type=3, duration=3, name=Shreevarsaan VIT
+Row: 478 number=+917358665743, date=1685628111737, type=1, duration=1140, name=
+Row: 479 number=+919445410570, date=1681627305595, type=1, duration=69, name=
+Row: 480 number=+919750063777, date=1685629258365, type=2, duration=83, name=Shreevarsaan VIT
+Row: 481 number=9500522229, date=1685629812847, type=2, duration=146, name=
+Row: 482 number=9500522229, date=1685629985224, type=2, duration=481, name=
+Row: 483 number=+918921135258, date=1685630634271, type=1, duration=38, name=
+Row: 484 number=+919750063777, date=1685632238983, type=1, duration=7, name=Shreevarsaan VIT
+Row: 485 number=+919750063777, date=1685632469998, type=2, duration=43, name=Shreevarsaan VIT
+Row: 486 number=7092036331, date=1685634000389, type=2, duration=0, name=
+Row: 487 number=+917092036331, date=1685634480651, type=3, duration=31, name=
+Row: 488 number=+919841759993, date=1685634245376, type=2, duration=342, name=
+Row: 489 number=+917092036331, date=1685634599551, type=2, duration=91, name=
+Row: 490 number=+919445410570, date=1681629086131, type=2, duration=35, name=
+Row: 491 number=+917092036331, date=1685634898491, type=3, duration=30, name=
+Row: 492 number=+919600573555, date=1685634980698, type=3, duration=30, name=
+Row: 493 number=+919600573555, date=1685635137643, type=3, duration=15, name=
+Row: 494 number=+919600573555, date=1685635462406, type=2, duration=78, name=
+Row: 495 number=+917092036331, date=1685635557380, type=2, duration=24, name=
+Row: 496 number=+919600573555, date=1685635859761, type=3, duration=3, name=
+Row: 497 number=+919600573555, date=1685635868797, type=2, duration=9, name=
+Row: 498 number=+919600573555, date=1685635966915, type=2, duration=43, name=
+Row: 499 number=+919750063777, date=1685636691781, type=2, duration=0, name=Shreevarsaan VIT
+Row: 500 number=+918921135258, date=1685684862122, type=2, duration=0, name=
+Row: 501 number=+919445410570, date=1681631676782, type=3, duration=0, name=
+Row: 502 number=+918921135258, date=1685684866991, type=2, duration=0, name=
+Row: 503 number=+918921135258, date=1685684879037, type=2, duration=0, name=
+Row: 504 number=+918921135258, date=1685684904820, type=2, duration=0, name=
+Row: 505 number=+919750063777, date=1685684916290, type=2, duration=0, name=Shreevarsaan VIT
+Row: 506 number=+918921135258, date=1685684978023, type=2, duration=0, name=
+Row: 507 number=+918921135258, date=1685685035985, type=2, duration=0, name=
+Row: 508 number=+919750063777, date=1685685103845, type=2, duration=0, name=Shreevarsaan VIT
+Row: 509 number=+919750063777, date=1685685137319, type=2, duration=0, name=Shreevarsaan VIT
+Row: 510 number=+919750063777, date=1685685205107, type=2, duration=0, name=Shreevarsaan VIT
+Row: 511 number=+919080276386, date=1685685251140, type=2, duration=0, name=Aadthiya 🎮
+Row: 512 number=+919445410570, date=1681631757932, type=2, duration=52, name=
+Row: 513 number=+919080276386, date=1685685338025, type=2, duration=0, name=Aadthiya 🎮
+Row: 514 number=+919080276386, date=1685685416055, type=2, duration=0, name=Aadthiya 🎮
+Row: 515 number=+919080276386, date=1685685541533, type=2, duration=0, name=Aadthiya 🎮
+Row: 516 number=+919080276386, date=1685685943751, type=2, duration=0, name=Aadthiya 🎮
+Row: 517 number=+919080276386, date=1685686456066, type=2, duration=0, name=Aadthiya 🎮
+Row: 518 number=+919080276386, date=1685686462512, type=2, duration=0, name=Aadthiya 🎮
+Row: 519 number=+919080276386, date=1685686543186, type=2, duration=0, name=Aadthiya 🎮
+Row: 520 number=+917092036331, date=1685687223040, type=2, duration=0, name=
+Row: 521 number=+919080276386, date=1685688218742, type=2, duration=0, name=Aadthiya 🎮
+Row: 522 number=+918921135258, date=1685695457979, type=2, duration=0, name=
+Row: 523 number=+919445410570, date=1681640247019, type=1, duration=17, name=
+Row: 524 number=+918921135258, date=1685695487269, type=2, duration=0, name=
+Row: 525 number=+918921135258, date=1685695550645, type=2, duration=0, name=
+Row: 526 number=+918921135258, date=1685695902494, type=2, duration=0, name=
+Row: 527 number=+918921135258, date=1685696049867, type=2, duration=0, name=
+Row: 528 number=+918921135258, date=1685696524390, type=2, duration=0, name=
+Row: 529 number=+919080276386, date=1685697327683, type=2, duration=0, name=Aadthiya 🎮
+Row: 530 number=+919080276386, date=1685697342824, type=2, duration=0, name=Aadthiya 🎮
+Row: 531 number=+919080276386, date=1685697573355, type=2, duration=0, name=Aadthiya 🎮
+Row: 532 number=+919080276386, date=1685697580424, type=2, duration=0, name=Aadthiya 🎮
+Row: 533 number=+919080276386, date=1685697598654, type=2, duration=0, name=Aadthiya 🎮
+Row: 534 number=+919080276386, date=1681644138498, type=2, duration=0, name=Aadthiya 🎮
+Row: 535 number=+919080276386, date=1685697640284, type=2, duration=0, name=Aadthiya 🎮
+Row: 536 number=+919080276386, date=1685697852467, type=2, duration=0, name=Aadthiya 🎮
+Row: 537 number=+919600573555, date=1685697908369, type=2, duration=0, name=
+Row: 538 number=+919080276386, date=1685697968249, type=2, duration=0, name=Aadthiya 🎮
+Row: 539 number=+919080276386, date=1685698008338, type=2, duration=0, name=Aadthiya 🎮
+Row: 540 number=+919080276386, date=1685698262073, type=2, duration=0, name=Aadthiya 🎮
+Row: 541 number=+919080276386, date=1685698529430, type=2, duration=0, name=Aadthiya 🎮
+Row: 542 number=+919080276386, date=1685698538098, type=2, duration=0, name=Aadthiya 🎮
+Row: 543 number=+919080276386, date=1685698816142, type=2, duration=0, name=Aadthiya 🎮
+Row: 544 number=+919080276386, date=1685698825551, type=2, duration=0, name=Aadthiya 🎮
+Row: 545 number=+919080276386, date=1681644209485, type=1, duration=119, name=Aadthiya 🎮
+Row: 546 number=+919600573555, date=1685700188628, type=2, duration=0, name=
+Row: 547 number=09810012345, date=1685701129937, type=2, duration=0, name=
+Row: 548 number=+919080276386, date=1685708236644, type=2, duration=0, name=Aadthiya 🎮
+Row: 549 number=+919841759993, date=1685722499492, type=2, duration=0, name=
+Row: 550 number=+917738098250, date=1685774011461, type=2, duration=0, name=Abhinav ⚽
+Row: 551 number=+919080276386, date=1685800613920, type=2, duration=0, name=Aadthiya 🎮
+Row: 552 number=+919080276386, date=1685800773182, type=2, duration=0, name=Aadthiya 🎮
+Row: 553 number=+919080276386, date=1685801144059, type=2, duration=66, name=Aadthiya 🎮
+Row: 554 number=+918921135258, date=1685801879224, type=3, duration=7, name=
+Row: 555 number=+919600573555, date=1685801225766, type=2, duration=832, name=
+Row: 556 number=+919080276386, date=1681215049136, type=2, duration=0, name=Aadthiya 🎮
+Row: 557 number=+919080276386, date=1681645953733, type=1, duration=13, name=Aadthiya 🎮
+Row: 558 number=+918921135258, date=1685802085144, type=2, duration=160, name=
+Row: 559 number=+919750063777, date=1685810317252, type=2, duration=9, name=Shreevarsaan VIT
+Row: 560 number=+919080276386, date=1685810406765, type=1, duration=9, name=Aadthiya 🎮
+Row: 561 number=+919080276386, date=1685810943847, type=1, duration=8, name=Aadthiya 🎮
+Row: 562 number=155223, date=1685812402071, type=2, duration=8, name=
+Row: 563 number=+918220273849, date=1685812505091, type=1, duration=28, name=
+Row: 564 number=+919750063777, date=1685813689493, type=1, duration=9, name=Shreevarsaan VIT
+Row: 565 number=+919750063777, date=1685852193220, type=2, duration=18, name=Shreevarsaan VIT
+Row: 566 number=+919750063777, date=1685854182814, type=2, duration=29, name=Shreevarsaan VIT
+Row: 567 number=9500522229, date=1685855412004, type=2, duration=64, name=
+Row: 568 number=+919080276386, date=1681647829848, type=2, duration=6, name=Aadthiya 🎮
+Row: 569 number=+918681047129, date=1685855693820, type=1, duration=22, name=
+Row: 570 number=9500522229, date=1685856020259, type=2, duration=296, name=
+Row: 571 number=+918220273849, date=1685856776059, type=2, duration=16, name=
+Row: 572 number=+919750063777, date=1685857647714, type=1, duration=7, name=Shreevarsaan VIT
+Row: 573 number=+919750063777, date=1685857722287, type=1, duration=0, name=Shreevarsaan VIT
+Row: 574 number=+919750063777, date=1685857742919, type=1, duration=27, name=Shreevarsaan VIT
+Row: 575 number=9524404333, date=1685858108214, type=2, duration=0, name=Siva VIT
+Row: 576 number=+919445410570, date=1685862501034, type=2, duration=76, name=
+Row: 577 number=+919445410570, date=1685862623360, type=1, duration=24, name=
+Row: 578 number=+919445410570, date=1685872293994, type=3, duration=16, name=
+Row: 579 number=+919445410570, date=1681651497665, type=1, duration=148, name=
+Row: 580 number=+919080276386, date=1685881369111, type=2, duration=0, name=Aadthiya 🎮
+Row: 581 number=9500522229, date=1685882186038, type=2, duration=556, name=
+Row: 582 number=+919080276386, date=1685890227938, type=1, duration=221, name=Aadthiya 🎮
+Row: 583 number=+919445410570, date=1685900304677, type=3, duration=22, name=
+Row: 584 number=+919080276386, date=1685900467938, type=3, duration=33, name=Aadthiya 🎮
+Row: 585 number=+919080276386, date=1685900590271, type=2, duration=20, name=Aadthiya 🎮
+Row: 586 number=+919080276386, date=1685906098987, type=2, duration=22, name=Aadthiya 🎮
+Row: 587 number=+919080276386, date=1685906141357, type=2, duration=0, name=Aadthiya 🎮
+Row: 588 number=+919080276386, date=1685906183399, type=2, duration=290, name=Aadthiya 🎮
+Row: 589 number=+919080276386, date=1685943654059, type=2, duration=0, name=Aadthiya 🎮
+Row: 590 number=+919445410570, date=1681653119698, type=3, duration=0, name=
+Row: 591 number=+919445410570, date=1685943696596, type=2, duration=9, name=
+Row: 592 number=+919080276386, date=1685945713064, type=2, duration=0, name=Aadthiya 🎮
+Row: 593 number=+919080276386, date=1685945775602, type=2, duration=21, name=Aadthiya 🎮
+Row: 594 number=+919080276386, date=1685946520247, type=2, duration=0, name=Aadthiya 🎮
+Row: 595 number=+919080276386, date=1685946573632, type=1, duration=165, name=Aadthiya 🎮
+Row: 596 number=+919080276386, date=1685953616974, type=2, duration=4, name=Aadthiya 🎮
+Row: 597 number=+919080276386, date=1685953633850, type=2, duration=12, name=Aadthiya 🎮
+Row: 598 number=+919080276386, date=1685954109732, type=2, duration=27, name=Aadthiya 🎮
+Row: 599 number=+919445410570, date=1685954197385, type=2, duration=33, name=
+Row: 600 number=+919445410570, date=1685954347147, type=3, duration=7, name=
+Row: 601 number=+919080276386, date=1681655656521, type=2, duration=0, name=Aadthiya 🎮
+Row: 602 number=+919080276386, date=1685954546055, type=2, duration=24, name=Aadthiya 🎮
+Row: 603 number=+917738098250, date=1685954728841, type=2, duration=13, name=Abhinav ⚽
+Row: 604 number=+919080276386, date=1685966127097, type=1, duration=13, name=Aadthiya 🎮
+Row: 605 number=9500522229, date=1685967848286, type=2, duration=134, name=
+Row: 606 number=+917738098250, date=1685973058104, type=2, duration=10, name=Abhinav ⚽
+Row: 607 number=+917448500929, date=1685973708982, type=1, duration=120, name=
+Row: 608 number=+919080276386, date=1685974165324, type=2, duration=0, name=Aadthiya 🎮
+Row: 609 number=+919080276386, date=1685977464835, type=2, duration=8, name=Aadthiya 🎮
+Row: 610 number=+919080276386, date=1685978043665, type=2, duration=5, name=Aadthiya 🎮
+Row: 611 number=+919445410570, date=1685979311176, type=3, duration=26, name=
+Row: 612 number=+919080276386, date=1681655850827, type=2, duration=0, name=Aadthiya 🎮
+Row: 613 number=+919445410570, date=1685980959286, type=2, duration=0, name=
+Row: 614 number=+919445410570, date=1685982342620, type=1, duration=942, name=
+Row: 615 number=+919080276386, date=1685984283232, type=2, duration=0, name=Aadthiya 🎮
+Row: 616 number=+919677372245, date=1685984326683, type=2, duration=9, name=
+Row: 617 number=+918921135258, date=1685985288739, type=1, duration=81, name=
+Row: 618 number=+919445410570, date=1685989749727, type=2, duration=0, name=
+Row: 619 number=+919445410570, date=1685990296113, type=1, duration=63, name=
+Row: 620 number=+919994239369, date=1686030412176, type=3, duration=18, name=
+Row: 621 number=+919445410570, date=1686030461041, type=5, duration=15, name=
+Row: 622 number=+919445410570, date=1686031338765, type=2, duration=35, name=
+Row: 623 number=09266292666, date=1681662152742, type=2, duration=0, name=Karur vysa bank Balance
+Row: 624 number=+919080276386, date=1686031478918, type=2, duration=26, name=Aadthiya 🎮
+Row: 625 number=+919080276386, date=1686032189267, type=2, duration=140, name=Aadthiya 🎮
+Row: 626 number=+919080276386, date=1686036633884, type=2, duration=20, name=Aadthiya 🎮
+Row: 627 number=+917708470667, date=1686037095008, type=2, duration=6, name=
+Row: 628 number=+918248851706, date=1686037635019, type=2, duration=11, name=
+Row: 629 number=+917738098250, date=1686037692328, type=2, duration=49, name=Abhinav ⚽
+Row: 630 number=+919445410570, date=1686040699808, type=2, duration=0, name=
+Row: 631 number=+916382464930, date=1686053075190, type=1, duration=13, name=
+Row: 632 number=+916382464930, date=1686053886843, type=1, duration=6, name=
+Row: 633 number=+916382464930, date=1686054060299, type=2, duration=3, name=
+Row: 634 number=+919080276386, date=1681666032107, type=1, duration=22, name=Aadthiya 🎮
+Row: 635 number=+919750063777, date=1686055014376, type=2, duration=9, name=Shreevarsaan VIT
+Row: 636 number=+919750063777, date=1686056685139, type=2, duration=0, name=Shreevarsaan VIT
+Row: 637 number=+919445410570, date=1686070699396, type=2, duration=0, name=
+Row: 638 number=8220273849, date=1686077177285, type=2, duration=11, name=Tharun VIT
+Row: 639 number=+918220273849, date=1686077232362, type=1, duration=37, name=
+Row: 640 number=+919445410570, date=1686078920851, type=2, duration=14, name=
+Row: 641 number=+917738098250, date=1686104438114, type=2, duration=0, name=Abhinav ⚽
+Row: 642 number=+917738098250, date=1686104745598, type=1, duration=36, name=Abhinav ⚽
+Row: 643 number=+919750063777, date=1686105744169, type=2, duration=22, name=Shreevarsaan VIT
+Row: 644 number=9500522229, date=1686112486926, type=2, duration=574, name=
+Row: 645 number=9080276386, date=1681670623400, type=2, duration=32, name=
+Row: 646 number=+919445410570, date=1686116258998, type=1, duration=24, name=
+Row: 647 number=+919445410570, date=1686117474454, type=2, duration=11, name=
+Row: 648 number=+919080276386, date=1686118253195, type=1, duration=12, name=Aadthiya 🎮
+Row: 649 number=+919080276386, date=1686118282717, type=2, duration=0, name=Aadthiya 🎮
+Row: 650 number=+919080276386, date=1686118293490, type=1, duration=17, name=Aadthiya 🎮
+Row: 651 number=+919080276386, date=1686118544710, type=2, duration=13, name=Aadthiya 🎮
+Row: 652 number=+919080276386, date=1686118629283, type=3, duration=11, name=Aadthiya 🎮
+Row: 653 number=+919080276386, date=1686119815158, type=2, duration=2, name=Aadthiya 🎮
+Row: 654 number=+919080276386, date=1686120396167, type=1, duration=11, name=Aadthiya 🎮
+Row: 655 number=+918240983702, date=1686127039334, type=1, duration=25, name=
+Row: 656 number=+919080276386, date=1681670811280, type=1, duration=11, name=Aadthiya 🎮
+Row: 657 number=+916369675465, date=1686129854504, type=1, duration=19, name=Vibu ✏️
+Row: 658 number=+919750063777, date=1686130021759, type=2, duration=27, name=Shreevarsaan VIT
+Row: 659 number=+919080276386, date=1686130101571, type=2, duration=13, name=Aadthiya 🎮
+Row: 660 number=+917738098250, date=1686130148110, type=2, duration=24, name=Abhinav ⚽
+Row: 661 number=+919080276386, date=1686139253532, type=3, duration=17, name=Aadthiya 🎮
+Row: 662 number=+919080276386, date=1686139402564, type=2, duration=0, name=Aadthiya 🎮
+Row: 663 number=+919080276386, date=1686139471949, type=1, duration=55, name=Aadthiya 🎮
+Row: 664 number=+919994239369, date=1686141437887, type=1, duration=17, name=
+Row: 665 number=+919176968629, date=1686141703805, type=1, duration=23, name=
+Row: 666 number=+918220273849, date=1686142103350, type=1, duration=45, name=
+Row: 667 number=+917738098250, date=1681218709913, type=2, duration=16, name=Abhinav ⚽
+Row: 668 number=+919500522229, date=1681696879099, type=2, duration=25, name=Amma 👩‍👦
+Row: 669 number=+919176968629, date=1686144216739, type=1, duration=7, name=
+Row: 670 number=+919600573555, date=1686146084384, type=1, duration=5, name=
+Row: 671 number=7092036331, date=1686147623478, type=2, duration=0, name=
+Row: 672 number=7092036331, date=1686147676869, type=2, duration=0, name=
+Row: 673 number=+917092036331, date=1686147711051, type=1, duration=50, name=
+Row: 674 number=6384880131, date=1686151425949, type=2, duration=0, name=
+Row: 675 number=+918667781305, date=1686151439754, type=2, duration=0, name=
+Row: 676 number=+919176968629, date=1686152137131, type=2, duration=0, name=
+Row: 677 number=+919445410570, date=1686152192459, type=2, duration=0, name=
+Row: 678 number=+919176968629, date=1686152371475, type=1, duration=24, name=
+Row: 679 number=+917738098250, date=1681698347291, type=2, duration=136, name=Abhinav ⚽
+Row: 680 number=+918667781305, date=1686152519074, type=5, duration=15, name=
+Row: 681 number=+919445410570, date=1686156547446, type=1, duration=426, name=
+Row: 682 number=+919080276386, date=1686163844206, type=2, duration=0, name=Aadthiya 🎮
+Row: 683 number=+917738098250, date=1686197797412, type=2, duration=16, name=Abhinav ⚽
+Row: 684 number=+919750063777, date=1686197826735, type=2, duration=16, name=Shreevarsaan VIT
+Row: 685 number=9500522229, date=1686204799693, type=2, duration=25, name=
+Row: 686 number=+919600573555, date=1686204843731, type=2, duration=147, name=
+Row: 687 number=+917738098250, date=1686213234774, type=2, duration=15, name=Abhinav ⚽
+Row: 688 number=9524404333, date=1686213275625, type=2, duration=0, name=Siva VIT
+Row: 689 number=+919176968629, date=1686216290404, type=2, duration=9, name=
+Row: 690 number=+919524404333, date=1681702367120, type=1, duration=15, name=
+Row: 691 number=+919080276386, date=1686223119904, type=2, duration=0, name=Aadthiya 🎮
+Row: 692 number=+919080276386, date=1686237257036, type=2, duration=0, name=Aadthiya 🎮
+Row: 693 number=+918921135258, date=1686238748252, type=3, duration=5, name=
+Row: 694 number=+919080276386, date=1686238178550, type=1, duration=854, name=Aadthiya 🎮
+Row: 695 number=+918921135258, date=1686239038887, type=2, duration=157, name=
+Row: 696 number=+919176968629, date=1686240168443, type=3, duration=10, name=
+Row: 697 number=+918921135258, date=1686240537885, type=1, duration=12, name=
+Row: 698 number=+919445410570, date=1686246931467, type=3, duration=34, name=
+Row: 699 number=+916374725831, date=1686253922852, type=2, duration=0, name=
+Row: 700 number=+918220273849, date=1686253977248, type=3, duration=1, name=
+Row: 701 number=+919524404333, date=1681702830061, type=2, duration=2, name=
+Row: 702 number=+919080276386, date=1686290022578, type=2, duration=0, name=Aadthiya 🎮
+Row: 703 number=9500522229, date=1686290971105, type=2, duration=616, name=
+Row: 704 number=+919176968629, date=1686302443247, type=2, duration=5, name=
+Row: 705 number=+919080276386, date=1686313800986, type=2, duration=0, name=Aadthiya 🎮
+Row: 706 number=+919080276386, date=1686320825312, type=2, duration=0, name=Aadthiya 🎮
+Row: 707 number=9500522229, date=1686321158737, type=2, duration=0, name=
+Row: 708 number=+918921135258, date=1686328086893, type=2, duration=0, name=
+Row: 709 number=+918921135258, date=1686328156786, type=1, duration=258, name=
+Row: 710 number=9500522229, date=1686373670138, type=2, duration=264, name=
+Row: 711 number=+917358665743, date=1686378497398, type=1, duration=149, name=
+Row: 712 number=+919524404333, date=1681702845324, type=2, duration=0, name=
+Row: 713 number=+917548893717, date=1686386187328, type=3, duration=34, name=
+Row: 714 number=+916380205363, date=1686397829888, type=1, duration=14, name=
+Row: 715 number=+919080276386, date=1686398544152, type=2, duration=115, name=Aadthiya 🎮
+Row: 716 number=4461710444, date=1686398848838, type=2, duration=0, name=
+Row: 717 number=4461710444, date=1686398866572, type=2, duration=0, name=
+Row: 718 number=914461710444, date=1686398881895, type=2, duration=0, name=
+Row: 719 number=+919080276386, date=1686399404277, type=2, duration=0, name=Aadthiya 🎮
+Row: 720 number=+919080276386, date=1686399510084, type=1, duration=18, name=Aadthiya 🎮
+Row: 721 number=+914461710444, date=1686399558819, type=2, duration=39, name=
+Row: 722 number=+919080276386, date=1686409025211, type=2, duration=0, name=Aadthiya 🎮
+Row: 723 number=+919524404333, date=1681702845043, type=1, duration=12, name=
+Row: 724 number=+919080276386, date=1686409892791, type=1, duration=21, name=Aadthiya 🎮
+Row: 725 number=+919994239369, date=1686411730176, type=1, duration=27, name=
+Row: 726 number=+919600573555, date=1686414765729, type=1, duration=12, name=
+Row: 727 number=+919600573555, date=1686414811161, type=1, duration=414, name=
+Row: 728 number=+919600573555, date=1686415258952, type=2, duration=1004, name=
+Row: 729 number=9500522229, date=1686417976729, type=2, duration=141, name=
+Row: 730 number=+919080276386, date=1686418173423, type=2, duration=42, name=Aadthiya 🎮
+Row: 731 number=+914214227594, date=1686458086640, type=3, duration=34, name=
+Row: 732 number=+61476384451, date=1686459214983, type=2, duration=0, name=
+Row: 733 number=9080276386, date=1686463964302, type=2, duration=0, name=
+Row: 734 number=+919080276386, date=1681715705610, type=3, duration=0, name=Aadthiya 🎮
+Row: 735 number=7092036331, date=1686464169682, type=2, duration=168, name=
+Row: 736 number=9080276386, date=1686464360038, type=2, duration=78, name=
+Row: 737 number=+917092036331, date=1686464938903, type=1, duration=91, name=
+Row: 738 number=+917092036331, date=1686465841748, type=2, duration=0, name=
+Row: 739 number=+917092036331, date=1686465865695, type=2, duration=0, name=
+Row: 740 number=9080276386, date=1686465905613, type=2, duration=76, name=
+Row: 741 number=+919080276386, date=1686466046748, type=1, duration=105, name=Aadthiya 🎮
+Row: 742 number=+919080276386, date=1686466306672, type=1, duration=230, name=Aadthiya 🎮
+Row: 743 number=+919080276386, date=1686467753862, type=2, duration=0, name=Aadthiya 🎮
+Row: 744 number=+919080276386, date=1686484031803, type=2, duration=112, name=Aadthiya 🎮
+Row: 745 number=+919080276386, date=1681715783124, type=2, duration=25, name=Aadthiya 🎮
+Row: 746 number=+919080276386, date=1686494687704, type=2, duration=93, name=Aadthiya 🎮
+Row: 747 number=+918921135258, date=1686500628380, type=2, duration=37, name=
+Row: 748 number=+919080276386, date=1686509744128, type=2, duration=0, name=Aadthiya 🎮
+Row: 749 number=+919080276386, date=1686513805676, type=2, duration=245, name=Aadthiya 🎮
+Row: 750 number=+919994239369, date=1686544646740, type=3, duration=31, name=
+Row: 751 number=+919994239369, date=1686544738501, type=2, duration=0, name=
+Row: 752 number=+919994239369, date=1686544755041, type=1, duration=12, name=
+Row: 753 number=+919994239369, date=1686558023906, type=2, duration=7, name=
+Row: 754 number=+919080276386, date=1686559152719, type=2, duration=29, name=Aadthiya 🎮
+Row: 755 number=9080276386, date=1686570973082, type=2, duration=26, name=
+Row: 756 number=+919080276386, date=1681716084911, type=2, duration=12, name=Aadthiya 🎮
+Row: 757 number=9080276386, date=1686571867493, type=2, duration=0, name=
+Row: 758 number=9176968629, date=1686571919927, type=2, duration=8, name=Vibu ✏️
+Row: 759 number=+919600573555, date=1686571948461, type=2, duration=99, name=
+Row: 760 number=+917092036331, date=1686572065320, type=2, duration=0, name=
+Row: 761 number=9080276386, date=1686572074351, type=2, duration=0, name=
+Row: 762 number=9500522229, date=1686572116688, type=2, duration=80, name=
+Row: 763 number=+917092036331, date=1686572242047, type=3, duration=13, name=
+Row: 764 number=+919080276386, date=1686572205866, type=1, duration=48, name=Aadthiya 🎮
+Row: 765 number=+917092036331, date=1686572266210, type=2, duration=0, name=
+Row: 766 number=+919150270065, date=1686572699696, type=1, duration=60, name=
+Row: 767 number=9500522229, date=1681717479869, type=2, duration=560, name=
+Row: 768 number=8807213479, date=1686575577708, type=2, duration=0, name=
+Row: 769 number=8807213479, date=1686575623337, type=2, duration=0, name=
+Row: 770 number=+919080276386, date=1686576875339, type=2, duration=426, name=Aadthiya 🎮
+Row: 771 number=+918220273849, date=1686577968705, type=1, duration=29, name=
+Row: 772 number=+919445410570, date=1686579623336, type=5, duration=3, name=
+Row: 773 number=+919445410570, date=1686579676018, type=5, duration=3, name=
+Row: 774 number=+919080276386, date=1686582185926, type=2, duration=18, name=Aadthiya 🎮
+Row: 775 number=+919080276386, date=1686582506366, type=2, duration=8, name=Aadthiya 🎮
+Row: 776 number=+919080276386, date=1686582844139, type=2, duration=22, name=Aadthiya 🎮
+Row: 777 number=+919994239369, date=1686588552291, type=1, duration=23, name=
+Row: 778 number=+917738098250, date=1681219134765, type=2, duration=105, name=Abhinav ⚽
+Row: 779 number=+919080276386, date=1681718038938, type=1, duration=9, name=Aadthiya 🎮
+Row: 780 number=+919841759993, date=1686590548231, type=2, duration=0, name=
+Row: 781 number=+917358665743, date=1686590784038, type=2, duration=108, name=
+Row: 782 number=9994239369, date=1686590938420, type=2, duration=6, name=
+Row: 783 number=9500522229, date=1686591307186, type=2, duration=31, name=
+Row: 784 number=+919994239369, date=1686591455896, type=1, duration=16, name=
+Row: 785 number=9080276386, date=1686595353145, type=2, duration=0, name=
+Row: 786 number=9080276386, date=1686599954040, type=2, duration=437, name=
+Row: 787 number=9080276386, date=1686601207752, type=2, duration=1207, name=
+Row: 788 number=+917738098250, date=1686630448425, type=2, duration=14, name=Abhinav ⚽
+Row: 789 number=9080276386, date=1686637162373, type=2, duration=4, name=
+Row: 790 number=+918122504285, date=1681720744475, type=3, duration=0, name=
+Row: 791 number=+919080276386, date=1686637240175, type=1, duration=24, name=Aadthiya 🎮
+Row: 792 number=9500522229, date=1686637947588, type=2, duration=481, name=
+Row: 793 number=+919003548309, date=1686643262168, type=1, duration=218, name=
+Row: 794 number=+919003548309, date=1686643516119, type=1, duration=31, name=
+Row: 795 number=9500522229, date=1686655818953, type=2, duration=25, name=
+Row: 796 number=8870364842, date=1686657331545, type=2, duration=29, name=
+Row: 797 number=+919003104295, date=1686657858654, type=1, duration=15, name=
+Row: 798 number=+919080276386, date=1686657884582, type=2, duration=14, name=Aadthiya 🎮
+Row: 799 number=+919003104295, date=1686658223993, type=1, duration=14, name=
+Row: 800 number=8071967886, date=1686658824659, type=2, duration=0, name=
+Row: 801 number=+919500522229, date=1681721785596, type=1, duration=231, name=Amma 👩‍👦
+Row: 802 number=9916397714, date=1686659949969, type=2, duration=0, name=
+Row: 803 number=+918220273849, date=1686659990549, type=1, duration=9, name=
+Row: 804 number=9500522229, date=1686660656982, type=2, duration=12, name=
+Row: 805 number=+919080276386, date=1686667550094, type=5, duration=3, name=Aadthiya 🎮
+Row: 806 number=+919080276386, date=1686667796090, type=2, duration=10, name=Aadthiya 🎮
+Row: 807 number=+919080276386, date=1686668990845, type=2, duration=31, name=Aadthiya 🎮
+Row: 808 number=+919500522229, date=1686671110006, type=1, duration=142, name=Amma 👩‍👦
+Row: 809 number=+919841759993, date=1686672690434, type=1, duration=198, name=
+Row: 810 number=+919080276386, date=1686674477335, type=2, duration=0, name=Aadthiya 🎮
+Row: 811 number=7092036331, date=1686674515375, type=2, duration=0, name=
+Row: 812 number=+919500522229, date=1681722040028, type=1, duration=168, name=Amma 👩‍👦
+Row: 813 number=+919080276386, date=1686674541009, type=1, duration=28, name=Aadthiya 🎮
+Row: 814 number=+919080276386, date=1686675819022, type=2, duration=0, name=Aadthiya 🎮
+Row: 815 number=+919080276386, date=1686676381372, type=1, duration=10, name=Aadthiya 🎮
+Row: 816 number=+917092036331, date=1686686752022, type=1, duration=34, name=
+Row: 817 number=+919500522229, date=1686706176091, type=3, duration=32, name=Amma 👩‍👦
+Row: 818 number=+919500522229, date=1686706239359, type=2, duration=55, name=Amma 👩‍👦
+Row: 819 number=+919487506725, date=1686707848577, type=1, duration=131, name=
+Row: 820 number=+917738098250, date=1686709967099, type=2, duration=8, name=Abhinav ⚽
+Row: 821 number=+917738098250, date=1686709984014, type=2, duration=5, name=Abhinav ⚽
+Row: 822 number=+917738098250, date=1686710499419, type=3, duration=30, name=Abhinav ⚽
+Row: 823 number=+919514908999, date=1681726707708, type=1, duration=12, name=
+Row: 824 number=+919600573555, date=1686716657282, type=3, duration=2, name=
+Row: 825 number=+919600573555, date=1686716735027, type=2, duration=0, name=
+Row: 826 number=+919600573555, date=1686716740452, type=2, duration=25, name=
+Row: 827 number=+919600573555, date=1686716776532, type=2, duration=35, name=
+Row: 828 number=+919080276386, date=1686719242218, type=2, duration=201, name=Aadthiya 🎮
+Row: 829 number=+919080276386, date=1686720235939, type=2, duration=17, name=Aadthiya 🎮
+Row: 830 number=+917418842722, date=1686720717212, type=1, duration=19, name=
+Row: 831 number=+917708470667, date=1686720759831, type=1, duration=7, name=
+Row: 832 number=+917738098250, date=1686721181595, type=2, duration=22, name=Abhinav ⚽
+Row: 833 number=7092036331, date=1686726564906, type=2, duration=67, name=
+Row: 834 number=+919524404333, date=1681730496471, type=2, duration=100, name=
+Row: 835 number=+918667781305, date=1686728293374, type=1, duration=4, name=
+Row: 836 number=+918667781305, date=1686728306759, type=2, duration=11, name=
+Row: 837 number=+919445410570, date=1686729730641, type=2, duration=3, name=
+Row: 838 number=+919080276386, date=1686732798387, type=1, duration=4, name=Aadthiya 🎮
+Row: 839 number=+61476384451, date=1686735071932, type=1, duration=105, name=
+Row: 840 number=+917738098250, date=1686738252485, type=2, duration=0, name=Abhinav ⚽
+Row: 841 number=+917738098250, date=1686738259925, type=2, duration=0, name=Abhinav ⚽
+Row: 842 number=+919080276386, date=1686744440480, type=1, duration=60, name=Aadthiya 🎮
+Row: 843 number=+917358665743, date=1686744517677, type=2, duration=34, name=
+Row: 844 number=+916381977496, date=1686744605803, type=2, duration=0, name=
+Row: 845 number=+919524404333, date=1681730854992, type=2, duration=18, name=
+Row: 846 number=+919080276386, date=1686744661782, type=2, duration=0, name=Aadthiya 🎮
+Row: 847 number=+919080276386, date=1686744702775, type=1, duration=14, name=Aadthiya 🎮
+Row: 848 number=+916381977496, date=1686745222232, type=2, duration=0, name=
+Row: 849 number=+918921135258, date=1686745346286, type=2, duration=0, name=
+Row: 850 number=+917358665743, date=1686746358231, type=2, duration=0, name=
+Row: 851 number=+917358665743, date=1686746551418, type=1, duration=43, name=
+Row: 852 number=+918921135258, date=1686747562281, type=3, duration=30, name=
+Row: 853 number=+918072285202, date=1686750800755, type=2, duration=0, name=Ezhil👨‍💻
+Row: 854 number=+917448500929, date=1686750866606, type=1, duration=20, name=
+Row: 855 number=+918921135258, date=1686752071451, type=2, duration=55, name=
+Row: 856 number=+919080276386, date=1681732400042, type=2, duration=36, name=Aadthiya 🎮
+Row: 857 number=+917418842722, date=1686753034603, type=2, duration=0, name=
+Row: 858 number=04445506264, date=1686753933845, type=2, duration=0, name=
+Row: 859 number=04445506264, date=1686753988245, type=2, duration=0, name=
+Row: 860 number=04445506264, date=1686754004049, type=2, duration=0, name=
+Row: 861 number=01414938885, date=1686754022810, type=2, duration=1, name=
+Row: 862 number=01414938885, date=1686754035774, type=2, duration=75, name=
+Row: 863 number=04445506264, date=1686754128890, type=2, duration=0, name=
+Row: 864 number=07823900042, date=1686754293335, type=2, duration=0, name=
+Row: 865 number=+919962585566, date=1686754412246, type=1, duration=23, name=
+Row: 866 number=7092036331, date=1686754677586, type=2, duration=24, name=
+Row: 867 number=+919750063777, date=1681733138033, type=1, duration=140, name=Shreevarsaan VIT
+Row: 868 number=+917418842722, date=1686754717045, type=2, duration=0, name=
+Row: 869 number=01414938885, date=1686754959456, type=2, duration=41, name=
+Row: 870 number=+917708470667, date=1686755024509, type=2, duration=0, name=
+Row: 871 number=+919385621741, date=1686755070331, type=1, duration=39, name=
+Row: 872 number=+917092036331, date=1686755303804, type=1, duration=27, name=
+Row: 873 number=+919750063777, date=1686755516471, type=1, duration=43, name=Shreevarsaan VIT
+Row: 874 number=+917358665743, date=1686755853187, type=1, duration=39, name=
+Row: 875 number=01414938885, date=1686755936710, type=2, duration=55, name=
+Row: 876 number=+919080276386, date=1686756131452, type=1, duration=20, name=Aadthiya 🎮
+Row: 877 number=01414938885, date=1686756213724, type=2, duration=97, name=
+Row: 878 number=+919080276386, date=1681734295101, type=1, duration=22, name=Aadthiya 🎮
+Row: 879 number=+918248851706, date=1686758732962, type=2, duration=10, name=
+Row: 880 number=9500522229, date=1686758802308, type=2, duration=191, name=
+Row: 881 number=9080276386, date=1686759430699, type=2, duration=0, name=
+Row: 882 number=+917738098250, date=1686760193392, type=2, duration=0, name=Abhinav ⚽
+Row: 883 number=+918248851706, date=1686760343083, type=2, duration=0, name=
+Row: 884 number=9176968629, date=1686760413289, type=2, duration=19, name=Vibu ✏️
+Row: 885 number=9080276386, date=1686760607442, type=2, duration=153, name=
+Row: 886 number=+919445410570, date=1686760816123, type=1, duration=167, name=
+Row: 887 number=+917738098250, date=1686761054903, type=2, duration=0, name=Abhinav ⚽
+Row: 888 number=+917738098250, date=1686761195278, type=1, duration=84, name=Abhinav ⚽
+Row: 889 number=+917708470667, date=1681220198934, type=3, duration=0, name=
+Row: 890 number=+919080276386, date=1681736811475, type=2, duration=0, name=Aadthiya 🎮
+Row: 891 number=9080276386, date=1686770586916, type=2, duration=3, name=
+Row: 892 number=9080276386, date=1686770613684, type=2, duration=32, name=
+Row: 893 number=+919742201585, date=1686793087701, type=3, duration=18, name=
+Row: 894 number=+919750063777, date=1686797140074, type=2, duration=9, name=Shreevarsaan VIT
+Row: 895 number=+919750063777, date=1686798874434, type=2, duration=0, name=Shreevarsaan VIT
+Row: 896 number=+917738098250, date=1686799484297, type=2, duration=0, name=Abhinav ⚽
+Row: 897 number=+917738098250, date=1686800012914, type=1, duration=29, name=Abhinav ⚽
+Row: 898 number=+917738098250, date=1686800179210, type=1, duration=26, name=Abhinav ⚽
+Row: 899 number=+917738098250, date=1686800679826, type=1, duration=8, name=Abhinav ⚽
+Row: 900 number=9080276386, date=1686813122989, type=2, duration=612, name=
+Row: 901 number=+919080276386, date=1681740122320, type=2, duration=52, name=Aadthiya 🎮
+Row: 902 number=+919750063777, date=1686818940321, type=2, duration=16, name=Shreevarsaan VIT
+Row: 903 number=+919750063777, date=1686819453573, type=1, duration=29, name=Shreevarsaan VIT
+Row: 904 number=9500522229, date=1686828940271, type=2, duration=176, name=
+Row: 905 number=9080276386, date=1686829238836, type=2, duration=0, name=
+Row: 906 number=+919080276386, date=1686830167343, type=1, duration=29, name=Aadthiya 🎮
+Row: 907 number=+918921135258, date=1686834668785, type=1, duration=172, name=
+Row: 908 number=+918921135258, date=1686841631789, type=3, duration=24, name=
+Row: 909 number=+918921135258, date=1686841821091, type=2, duration=46, name=
+Row: 910 number=8220273849, date=1686842159985, type=2, duration=50, name=Tharun VIT
+Row: 911 number=+919500522229, date=1686842338576, type=3, duration=28, name=Amma 👩‍👦
+Row: 912 number=+919500522229, date=1681743418346, type=2, duration=64, name=Amma 👩‍👦
+Row: 913 number=+919500522229, date=1686842369761, type=2, duration=6, name=Amma 👩‍👦
+Row: 914 number=+919750063777, date=1686845233246, type=5, duration=28, name=Shreevarsaan VIT
+Row: 915 number=+919445410570, date=1686846108987, type=5, duration=7, name=
+Row: 916 number=+918921135258, date=1686845377170, type=1, duration=844, name=
+Row: 917 number=+919445410570, date=1686846644673, type=2, duration=0, name=
+Row: 918 number=+919445410570, date=1686846692976, type=2, duration=0, name=
+Row: 919 number=9916397714, date=1686847844634, type=2, duration=13, name=
+Row: 920 number=9916397714, date=1686848289160, type=2, duration=20, name=
+Row: 921 number=+919500522229, date=1686848827282, type=2, duration=188, name=Amma 👩‍👦
+Row: 922 number=+919500522229, date=1686849599964, type=2, duration=237, name=Amma 👩‍👦
+Row: 923 number=+919080276386, date=1681743498234, type=2, duration=25, name=Aadthiya 🎮
+Row: 924 number=+919994239369, date=1686855404946, type=1, duration=19, name=
+Row: 925 number=+919500522229, date=1686891468266, type=2, duration=317, name=Amma 👩‍👦
+Row: 926 number=+919500522229, date=1686892286270, type=2, duration=373, name=Amma 👩‍👦
+Row: 927 number=+919500522229, date=1686896592473, type=1, duration=274, name=Amma 👩‍👦
+Row: 928 number=+919080276386, date=1686904387157, type=2, duration=57, name=Aadthiya 🎮
+Row: 929 number=+917092036331, date=1686914298773, type=2, duration=30, name=
+Row: 930 number=+919750063777, date=1686914481505, type=5, duration=8, name=Shreevarsaan VIT
+Row: 931 number=+917092036331, date=1686916862577, type=1, duration=1490, name=
+Row: 932 number=+918921135258, date=1686921387322, type=1, duration=139, name=
+Row: 933 number=+917738098250, date=1686927566245, type=2, duration=0, name=Abhinav ⚽
+Row: 934 number=+919080276386, date=1681744359079, type=3, duration=0, name=Aadthiya 🎮
+Row: 935 number=+917738098250, date=1686927583727, type=2, duration=0, name=Abhinav ⚽
+Row: 936 number=+917738098250, date=1686928445483, type=3, duration=21, name=Abhinav ⚽
+Row: 937 number=+918921135258, date=1686930857736, type=2, duration=87, name=
+Row: 938 number=+919994925661, date=1686931122137, type=2, duration=1016, name=
+Row: 939 number=+919080276386, date=1686932191330, type=1, duration=13, name=Aadthiya 🎮
+Row: 940 number=+919443558899, date=1686933343147, type=3, duration=29, name=
+Row: 941 number=+919345620904, date=1686942923628, type=2, duration=0, name=
+Row: 942 number=+919345620904, date=1686942993520, type=2, duration=0, name=
+Row: 943 number=+919345620904, date=1686943051986, type=2, duration=0, name=
+Row: 944 number=9916397714, date=1686943405823, type=2, duration=33, name=
+Row: 945 number=+919080276386, date=1681744555507, type=3, duration=0, name=Aadthiya 🎮
+Row: 946 number=+919080276386, date=1686945255451, type=2, duration=0, name=Aadthiya 🎮
+Row: 947 number=+917738098250, date=1686969633655, type=2, duration=0, name=Abhinav ⚽
+Row: 948 number=+914424470084, date=1686969665405, type=2, duration=0, name=
+Row: 949 number=+919750063777, date=1686969677035, type=2, duration=0, name=Shreevarsaan VIT
+Row: 950 number=+919750063777, date=1686969843904, type=1, duration=22, name=Shreevarsaan VIT
+Row: 951 number=+917738098250, date=1686969883236, type=1, duration=14, name=Abhinav ⚽
+Row: 952 number=+919790010353, date=1686972735797, type=1, duration=15, name=
+Row: 953 number=+919080276386, date=1686974176291, type=2, duration=0, name=Aadthiya 🎮
+Row: 954 number=+919790010353, date=1686974305099, type=2, duration=0, name=
+Row: 955 number=+919790010353, date=1686974534055, type=1, duration=33, name=
+Row: 956 number=+919500522229, date=1681744199457, type=1, duration=355, name=Amma 👩‍👦
+Row: 957 number=+919080276386, date=1686974617618, type=1, duration=135, name=Aadthiya 🎮
+Row: 958 number=+919080276386, date=1686989435636, type=2, duration=0, name=Aadthiya 🎮
+Row: 959 number=+919500522229, date=1686994715999, type=2, duration=160, name=Amma 👩‍👦
+Row: 960 number=+919790010353, date=1687001732771, type=3, duration=2, name=
+Row: 961 number=+919445410570, date=1687003317265, type=2, duration=0, name=
+Row: 962 number=+919445410570, date=1687003755616, type=1, duration=111, name=
+Row: 963 number=+919003548309, date=1687004802865, type=3, duration=34, name=
+Row: 964 number=+919003548309, date=1687004940722, type=2, duration=0, name=
+Row: 965 number=+919003548309, date=1687004957157, type=2, duration=0, name=
+Row: 966 number=+919003548309, date=1687005001544, type=1, duration=85, name=
+Row: 967 number=+919524404333, date=1681747313116, type=2, duration=36, name=
+Row: 968 number=+919080276386, date=1687005104027, type=2, duration=389, name=Aadthiya 🎮
+Row: 969 number=+919080276386, date=1687013591404, type=2, duration=22, name=Aadthiya 🎮
+Row: 970 number=+919445410570, date=1687018008687, type=2, duration=46, name=
+Row: 971 number=+919750063777, date=1687020490771, type=2, duration=0, name=Shreevarsaan VIT
+Row: 972 number=+916374725831, date=1687020539813, type=2, duration=15, name=
+Row: 973 number=7092036331, date=1687073540024, type=2, duration=19, name=
+Row: 974 number=+919750063777, date=1687080662287, type=2, duration=11, name=Shreevarsaan VIT
+Row: 975 number=+919994925661, date=1687080728211, type=2, duration=38, name=
+Row: 976 number=7092036331, date=1687080940847, type=2, duration=81, name=
+Row: 977 number=7092036331, date=1687094855841, type=2, duration=0, name=
+Row: 978 number=+919750063777, date=1681762348551, type=1, duration=31, name=Shreevarsaan VIT
+Row: 979 number=9080276386, date=1687094871585, type=2, duration=385, name=
+Row: 980 number=9080276386, date=1687098878859, type=2, duration=0, name=
+Row: 981 number=+919750063777, date=1687099043524, type=2, duration=0, name=Shreevarsaan VIT
+Row: 982 number=9176968629, date=1687099283931, type=2, duration=10, name=Vibu ✏️
+Row: 983 number=+919080276386, date=1687099309244, type=1, duration=25, name=Aadthiya 🎮
+Row: 984 number=+919994925661, date=1687101464539, type=2, duration=0, name=
+Row: 985 number=+918248851706, date=1687105914512, type=3, duration=17, name=
+Row: 986 number=+918248851706, date=1687105935663, type=3, duration=29, name=
+Row: 987 number=+919750063777, date=1687106462390, type=1, duration=32, name=Shreevarsaan VIT
+Row: 988 number=+918248851706, date=1687107163842, type=3, duration=28, name=
+Row: 989 number=+919750063777, date=1681762387518, type=2, duration=75, name=Shreevarsaan VIT
+Row: 990 number=+919585339677, date=1687159834024, type=1, duration=222, name=
+Row: 991 number=9176968629, date=1687163624194, type=2, duration=12, name=Vibu ✏️
+Row: 992 number=+919750063777, date=1687164209834, type=1, duration=18, name=Shreevarsaan VIT
+Row: 993 number=+919750063777, date=1687166548910, type=2, duration=6, name=Shreevarsaan VIT
+Row: 994 number=+919750063777, date=1687166988613, type=2, duration=0, name=Shreevarsaan VIT
+Row: 995 number=9524404333, date=1687169884185, type=2, duration=8, name=Siva VIT
+Row: 996 number=+919750063777, date=1687173174718, type=2, duration=0, name=Shreevarsaan VIT
+Row: 997 number=+919080276386, date=1687175307296, type=2, duration=12, name=Aadthiya 🎮
+Row: 998 number=+919080276386, date=1687175489430, type=2, duration=8, name=Aadthiya 🎮
+Row: 999 number=+919994925661, date=1687176871968, type=3, duration=8, name=
+Row: 1000 number=+919500522229, date=1681221560385, type=1, duration=5, name=Amma 👩‍👦
+Row: 1001 number=+918667799766, date=1681776884100, type=3, duration=0, name=
+Row: 1002 number=+919994925661, date=1687182054923, type=2, duration=174, name=
+Row: 1003 number=+919750063777, date=1687187685285, type=2, duration=7, name=Shreevarsaan VIT
+Row: 1004 number=9500522229, date=1687187712260, type=2, duration=224, name=
+Row: 1005 number=+919750063777, date=1687193331913, type=3, duration=34, name=Shreevarsaan VIT
+Row: 1006 number=+919750063777, date=1687193403385, type=2, duration=10, name=Shreevarsaan VIT
+Row: 1007 number=+919080276386, date=1687200609053, type=3, duration=17, name=Aadthiya 🎮
+Row: 1008 number=+919080276386, date=1687200727517, type=2, duration=126, name=Aadthiya 🎮
+Row: 1009 number=+917738098250, date=1687232707296, type=2, duration=0, name=Abhinav ⚽
+Row: 1010 number=+917738098250, date=1687232753948, type=1, duration=13, name=Abhinav ⚽
+Row: 1011 number=+919080276386, date=1687248566793, type=1, duration=349, name=Aadthiya 🎮
+Row: 1012 number=+918667799766, date=1681777982844, type=2, duration=0, name=
+Row: 1013 number=+919080276386, date=1687264935327, type=2, duration=0, name=Aadthiya 🎮
+Row: 1014 number=+916383175588, date=1687265146592, type=1, duration=101, name=
+Row: 1015 number=9524404333, date=1687267459558, type=2, duration=22, name=Siva VIT
+Row: 1016 number=+917738098250, date=1687269885968, type=2, duration=18, name=Abhinav ⚽
+Row: 1017 number=+919585339677, date=1687274277050, type=3, duration=32, name=
+Row: 1018 number=+919524404333, date=1687274668331, type=1, duration=65, name=
+Row: 1019 number=+919500522229, date=1687274821514, type=1, duration=5, name=Amma 👩‍👦
+Row: 1020 number=+918270700777, date=1687275754475, type=1, duration=119, name=
+Row: 1021 number=+917738098250, date=1687283029470, type=1, duration=129, name=Abhinav ⚽
+Row: 1022 number=7092036331, date=1687283496207, type=2, duration=0, name=
+Row: 1023 number=+917738098250, date=1681789253533, type=2, duration=24, name=Abhinav ⚽
+Row: 1024 number=9080276386, date=1687283529062, type=2, duration=123, name=
+Row: 1025 number=9080276386, date=1687283667531, type=2, duration=174, name=
+Row: 1026 number=+917738098250, date=1687315594079, type=2, duration=8, name=Abhinav ⚽
+Row: 1027 number=+918220273849, date=1687335779277, type=1, duration=23, name=
+Row: 1028 number=+917738098250, date=1687339289550, type=2, duration=0, name=Abhinav ⚽
+Row: 1029 number=9524404333, date=1687340248071, type=2, duration=0, name=Siva VIT
+Row: 1030 number=+919750063777, date=1687340259172, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1031 number=+917738098250, date=1687340298481, type=2, duration=0, name=Abhinav ⚽
+Row: 1032 number=+919750063777, date=1687340338843, type=3, duration=1, name=Shreevarsaan VIT
+Row: 1033 number=+919750063777, date=1687340350802, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1034 number=+919524404333, date=1681789408832, type=1, duration=18, name=
+Row: 1035 number=+919750063777, date=1687340351087, type=1, duration=11, name=Shreevarsaan VIT
+Row: 1036 number=+917738098250, date=1687342530581, type=2, duration=8, name=Abhinav ⚽
+Row: 1037 number=09266292666, date=1687343736644, type=2, duration=0, name=Karur vysa bank Balance
+Row: 1038 number=9080276386, date=1687345870586, type=2, duration=0, name=
+Row: 1039 number=9080276386, date=1687349655646, type=2, duration=0, name=
+Row: 1040 number=+919080276386, date=1687349802947, type=1, duration=17, name=Aadthiya 🎮
+Row: 1041 number=+919080276386, date=1687349831147, type=1, duration=27, name=Aadthiya 🎮
+Row: 1042 number=+919585339677, date=1687364650098, type=1, duration=22, name=
+Row: 1043 number=+919600573555, date=1687364887039, type=1, duration=361, name=
+Row: 1044 number=+918921135258, date=1687368140311, type=1, duration=75, name=
+Row: 1045 number=+919080276386, date=1681800172557, type=2, duration=186, name=Aadthiya 🎮
+Row: 1046 number=+919524404333, date=1687409758798, type=1, duration=17, name=
+Row: 1047 number=+919080276386, date=1687414916771, type=2, duration=397, name=Aadthiya 🎮
+Row: 1048 number=+919750063777, date=1687418371468, type=3, duration=26, name=Shreevarsaan VIT
+Row: 1049 number=+919080276386, date=1687426020102, type=2, duration=0, name=Aadthiya 🎮
+Row: 1050 number=9176968629, date=1687426062863, type=2, duration=0, name=Vibu ✏️
+Row: 1051 number=+917092036331, date=1687437953780, type=3, duration=25, name=
+Row: 1052 number=+917092036331, date=1687438085988, type=2, duration=26, name=
+Row: 1053 number=+918921135258, date=1687447527399, type=3, duration=17, name=
+Row: 1054 number=+918921135258, date=1687448490916, type=2, duration=12, name=
+Row: 1055 number=+919445410570, date=1687453986001, type=2, duration=41, name=
+Row: 1056 number=+919080276386, date=1681800953682, type=1, duration=26, name=Aadthiya 🎮
+Row: 1057 number=+919445410570, date=1687455135124, type=1, duration=51, name=
+Row: 1058 number=+918270700777, date=1687456095699, type=2, duration=24, name=
+Row: 1059 number=+917738098250, date=1687495248480, type=2, duration=97, name=Abhinav ⚽
+Row: 1060 number=+919080276386, date=1687504523888, type=2, duration=101, name=Aadthiya 🎮
+Row: 1061 number=+917738098250, date=1687512476266, type=2, duration=7, name=Abhinav ⚽
+Row: 1062 number=+919818837687, date=1687520698341, type=5, duration=4, name=
+Row: 1063 number=+919080276386, date=1687522180470, type=2, duration=140, name=Aadthiya 🎮
+Row: 1064 number=+919080276386, date=1687529526949, type=2, duration=0, name=Aadthiya 🎮
+Row: 1065 number=+919080276386, date=1687529600368, type=3, duration=0, name=Aadthiya 🎮
+Row: 1066 number=+919080276386, date=1687529616230, type=1, duration=171, name=Aadthiya 🎮
+Row: 1067 number=+916384977871, date=1681801226389, type=5, duration=0, name=
+Row: 1068 number=+919750063777, date=1687530768546, type=1, duration=5, name=Shreevarsaan VIT
+Row: 1069 number=+919750063777, date=1687530845045, type=2, duration=45, name=Shreevarsaan VIT
+Row: 1070 number=+919750063777, date=1687533191627, type=2, duration=47, name=Shreevarsaan VIT
+Row: 1071 number=+919994239369, date=1687547526694, type=1, duration=19, name=
+Row: 1072 number=+919994239369, date=1687547643422, type=2, duration=11, name=
+Row: 1073 number=+919750063777, date=1687580446711, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1074 number=+917738098250, date=1687580488179, type=2, duration=0, name=Abhinav ⚽
+Row: 1075 number=+919750063777, date=1687580567481, type=1, duration=23, name=Shreevarsaan VIT
+Row: 1076 number=+917738098250, date=1687580603515, type=1, duration=10, name=Abhinav ⚽
+Row: 1077 number=+918220273849, date=1687585609658, type=1, duration=20, name=
+Row: 1078 number=+919500522229, date=1681801817884, type=2, duration=0, name=Amma 👩‍👦
+Row: 1079 number=+919524404333, date=1687601750846, type=2, duration=18, name=
+Row: 1080 number=+919750063777, date=1687601786129, type=2, duration=11, name=Shreevarsaan VIT
+Row: 1081 number=+919080276386, date=1687601906656, type=2, duration=0, name=Aadthiya 🎮
+Row: 1082 number=+919080276386, date=1687608147367, type=2, duration=14, name=Aadthiya 🎮
+Row: 1083 number=+919750063777, date=1687608406563, type=1, duration=21, name=Shreevarsaan VIT
+Row: 1084 number=+919080276386, date=1687609200235, type=1, duration=134, name=Aadthiya 🎮
+Row: 1085 number=+919080276386, date=1687609503574, type=1, duration=13, name=Aadthiya 🎮
+Row: 1086 number=+918921135258, date=1687610413412, type=3, duration=0, name=
+Row: 1087 number=+916369675465, date=1687612074865, type=3, duration=29, name=Vibu ✏️
+Row: 1088 number=+916369675465, date=1687612232512, type=2, duration=68, name=Vibu ✏️
+Row: 1089 number=+919500522229, date=1681801840745, type=1, duration=600, name=Amma 👩‍👦
+Row: 1090 number=+918921135258, date=1687614112680, type=3, duration=30, name=
+Row: 1091 number=+919080276386, date=1687617535821, type=1, duration=307, name=Aadthiya 🎮
+Row: 1092 number=+919750063777, date=1687621679815, type=2, duration=16, name=Shreevarsaan VIT
+Row: 1093 number=+919750063777, date=1687625485069, type=2, duration=25, name=Shreevarsaan VIT
+Row: 1094 number=+919600573555, date=1687627910510, type=3, duration=29, name=
+Row: 1095 number=9080276386, date=1687635495112, type=2, duration=18, name=
+Row: 1096 number=+919750063777, date=1687640944859, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1097 number=+919080276386, date=1687670550523, type=3, duration=11, name=Aadthiya 🎮
+Row: 1098 number=+919080276386, date=1687673944019, type=2, duration=39, name=Aadthiya 🎮
+Row: 1099 number=+919080276386, date=1687680069156, type=2, duration=15, name=Aadthiya 🎮
+Row: 1100 number=+919080276386, date=1681803137423, type=1, duration=19, name=Aadthiya 🎮
+Row: 1101 number=+919080276386, date=1687680197505, type=2, duration=5, name=Aadthiya 🎮
+Row: 1102 number=+919080276386, date=1687681410384, type=2, duration=23, name=Aadthiya 🎮
+Row: 1103 number=+919445410570, date=1687682661099, type=2, duration=8, name=
+Row: 1104 number=+919445410570, date=1687682684765, type=1, duration=16, name=
+Row: 1105 number=+919750063777, date=1687686890719, type=2, duration=29, name=Shreevarsaan VIT
+Row: 1106 number=+919600573555, date=1687690569241, type=1, duration=69, name=
+Row: 1107 number=+919750063777, date=1687693994367, type=1, duration=69, name=Shreevarsaan VIT
+Row: 1108 number=+919445410570, date=1687699131691, type=1, duration=48, name=
+Row: 1109 number=+919080276386, date=1687699264886, type=2, duration=0, name=Aadthiya 🎮
+Row: 1110 number=+919080276386, date=1687700635791, type=1, duration=19, name=Aadthiya 🎮
+Row: 1111 number=+917738098250, date=1681143722482, type=2, duration=72, name=Abhinav ⚽
+Row: 1112 number=+918189876260, date=1681222363058, type=2, duration=8, name=
+Row: 1113 number=+919750063777, date=1681816771645, type=1, duration=174, name=Shreevarsaan VIT
+Row: 1114 number=+919500522229, date=1687710757752, type=3, duration=28, name=Amma 👩‍👦
+Row: 1115 number=+919600573555, date=1687710795395, type=3, duration=28, name=
+Row: 1116 number=+919445410570, date=1687711137975, type=2, duration=195, name=
+Row: 1117 number=+919750063777, date=1687712037230, type=1, duration=8, name=Shreevarsaan VIT
+Row: 1118 number=+919750063777, date=1687712276684, type=2, duration=8, name=Shreevarsaan VIT
+Row: 1119 number=+919750063777, date=1687713104142, type=1, duration=53, name=Shreevarsaan VIT
+Row: 1120 number=+919080276386, date=1687720533161, type=2, duration=22, name=Aadthiya 🎮
+Row: 1121 number=+919445410570, date=1687745355850, type=2, duration=17, name=
+Row: 1122 number=+919080276386, date=1687745388540, type=2, duration=37, name=Aadthiya 🎮
+Row: 1123 number=+919445410570, date=1687746341566, type=2, duration=13, name=
+Row: 1124 number=+914461710444, date=1681818752497, type=3, duration=0, name=
+Row: 1125 number=+919445410570, date=1687746367345, type=2, duration=18, name=
+Row: 1126 number=9080276386, date=1687750553095, type=2, duration=7, name=
+Row: 1127 number=+919597474907, date=1687754696872, type=3, duration=34, name=
+Row: 1128 number=+919500522229, date=1687757976057, type=5, duration=5, name=Amma 👩‍👦
+Row: 1129 number=+919597474907, date=1687763021147, type=3, duration=24, name=
+Row: 1130 number=+919597474907, date=1687763271294, type=2, duration=9, name=
+Row: 1131 number=+919445410570, date=1687763708814, type=3, duration=22, name=
+Row: 1132 number=+919445410570, date=1687763897201, type=1, duration=36, name=
+Row: 1133 number=+919445410570, date=1687764984155, type=2, duration=26, name=
+Row: 1134 number=+919003597769, date=1687785212947, type=1, duration=37, name=
+Row: 1135 number=+914461710444, date=1681820705141, type=5, duration=0, name=
+Row: 1136 number=+919600573555, date=1687785439124, type=2, duration=465, name=
+Row: 1137 number=9080276386, date=1687791766489, type=2, duration=0, name=
+Row: 1138 number=+917092036331, date=1687792384446, type=2, duration=0, name=
+Row: 1139 number=9176968629, date=1687792773342, type=2, duration=0, name=Vibu ✏️
+Row: 1140 number=+916369675465, date=1687792879571, type=1, duration=28, name=Vibu ✏️
+Row: 1141 number=+919500522229, date=1687794311553, type=2, duration=987, name=Amma 👩‍👦
+Row: 1142 number=+919445410570, date=1687799239835, type=1, duration=31, name=
+Row: 1143 number=9080276386, date=1687799695947, type=2, duration=49, name=
+Row: 1144 number=+918220273849, date=1687803097170, type=3, duration=0, name=
+Row: 1145 number=+918220273849, date=1687803107676, type=2, duration=0, name=
+Row: 1146 number=+914461710444, date=1681820746558, type=1, duration=10, name=
+Row: 1147 number=+919524404333, date=1687839612780, type=1, duration=20, name=
+Row: 1148 number=+917738098250, date=1687839660618, type=2, duration=0, name=Abhinav ⚽
+Row: 1149 number=+919524404333, date=1687839672493, type=1, duration=40, name=
+Row: 1150 number=9080276386, date=1687864302561, type=2, duration=1046, name=
+Row: 1151 number=+919080276386, date=1687870321428, type=1, duration=11, name=Aadthiya 🎮
+Row: 1152 number=+918220273849, date=1687871455421, type=2, duration=0, name=
+Row: 1153 number=+918220273849, date=1687872161484, type=1, duration=18, name=
+Row: 1154 number=+919080276386, date=1687874486036, type=1, duration=20, name=Aadthiya 🎮
+Row: 1155 number=+917738098250, date=1687875880497, type=1, duration=87, name=Abhinav ⚽
+Row: 1156 number=+917738098250, date=1687875973080, type=2, duration=0, name=Abhinav ⚽
+Row: 1157 number=+919080276386, date=1681821022834, type=2, duration=33, name=Aadthiya 🎮
+Row: 1158 number=+919080276386, date=1687876500354, type=3, duration=11, name=Aadthiya 🎮
+Row: 1159 number=+919080276386, date=1687876538487, type=3, duration=34, name=Aadthiya 🎮
+Row: 1160 number=+916369675465, date=1687876841936, type=3, duration=30, name=Vibu ✏️
+Row: 1161 number=+916369675465, date=1687876886816, type=2, duration=11, name=Vibu ✏️
+Row: 1162 number=+919080276386, date=1687876934064, type=1, duration=14, name=Aadthiya 🎮
+Row: 1163 number=+917738098250, date=1687879321484, type=2, duration=21, name=Abhinav ⚽
+Row: 1164 number=+917738098250, date=1687885439945, type=2, duration=107, name=Abhinav ⚽
+Row: 1165 number=+917738098250, date=1687890174503, type=2, duration=6, name=Abhinav ⚽
+Row: 1166 number=+917738098250, date=1687916794006, type=2, duration=55, name=Abhinav ⚽
+Row: 1167 number=+919750063777, date=1687919156836, type=1, duration=18, name=Shreevarsaan VIT
+Row: 1168 number=+919080276386, date=1681821109803, type=1, duration=40, name=Aadthiya 🎮
+Row: 1169 number=+917738098250, date=1687919505227, type=2, duration=0, name=Abhinav ⚽
+Row: 1170 number=+917738098250, date=1687919952508, type=2, duration=0, name=Abhinav ⚽
+Row: 1171 number=+919750063777, date=1687919981079, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1172 number=+917738098250, date=1687920146191, type=1, duration=2, name=Abhinav ⚽
+Row: 1173 number=+916369675465, date=1687920274687, type=2, duration=0, name=Vibu ✏️
+Row: 1174 number=+917738098250, date=1687928069760, type=2, duration=0, name=Abhinav ⚽
+Row: 1175 number=+912271897485, date=1687932782437, type=5, duration=4, name=
+Row: 1176 number=+919750063777, date=1687934870251, type=1, duration=24, name=Shreevarsaan VIT
+Row: 1177 number=+919500522229, date=1687938027770, type=2, duration=390, name=Amma 👩‍👦
+Row: 1178 number=+919080276386, date=1687954212982, type=2, duration=393, name=Aadthiya 🎮
+Row: 1179 number=+914461710444, date=1681823265971, type=3, duration=0, name=
+Row: 1180 number=+919080276386, date=1687959335073, type=2, duration=16, name=Aadthiya 🎮
+Row: 1181 number=+918681047129, date=1687961262776, type=1, duration=14, name=
+Row: 1182 number=+917738098250, date=1687961290224, type=2, duration=42, name=Abhinav ⚽
+Row: 1183 number=+919994239369, date=1687962021591, type=3, duration=15, name=
+Row: 1184 number=+919994239369, date=1687962242116, type=2, duration=9, name=
+Row: 1185 number=9176968629, date=1687964029068, type=2, duration=13, name=Vibu ✏️
+Row: 1186 number=+919080276386, date=1687968006217, type=1, duration=80, name=Aadthiya 🎮
+Row: 1187 number=+916369675465, date=1688016512639, type=1, duration=16, name=Vibu ✏️
+Row: 1188 number=+919080276386, date=1688017524024, type=2, duration=13, name=Aadthiya 🎮
+Row: 1189 number=+916369675465, date=1688017558822, type=2, duration=17, name=Vibu ✏️
+Row: 1190 number=+914461710444, date=1681823918664, type=3, duration=0, name=
+Row: 1191 number=+919994239369, date=1688023574656, type=1, duration=11, name=
+Row: 1192 number=+919080276386, date=1688025276244, type=1, duration=16, name=Aadthiya 🎮
+Row: 1193 number=+917738098250, date=1688028161038, type=2, duration=21, name=Abhinav ⚽
+Row: 1194 number=+919080276386, date=1688039678534, type=1, duration=23, name=Aadthiya 🎮
+Row: 1195 number=+919994239369, date=1688040186441, type=1, duration=10, name=
+Row: 1196 number=+919500522229, date=1688041264896, type=2, duration=646, name=Amma 👩‍👦
+Row: 1197 number=+917092036331, date=1688047447353, type=1, duration=49, name=
+Row: 1198 number=+919500522229, date=1688063403055, type=2, duration=33, name=Amma 👩‍👦
+Row: 1199 number=+919080276386, date=1688092171317, type=2, duration=28, name=Aadthiya 🎮
+Row: 1200 number=+916369675465, date=1688092452693, type=1, duration=17, name=Vibu ✏️
+Row: 1201 number=+919750063777, date=1681825087415, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1202 number=+916369675465, date=1688093095690, type=1, duration=14, name=Vibu ✏️
+Row: 1203 number=+919500522229, date=1688098474324, type=2, duration=0, name=Amma 👩‍👦
+Row: 1204 number=+919500522229, date=1688098654907, type=1, duration=49, name=Amma 👩‍👦
+Row: 1205 number=9080276386, date=1688107032608, type=2, duration=0, name=
+Row: 1206 number=+919080276386, date=1688108242490, type=1, duration=65, name=Aadthiya 🎮
+Row: 1207 number=9080276386, date=1688110350774, type=2, duration=10, name=
+Row: 1208 number=+917738098250, date=1688111717153, type=2, duration=0, name=Abhinav ⚽
+Row: 1209 number=9080276386, date=1688117648486, type=2, duration=9, name=
+Row: 1210 number=9500522229, date=1688121380104, type=2, duration=9, name=
+Row: 1211 number=+919500522229, date=1688121422012, type=1, duration=370, name=Amma 👩‍👦
+Row: 1212 number=+919500522229, date=1681826551090, type=2, duration=263, name=Amma 👩‍👦
+Row: 1213 number=9080276386, date=1688132177488, type=2, duration=117, name=
+Row: 1214 number=9080276386, date=1688133917568, type=2, duration=35, name=
+Row: 1215 number=+919080276386, date=1688135607101, type=1, duration=12, name=Aadthiya 🎮
+Row: 1216 number=9080276386, date=1688135632170, type=2, duration=0, name=
+Row: 1217 number=+916380205363, date=1688138594401, type=1, duration=13, name=
+Row: 1218 number=+919080276386, date=1688140052443, type=5, duration=2, name=Aadthiya 🎮
+Row: 1219 number=9080276386, date=1688146589754, type=2, duration=86, name=
+Row: 1220 number=+917448500929, date=1688176718234, type=2, duration=10, name=
+Row: 1221 number=9080276386, date=1688179117957, type=2, duration=20, name=
+Row: 1222 number=9080276386, date=1688179358447, type=2, duration=12, name=
+Row: 1223 number=+919500522229, date=1681222475434, type=2, duration=195, name=Amma 👩‍👦
+Row: 1224 number=+918270700777, date=1681827253725, type=1, duration=10, name=
+Row: 1225 number=9080276386, date=1688186216585, type=2, duration=0, name=
+Row: 1226 number=9176968629, date=1688186331243, type=2, duration=0, name=Vibu ✏️
+Row: 1227 number=+916369675465, date=1688186354695, type=2, duration=11, name=Vibu ✏️
+Row: 1228 number=9080276386, date=1688186469981, type=2, duration=173, name=
+Row: 1229 number=9500522229, date=1688187483516, type=2, duration=34, name=
+Row: 1230 number=9080276386, date=1688193897694, type=2, duration=0, name=
+Row: 1231 number=+919080276386, date=1688193981975, type=1, duration=244, name=Aadthiya 🎮
+Row: 1232 number=+916369675465, date=1688197398679, type=2, duration=0, name=Vibu ✏️
+Row: 1233 number=+916369675465, date=1688197518650, type=1, duration=14, name=Vibu ✏️
+Row: 1234 number=+917738098250, date=1688210173117, type=2, duration=32, name=Abhinav ⚽
+Row: 1235 number=+919080276386, date=1681829800280, type=2, duration=15, name=Aadthiya 🎮
+Row: 1236 number=+919080276386, date=1688210951048, type=2, duration=33, name=Aadthiya 🎮
+Row: 1237 number=+919080276386, date=1688211046755, type=2, duration=14, name=Aadthiya 🎮
+Row: 1238 number=+919080276386, date=1688213626724, type=2, duration=15, name=Aadthiya 🎮
+Row: 1239 number=+919500522229, date=1688214933946, type=1, duration=41, name=Amma 👩‍👦
+Row: 1240 number=+919080276386, date=1688222041227, type=1, duration=21, name=Aadthiya 🎮
+Row: 1241 number=+919080276386, date=1688222392466, type=2, duration=9, name=Aadthiya 🎮
+Row: 1242 number=+918072285202, date=1688227582100, type=1, duration=32, name=Ezhil👨‍💻
+Row: 1243 number=+919080276386, date=1688230548229, type=2, duration=344, name=Aadthiya 🎮
+Row: 1244 number=+918072285202, date=1688235799200, type=1, duration=16, name=Ezhil👨‍💻
+Row: 1245 number=8220273849, date=1688235830385, type=2, duration=12, name=Tharun VIT
+Row: 1246 number=+919080276386, date=1681830304533, type=2, duration=5, name=Aadthiya 🎮
+Row: 1247 number=+919080276386, date=1688265690004, type=2, duration=10, name=Aadthiya 🎮
+Row: 1248 number=+919080276386, date=1688272486683, type=2, duration=0, name=Aadthiya 🎮
+Row: 1249 number=9524404333, date=1688272532777, type=2, duration=0, name=Siva VIT
+Row: 1250 number=9524404333, date=1688272703659, type=2, duration=6, name=Siva VIT
+Row: 1251 number=9524404333, date=1688272727243, type=2, duration=20, name=Siva VIT
+Row: 1252 number=+919080276386, date=1688273242548, type=1, duration=0, name=Aadthiya 🎮
+Row: 1253 number=+919080276386, date=1688273262077, type=2, duration=30, name=Aadthiya 🎮
+Row: 1254 number=+918072185233, date=1688273579743, type=1, duration=20, name=Ashwin VIT
+Row: 1255 number=+918072185233, date=1688274127082, type=1, duration=13, name=Ashwin VIT
+Row: 1256 number=+919500522229, date=1688274685705, type=2, duration=125, name=Amma 👩‍👦
+Row: 1257 number=+919080276386, date=1681840321782, type=2, duration=47, name=Aadthiya 🎮
+Row: 1258 number=+919986281999, date=1688281271442, type=3, duration=34, name=NULL
+Row: 1259 number=+918072185233, date=1688281987893, type=1, duration=13, name=Ashwin VIT
+Row: 1260 number=+919080276386, date=1688283058206, type=2, duration=8, name=Aadthiya 🎮
+Row: 1261 number=9176968629, date=1688283842096, type=2, duration=17, name=Vibu ✏️
+Row: 1262 number=+919080276386, date=1688283868679, type=2, duration=10, name=Aadthiya 🎮
+Row: 1263 number=+918870364842, date=1688289442879, type=3, duration=16, name=Vikram 👨‍⚖️
+Row: 1264 number=+919080276386, date=1688290698149, type=2, duration=37, name=Aadthiya 🎮
+Row: 1265 number=+919750063777, date=1688290750281, type=1, duration=29, name=Shreevarsaan VIT
+Row: 1266 number=+919080276386, date=1688290936072, type=2, duration=0, name=Aadthiya 🎮
+Row: 1267 number=+918870364842, date=1688290984125, type=2, duration=34, name=Vikram 👨‍⚖️
+Row: 1268 number=+919176968629, date=1681841664757, type=3, duration=0, name=
+Row: 1269 number=+919080276386, date=1688291073254, type=1, duration=18, name=Aadthiya 🎮
+Row: 1270 number=+919750063777, date=1688291417208, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1271 number=+919750063777, date=1688291436290, type=1, duration=19, name=Shreevarsaan VIT
+Row: 1272 number=+919500522229, date=1688291483630, type=2, duration=108, name=Amma 👩‍👦
+Row: 1273 number=+919750063777, date=1688300570982, type=3, duration=30, name=Shreevarsaan VIT
+Row: 1274 number=+917598730840, date=1688296983927, type=1, duration=9518, name=CD Hari 💻
+Row: 1275 number=+919080276386, date=1688310027021, type=1, duration=56, name=Aadthiya 🎮
+Row: 1276 number=+917738098250, date=1688312913670, type=2, duration=0, name=Abhinav ⚽
+Row: 1277 number=+919080276386, date=1688362417011, type=2, duration=0, name=Aadthiya 🎮
+Row: 1278 number=+919080276386, date=1688373303216, type=2, duration=23, name=Aadthiya 🎮
+Row: 1279 number=+919750063777, date=1681846308212, type=2, duration=34, name=Shreevarsaan VIT
+Row: 1280 number=+919080276386, date=1688375760574, type=1, duration=121, name=Aadthiya 🎮
+Row: 1281 number=+919080276386, date=1688385552680, type=2, duration=0, name=Aadthiya 🎮
+Row: 1282 number=+919080276386, date=1688385647039, type=1, duration=11, name=Aadthiya 🎮
+Row: 1283 number=+919080276386, date=1688385666599, type=2, duration=10, name=Aadthiya 🎮
+Row: 1284 number=+919750063777, date=1688392760112, type=2, duration=6, name=Shreevarsaan VIT
+Row: 1285 number=+917738098250, date=1688396323044, type=2, duration=0, name=Abhinav ⚽
+Row: 1286 number=+918072285202, date=1688401679116, type=3, duration=15, name=Ezhil👨‍💻
+Row: 1287 number=+917010916456, date=1688403678641, type=3, duration=14, name=Director Ashwath 🕶️✨
+Row: 1288 number=+917010916456, date=1688409741185, type=2, duration=0, name=Director Ashwath 🕶️✨
+Row: 1289 number=09266292666, date=1688409914568, type=2, duration=0, name=Karur vysa bank Balance
+Row: 1290 number=+919750063777, date=1681874049590, type=1, duration=63, name=Shreevarsaan VIT
+Row: 1291 number=+917010916456, date=1688410705101, type=1, duration=113, name=Director Ashwath 🕶️✨
+Row: 1292 number=+917010916456, date=1688411968918, type=2, duration=0, name=Director Ashwath 🕶️✨
+Row: 1293 number=+919080276386, date=1681874287511, type=1, duration=11, name=Aadthiya 🎮
+Row: 1294 number=+919750063777, date=1681876023265, type=1, duration=13, name=Shreevarsaan VIT
+Row: 1295 number=+919750063777, date=1681887480011, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1296 number=+919080276386, date=1681223387431, type=1, duration=13, name=Aadthiya 🎮
+Row: 1297 number=+919080276386, date=1681887498499, type=2, duration=0, name=Aadthiya 🎮
+Row: 1298 number=+919750063777, date=1681887515491, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1299 number=+919750063777, date=1681887529497, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1300 number=+919080276386, date=1681887530294, type=1, duration=18, name=Aadthiya 🎮
+Row: 1301 number=+919750063777, date=1681887546329, type=3, duration=0, name=Shreevarsaan VIT
+Row: 1302 number=+919750063777, date=1681887556069, type=2, duration=230, name=Shreevarsaan VIT
+Row: 1303 number=+919080276386, date=1681887811545, type=2, duration=100, name=Aadthiya 🎮
+Row: 1304 number=+919500522229, date=1681888257841, type=2, duration=57, name=Amma 👩‍👦
+Row: 1305 number=+919080276386, date=1681889467288, type=1, duration=43, name=Aadthiya 🎮
+Row: 1306 number=+919500522229, date=1681892324497, type=2, duration=519, name=Amma 👩‍👦
+Row: 1307 number=+917738098250, date=1681224425112, type=1, duration=256, name=Abhinav ⚽
+Row: 1308 number=+919080276386, date=1681905828676, type=1, duration=32, name=Aadthiya 🎮
+Row: 1309 number=+919080276386, date=1681914577316, type=1, duration=19, name=Aadthiya 🎮
+Row: 1310 number=+919080276386, date=1681915672227, type=2, duration=6, name=Aadthiya 🎮
+Row: 1311 number=+919500522229, date=1681920269289, type=2, duration=24, name=Amma 👩‍👦
+Row: 1312 number=+919500522229, date=1681920307170, type=2, duration=295, name=Amma 👩‍👦
+Row: 1313 number=+919080276386, date=1681961299488, type=1, duration=9, name=Aadthiya 🎮
+Row: 1314 number=+919080276386, date=1681961419770, type=2, duration=7, name=Aadthiya 🎮
+Row: 1315 number=+918072543250, date=1681961661247, type=1, duration=10, name=
+Row: 1316 number=+918072543250, date=1681961823806, type=3, duration=0, name=
+Row: 1317 number=9524404333, date=1681962230881, type=2, duration=9, name=Siva VIT
+Row: 1318 number=+919080276386, date=1681226289512, type=2, duration=8, name=Aadthiya 🎮
+Row: 1319 number=+919750063777, date=1681962501935, type=2, duration=11, name=Shreevarsaan VIT
+Row: 1320 number=+919750063777, date=1681974343096, type=1, duration=14, name=Shreevarsaan VIT
+Row: 1321 number=+919750063777, date=1681974611597, type=1, duration=6, name=Shreevarsaan VIT
+Row: 1322 number=+919750063777, date=1681974741302, type=1, duration=18, name=Shreevarsaan VIT
+Row: 1323 number=+919500522229, date=1681975383286, type=2, duration=146, name=Amma 👩‍👦
+Row: 1324 number=+919080276386, date=1681975902089, type=2, duration=0, name=Aadthiya 🎮
+Row: 1325 number=+919080276386, date=1681976153938, type=2, duration=0, name=Aadthiya 🎮
+Row: 1326 number=+919080276386, date=1681976196531, type=1, duration=82, name=Aadthiya 🎮
+Row: 1327 number=+919080276386, date=1681977079462, type=2, duration=0, name=Aadthiya 🎮
+Row: 1328 number=+919080276386, date=1681977219142, type=1, duration=7, name=Aadthiya 🎮
+Row: 1329 number=+917738098250, date=1681228591320, type=2, duration=14, name=Abhinav ⚽
+Row: 1330 number=+919080276386, date=1681977984185, type=1, duration=24, name=Aadthiya 🎮
+Row: 1331 number=8218419552, date=1681978020333, type=2, duration=13, name=
+Row: 1332 number=+919080276386, date=1681978059828, type=2, duration=0, name=Aadthiya 🎮
+Row: 1333 number=+919080276386, date=1681978129912, type=3, duration=0, name=Aadthiya 🎮
+Row: 1334 number=+919176968629, date=1681978500704, type=1, duration=16, name=
+Row: 1335 number=+919500522229, date=1681992479758, type=3, duration=0, name=Amma 👩‍👦
+Row: 1336 number=+919500522229, date=1681992685544, type=2, duration=112, name=Amma 👩‍👦
+Row: 1337 number=+919080276386, date=1681993417240, type=2, duration=36, name=Aadthiya 🎮
+Row: 1338 number=+919080276386, date=1682003158897, type=1, duration=27, name=Aadthiya 🎮
+Row: 1339 number=+919080276386, date=1682004406822, type=2, duration=19, name=Aadthiya 🎮
+Row: 1340 number=+917738098250, date=1681229218811, type=2, duration=36, name=Abhinav ⚽
+Row: 1341 number=+919080276386, date=1682061346782, type=2, duration=57, name=Aadthiya 🎮
+Row: 1342 number=+919750063777, date=1682061836259, type=2, duration=51, name=Shreevarsaan VIT
+Row: 1343 number=+919500522229, date=1682062383224, type=2, duration=41, name=Amma 👩‍👦
+Row: 1344 number=+919500522229, date=1682062437670, type=2, duration=7, name=Amma 👩‍👦
+Row: 1345 number=+919500522229, date=1682063151067, type=3, duration=0, name=Amma 👩‍👦
+Row: 1346 number=+919524404333, date=1682063207744, type=3, duration=0, name=
+Row: 1347 number=+919524404333, date=1682063249715, type=1, duration=0, name=
+Row: 1348 number=+919080276386, date=1682063124009, type=1, duration=195, name=Aadthiya 🎮
+Row: 1349 number=+919524404333, date=1682063324249, type=2, duration=23, name=
+Row: 1350 number=+919500522229, date=1682063356716, type=2, duration=226, name=Amma 👩‍👦
+Row: 1351 number=+919080276386, date=1681240340407, type=2, duration=10, name=Aadthiya 🎮
+Row: 1352 number=+919080276386, date=1682079769746, type=2, duration=51, name=Aadthiya 🎮
+Row: 1353 number=8220273849, date=1682080291668, type=2, duration=130, name=Tharun VIT
+Row: 1354 number=+919500522229, date=1682082757234, type=2, duration=113, name=Amma 👩‍👦
+Row: 1355 number=+919600573555, date=1682082988893, type=3, duration=0, name=
+Row: 1356 number=+919445410570, date=1682082968340, type=1, duration=47, name=
+Row: 1357 number=+919600573555, date=1682083027234, type=2, duration=22, name=
+Row: 1358 number=+919080276386, date=1682088058617, type=2, duration=17, name=Aadthiya 🎮
+Row: 1359 number=+919750063777, date=1682088118894, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1360 number=+917738098250, date=1682088139513, type=2, duration=11, name=Abhinav ⚽
+Row: 1361 number=+919750063777, date=1682088246229, type=1, duration=21, name=Shreevarsaan VIT
+Row: 1362 number=+919080276386, date=1681272486096, type=3, duration=0, name=Aadthiya 🎮
+Row: 1363 number=+919500522229, date=1682093972400, type=3, duration=0, name=Amma 👩‍👦
+Row: 1364 number=+919500522229, date=1682094146451, type=2, duration=78, name=Amma 👩‍👦
+Row: 1365 number=+917738098250, date=1682100568130, type=2, duration=7, name=Abhinav ⚽
+Row: 1366 number=+917738098250, date=1682102680857, type=2, duration=32, name=Abhinav ⚽
+Row: 1367 number=8220273849, date=1682102824292, type=2, duration=0, name=Tharun VIT
+Row: 1368 number=+919750063777, date=1682102882939, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1369 number=+917738098250, date=1682103890865, type=2, duration=13, name=Abhinav ⚽
+Row: 1370 number=+917738098250, date=1682104013853, type=3, duration=0, name=Abhinav ⚽
+Row: 1371 number=+917738098250, date=1682104566112, type=2, duration=14, name=Abhinav ⚽
+Row: 1372 number=9524404333, date=1682105105277, type=2, duration=25, name=Siva VIT
+Row: 1373 number=+919080276386, date=1681272530013, type=2, duration=0, name=Aadthiya 🎮
+Row: 1374 number=9080276386, date=1682141857531, type=2, duration=50, name=
+Row: 1375 number=9080276386, date=1682143636743, type=2, duration=0, name=
+Row: 1376 number=9080276386, date=1682143643249, type=2, duration=162, name=
+Row: 1377 number=8220273849, date=1682147473851, type=2, duration=18, name=Tharun VIT
+Row: 1378 number=9080276386, date=1682150051842, type=2, duration=170, name=
+Row: 1379 number=8220273849, date=1682151306634, type=2, duration=16, name=Tharun VIT
+Row: 1380 number=8220273849, date=1682151988909, type=2, duration=11, name=Tharun VIT
+Row: 1381 number=+919500522229, date=1682155633660, type=2, duration=201, name=Amma 👩‍👦
+Row: 1382 number=+919445410570, date=1682159209542, type=2, duration=81, name=
+Row: 1383 number=9916397714, date=1682159419001, type=2, duration=0, name=
+Row: 1384 number=+917738098250, date=1681183813152, type=2, duration=0, name=Abhinav ⚽
+Row: 1385 number=+919080276386, date=1681272567273, type=1, duration=12, name=Aadthiya 🎮
+Row: 1386 number=+919916397714, date=1682159458676, type=1, duration=139, name=
+Row: 1387 number=+919566653439, date=1682160087405, type=3, duration=0, name=
+Row: 1388 number=+919500522229, date=1682160055444, type=2, duration=32, name=Amma 👩‍👦
+Row: 1389 number=+919566653439, date=1682160104045, type=2, duration=209, name=
+Row: 1390 number=8220273849, date=1682167661109, type=2, duration=66, name=Tharun VIT
+Row: 1391 number=+919080276386, date=1682175224813, type=3, duration=0, name=Aadthiya 🎮
+Row: 1392 number=+919080276386, date=1682175428397, type=2, duration=15, name=Aadthiya 🎮
+Row: 1393 number=+919080276386, date=1682175514934, type=1, duration=11, name=Aadthiya 🎮
+Row: 1394 number=+919080276386, date=1682176435603, type=1, duration=16, name=Aadthiya 🎮
+Row: 1395 number=+919080276386, date=1682176672710, type=1, duration=5, name=Aadthiya 🎮
+Row: 1396 number=+916307682827, date=1681273162783, type=2, duration=17, name=
+Row: 1397 number=+918072543250, date=1682177439429, type=1, duration=104, name=
+Row: 1398 number=+919500522229, date=1682182148708, type=2, duration=0, name=Amma 👩‍👦
+Row: 1399 number=+919500522229, date=1682182377231, type=1, duration=206, name=Amma 👩‍👦
+Row: 1400 number=+919524404333, date=1682189099677, type=1, duration=94, name=
+Row: 1401 number=+919445410570, date=1682220719989, type=1, duration=21, name=
+Row: 1402 number=+919524404333, date=1682221327863, type=2, duration=0, name=
+Row: 1403 number=+917738098250, date=1682221360867, type=2, duration=13, name=Abhinav ⚽
+Row: 1404 number=+919524404333, date=1682221390154, type=1, duration=21, name=
+Row: 1405 number=+919500522229, date=1682232283608, type=2, duration=0, name=Amma 👩‍👦
+Row: 1406 number=+919500522229, date=1682232337075, type=1, duration=252, name=Amma 👩‍👦
+Row: 1407 number=+916307682827, date=1681274333494, type=1, duration=59, name=
+Row: 1408 number=+917738098250, date=1682232580772, type=1, duration=0, name=Abhinav ⚽
+Row: 1409 number=+917738098250, date=1682232596025, type=2, duration=0, name=Abhinav ⚽
+Row: 1410 number=+917738098250, date=1682232609566, type=2, duration=0, name=Abhinav ⚽
+Row: 1411 number=+917738098250, date=1682232646460, type=1, duration=130, name=Abhinav ⚽
+Row: 1412 number=+919080276386, date=1682232884596, type=2, duration=84, name=Aadthiya 🎮
+Row: 1413 number=+919750063777, date=1682233515745, type=2, duration=56, name=Shreevarsaan VIT
+Row: 1414 number=+919524404333, date=1682233648199, type=2, duration=0, name=
+Row: 1415 number=+919524404333, date=1682235950705, type=1, duration=0, name=
+Row: 1416 number=+919524404333, date=1682235966562, type=2, duration=0, name=
+Row: 1417 number=+919524404333, date=1682235978493, type=2, duration=0, name=
+Row: 1418 number=+916307682827, date=1681275579560, type=1, duration=35, name=
+Row: 1419 number=+919524404333, date=1682236166945, type=1, duration=48, name=
+Row: 1420 number=+919080276386, date=1682236934595, type=1, duration=43, name=Aadthiya 🎮
+Row: 1421 number=+919750063777, date=1682239116190, type=2, duration=29, name=Shreevarsaan VIT
+Row: 1422 number=+919445410570, date=1682241474787, type=2, duration=0, name=
+Row: 1423 number=8220273849, date=1682243035008, type=2, duration=24, name=Tharun VIT
+Row: 1424 number=+919524404333, date=1682243149960, type=1, duration=34, name=
+Row: 1425 number=+919524404333, date=1682245330075, type=1, duration=21, name=
+Row: 1426 number=+919080276386, date=1682251145766, type=1, duration=54, name=Aadthiya 🎮
+Row: 1427 number=9994239369, date=1682254279324, type=2, duration=0, name=
+Row: 1428 number=+919445410570, date=1682254325470, type=2, duration=34, name=
+Row: 1429 number=9524404333, date=1681278099015, type=2, duration=0, name=Siva VIT
+Row: 1430 number=+919080276386, date=1682254420927, type=2, duration=32, name=Aadthiya 🎮
+Row: 1431 number=+919994239369, date=1682255006386, type=1, duration=36, name=
+Row: 1432 number=+919500522229, date=1682255604864, type=2, duration=7, name=Amma 👩‍👦
+Row: 1433 number=+919445410570, date=1682256298155, type=3, duration=0, name=
+Row: 1434 number=+919500522229, date=1682256275745, type=1, duration=110, name=Amma 👩‍👦
+Row: 1435 number=+919445410570, date=1682256555552, type=2, duration=103, name=
+Row: 1436 number=+918220273849, date=1682260951317, type=1, duration=147, name=
+Row: 1437 number=+918072285202, date=1682261924020, type=3, duration=0, name=Ezhil👨‍💻
+Row: 1438 number=+919600573555, date=1682262095367, type=3, duration=0, name=
+Row: 1439 number=+919080276386, date=1682262628700, type=2, duration=28, name=Aadthiya 🎮
+Row: 1440 number=9524404333, date=1681278112137, type=2, duration=0, name=Siva VIT
+Row: 1441 number=+918072285202, date=1682262712391, type=2, duration=24, name=Ezhil👨‍💻
+Row: 1442 number=+919080276386, date=1682262830554, type=2, duration=5, name=Aadthiya 🎮
+Row: 1443 number=+919750063777, date=1682263426910, type=1, duration=2, name=Shreevarsaan VIT
+Row: 1444 number=+919750063777, date=1682263462758, type=2, duration=29, name=Shreevarsaan VIT
+Row: 1445 number=+919750063777, date=1682263619005, type=2, duration=50, name=Shreevarsaan VIT
+Row: 1446 number=+918220273849, date=1682267563899, type=2, duration=0, name=
+Row: 1447 number=+919080276386, date=1682267619076, type=2, duration=537, name=Aadthiya 🎮
+Row: 1448 number=+919750063777, date=1682268193372, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1449 number=+918220273849, date=1682268218198, type=2, duration=9, name=
+Row: 1450 number=+919750063777, date=1682268941157, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1451 number=9524404333, date=1681278128323, type=2, duration=0, name=Siva VIT
+Row: 1452 number=+919600573555, date=1682274436301, type=2, duration=368, name=
+Row: 1453 number=+919080276386, date=1682277536848, type=1, duration=15, name=Aadthiya 🎮
+Row: 1454 number=+919080276386, date=1682307202727, type=2, duration=0, name=Aadthiya 🎮
+Row: 1455 number=+919080276386, date=1682307213911, type=2, duration=26, name=Aadthiya 🎮
+Row: 1456 number=+919080276386, date=1682307558872, type=2, duration=22, name=Aadthiya 🎮
+Row: 1457 number=+919500522229, date=1682308362862, type=2, duration=0, name=Amma 👩‍👦
+Row: 1458 number=+919500522229, date=1682309303588, type=1, duration=51, name=Amma 👩‍👦
+Row: 1459 number=8919891407, date=1682315348565, type=2, duration=66, name=
+Row: 1460 number=+919080276386, date=1682316406069, type=2, duration=0, name=Aadthiya 🎮
+Row: 1461 number=+919080276386, date=1682317039841, type=1, duration=90, name=Aadthiya 🎮
+Row: 1462 number=9524404333, date=1681278256624, type=2, duration=0, name=Siva VIT
+Row: 1463 number=+919080276386, date=1682323330005, type=1, duration=5, name=Aadthiya 🎮
+Row: 1464 number=+919080276386, date=1682323718219, type=2, duration=0, name=Aadthiya 🎮
+Row: 1465 number=+919080276386, date=1682323926844, type=1, duration=8, name=Aadthiya 🎮
+Row: 1466 number=+919750063777, date=1682324668494, type=2, duration=27, name=Shreevarsaan VIT
+Row: 1467 number=+919524404333, date=1682324754423, type=2, duration=0, name=
+Row: 1468 number=+919524404333, date=1682325064052, type=1, duration=30, name=
+Row: 1469 number=+919524404333, date=1682325574977, type=2, duration=10, name=
+Row: 1470 number=+919524404333, date=1682326236679, type=2, duration=20, name=
+Row: 1471 number=+919524404333, date=1682328038204, type=2, duration=15, name=
+Row: 1472 number=+919750063777, date=1682328061301, type=2, duration=6, name=Shreevarsaan VIT
+Row: 1473 number=+919080276386, date=1681280358568, type=1, duration=31, name=Aadthiya 🎮
+Row: 1474 number=+919750063777, date=1682328377299, type=2, duration=17, name=Shreevarsaan VIT
+Row: 1475 number=+919524404333, date=1682331162559, type=2, duration=0, name=
+Row: 1476 number=+919524404333, date=1682331630235, type=1, duration=12, name=
+Row: 1477 number=+919080276386, date=1682337545751, type=2, duration=65, name=Aadthiya 🎮
+Row: 1478 number=+919994239369, date=1682337686599, type=1, duration=114, name=
+Row: 1479 number=+919994239369, date=1682339739017, type=1, duration=74, name=
+Row: 1480 number=+919080276386, date=1682339845959, type=2, duration=0, name=Aadthiya 🎮
+Row: 1481 number=+916369675465, date=1682339873513, type=2, duration=43, name=Vibu ✏️
+Row: 1482 number=+918072285202, date=1682339940093, type=2, duration=0, name=Ezhil👨‍💻
+Row: 1483 number=+918072285202, date=1682339955753, type=2, duration=20, name=Ezhil👨‍💻
+Row: 1484 number=+919597474907, date=1681282105637, type=1, duration=9, name=
+Row: 1485 number=+919080276386, date=1682341692220, type=3, duration=0, name=Aadthiya 🎮
+Row: 1486 number=+919080276386, date=1682342521029, type=2, duration=0, name=Aadthiya 🎮
+Row: 1487 number=+919080276386, date=1682342815010, type=2, duration=0, name=Aadthiya 🎮
+Row: 1488 number=+916369675465, date=1682342865736, type=2, duration=15, name=Vibu ✏️
+Row: 1489 number=+919080276386, date=1682343186564, type=1, duration=27, name=Aadthiya 🎮
+Row: 1490 number=+919994239369, date=1682343517093, type=1, duration=53, name=
+Row: 1491 number=8220273849, date=1682346760033, type=2, duration=19, name=Tharun VIT
+Row: 1492 number=+919994239369, date=1682347143371, type=1, duration=10, name=
+Row: 1493 number=+918220273849, date=1682347345459, type=1, duration=9, name=
+Row: 1494 number=8870364842, date=1682348290131, type=2, duration=27, name=
+Row: 1495 number=+917738098250, date=1681183993567, type=1, duration=12, name=Abhinav ⚽
+Row: 1496 number=+919080276386, date=1681284870481, type=2, duration=7, name=Aadthiya 🎮
+Row: 1497 number=+918870364842, date=1682348446259, type=1, duration=8, name=Vikram 👨‍⚖️
+Row: 1498 number=+919080276386, date=1682348560911, type=2, duration=0, name=Aadthiya 🎮
+Row: 1499 number=+918870364842, date=1682348602282, type=3, duration=0, name=Vikram 👨‍⚖️
+Row: 1500 number=+916369675465, date=1682348579198, type=2, duration=38, name=Vibu ✏️
+Row: 1501 number=+919677372245, date=1682348655888, type=2, duration=21, name=
+Row: 1502 number=9080276386, date=1682348728377, type=2, duration=32, name=
+Row: 1503 number=+916369675465, date=1682348848685, type=2, duration=36, name=Vibu ✏️
+Row: 1504 number=9080276386, date=1682348960455, type=2, duration=5, name=
+Row: 1505 number=+919994239369, date=1682349033690, type=1, duration=40, name=
+Row: 1506 number=+918667781305, date=1682349210077, type=2, duration=1, name=
+Row: 1507 number=9524404333, date=1681286885818, type=2, duration=0, name=Siva VIT
+Row: 1508 number=+919994239369, date=1682349395634, type=1, duration=9, name=
+Row: 1509 number=+919750063777, date=1682350156954, type=2, duration=9, name=Shreevarsaan VIT
+Row: 1510 number=+919994239369, date=1682350447781, type=3, duration=0, name=
+Row: 1511 number=+919994239369, date=1682350490908, type=2, duration=87, name=
+Row: 1512 number=8220273849, date=1682350785327, type=2, duration=31, name=Tharun VIT
+Row: 1513 number=+919994239369, date=1682351194265, type=2, duration=8, name=
+Row: 1514 number=+919500522229, date=1682351231735, type=2, duration=94, name=Amma 👩‍👦
+Row: 1515 number=+919750063777, date=1682351643876, type=2, duration=12, name=Shreevarsaan VIT
+Row: 1516 number=+917358479083, date=1682351838354, type=3, duration=0, name=
+Row: 1517 number=+919750063777, date=1682352101407, type=2, duration=37, name=Shreevarsaan VIT
+Row: 1518 number=+919524404333, date=1681287044293, type=1, duration=79, name=
+Row: 1519 number=9080276386, date=1682354063778, type=2, duration=0, name=
+Row: 1520 number=+917738098250, date=1682354155190, type=2, duration=18, name=Abhinav ⚽
+Row: 1521 number=9080276386, date=1682354546445, type=2, duration=12, name=
+Row: 1522 number=9080276386, date=1682354773612, type=2, duration=0, name=
+Row: 1523 number=9080276386, date=1682354827441, type=2, duration=1, name=
+Row: 1524 number=+919994239369, date=1682355635795, type=1, duration=13, name=
+Row: 1525 number=+919994239369, date=1682355941259, type=1, duration=22, name=
+Row: 1526 number=9866745281, date=1682357494880, type=2, duration=1, name=
+Row: 1527 number=+919750063777, date=1682358347567, type=1, duration=129, name=Shreevarsaan VIT
+Row: 1528 number=+916369675465, date=1682360336782, type=2, duration=31, name=Vibu ✏️
+Row: 1529 number=+919524404333, date=1681287565102, type=1, duration=42, name=
+Row: 1530 number=+919600573555, date=1682360540919, type=2, duration=392, name=
+Row: 1531 number=+919080276386, date=1682367025696, type=1, duration=427, name=Aadthiya 🎮
+Row: 1532 number=9080276386, date=1682391870631, type=2, duration=0, name=
+Row: 1533 number=+919176968629, date=1682392116072, type=1, duration=19, name=
+Row: 1534 number=+919176968629, date=1682392637606, type=2, duration=12, name=
+Row: 1535 number=+919176968629, date=1682395777403, type=2, duration=10, name=
+Row: 1536 number=+917738098250, date=1682396136958, type=2, duration=17, name=Abhinav ⚽
+Row: 1537 number=9524404333, date=1682396166860, type=2, duration=0, name=Siva VIT
+Row: 1538 number=9524404333, date=1682396321761, type=2, duration=40, name=Siva VIT
+Row: 1539 number=+917738098250, date=1682396906832, type=3, duration=0, name=Abhinav ⚽
+Row: 1540 number=+918681047129, date=1681291908931, type=1, duration=34, name=
+Row: 1541 number=+919080276386, date=1682402921740, type=3, duration=0, name=Aadthiya 🎮
+Row: 1542 number=+919080276386, date=1682403062891, type=2, duration=18, name=Aadthiya 🎮
+Row: 1543 number=9080276386, date=1682403237358, type=2, duration=13, name=
+Row: 1544 number=+919994239369, date=1682404037294, type=2, duration=38, name=
+Row: 1545 number=+919500522229, date=1682405529427, type=2, duration=694, name=Amma 👩‍👦
+Row: 1546 number=9080276386, date=1682406875049, type=2, duration=66, name=
+Row: 1547 number=9080276386, date=1682407817116, type=2, duration=0, name=
+Row: 1548 number=9080276386, date=1682408211655, type=2, duration=26, name=
+Row: 1549 number=+919080276386, date=1682409383679, type=3, duration=0, name=Aadthiya 🎮
+Row: 1550 number=+916369675465, date=1682409438944, type=1, duration=22, name=Vibu ✏️
+Row: 1551 number=+917738098250, date=1681293893315, type=2, duration=9, name=Abhinav ⚽
+Row: 1552 number=+919080276386, date=1681301877602, type=2, duration=0, name=Aadthiya 🎮
+Row: 1553 number=+919750063777, date=1681302401523, type=1, duration=97, name=Shreevarsaan VIT
+Row: 1554 number=+919080276386, date=1681302956523, type=1, duration=95, name=Aadthiya 🎮
+Row: 1555 number=+919500522229, date=1681303074680, type=2, duration=382, name=Amma 👩‍👦
+Row: 1556 number=9500522229, date=1681186073280, type=2, duration=0, name=
+Row: 1557 number=+917738098250, date=1681304592242, type=2, duration=62, name=Abhinav ⚽
+Row: 1558 number=+918270700777, date=1682494306463, type=1, duration=33, name=
+Row: 1559 number=+918270700777, date=1682494485695, type=2, duration=0, name=
+Row: 1560 number=+918270700777, date=1682494664261, type=3, duration=20, name=
+Row: 1561 number=+918270700777, date=1682494730307, type=2, duration=66, name=
+Row: 1562 number=+917448500929, date=1682495778253, type=2, duration=173, name=
+Row: 1563 number=8220273849, date=1682496329964, type=2, duration=0, name=Tharun VIT
+Row: 1564 number=+918220273849, date=1682496363074, type=1, duration=7, name=
+Row: 1565 number=9080276386, date=1682496377276, type=2, duration=19, name=
+Row: 1566 number=+916369675465, date=1682496582673, type=3, duration=23, name=Vibu ✏️
+Row: 1567 number=+916369675465, date=1682496739637, type=2, duration=14, name=Vibu ✏️
+Row: 1568 number=+917738098250, date=1681306435204, type=2, duration=0, name=Abhinav ⚽
+Row: 1569 number=+918220273849, date=1682497405291, type=1, duration=8, name=
+Row: 1570 number=+919750063777, date=1682497666370, type=3, duration=16, name=Shreevarsaan VIT
+Row: 1571 number=+918072285202, date=1682497583874, type=1, duration=91, name=Ezhil👨‍💻
+Row: 1572 number=+919750063777, date=1682497689404, type=2, duration=16, name=Shreevarsaan VIT
+Row: 1573 number=9080276386, date=1682510543671, type=2, duration=0, name=
+Row: 1574 number=9080276386, date=1682510849547, type=2, duration=31, name=
+Row: 1575 number=+919500522229, date=1682514205139, type=1, duration=349, name=Amma 👩‍👦
+Row: 1576 number=+917200733799, date=1682515394294, type=2, duration=69, name=
+Row: 1577 number=+919500522229, date=1682515667611, type=2, duration=56, name=Amma 👩‍👦
+Row: 1578 number=+919500522229, date=1682516052498, type=1, duration=15, name=Amma 👩‍👦
+Row: 1579 number=+917738098250, date=1681306511843, type=1, duration=66, name=Abhinav ⚽
+Row: 1580 number=+919500522229, date=1682516254283, type=1, duration=12, name=Amma 👩‍👦
+Row: 1581 number=8637673469, date=1682519017110, type=2, duration=0, name=
+Row: 1582 number=8220273849, date=1682519045705, type=2, duration=18, name=Tharun VIT
+Row: 1583 number=+919445410570, date=1682519495999, type=1, duration=226, name=
+Row: 1584 number=9080276386, date=1682521222936, type=2, duration=21, name=
+Row: 1585 number=+918270700777, date=1682521264291, type=2, duration=34, name=
+Row: 1586 number=+919080276386, date=1682521832508, type=1, duration=9, name=Aadthiya 🎮
+Row: 1587 number=+919080276386, date=1682523872462, type=3, duration=30, name=Aadthiya 🎮
+Row: 1588 number=+919080276386, date=1682523905820, type=2, duration=24, name=Aadthiya 🎮
+Row: 1589 number=+918270700777, date=1682525739365, type=1, duration=13, name=
+Row: 1590 number=+919750063777, date=1681306590997, type=1, duration=15, name=Shreevarsaan VIT
+Row: 1591 number=+919750063777, date=1682526140590, type=2, duration=21, name=Shreevarsaan VIT
+Row: 1592 number=+917738098250, date=1682526197234, type=2, duration=0, name=Abhinav ⚽
+Row: 1593 number=9524404333, date=1682526333753, type=2, duration=0, name=Siva VIT
+Row: 1594 number=8220273849, date=1682526341108, type=2, duration=10, name=Tharun VIT
+Row: 1595 number=+918072285202, date=1682526367715, type=2, duration=7, name=Ezhil👨‍💻
+Row: 1596 number=+919750063777, date=1682526481287, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1597 number=+917738098250, date=1682526886958, type=2, duration=6, name=Abhinav ⚽
+Row: 1598 number=+918072285202, date=1682526928597, type=2, duration=0, name=Ezhil👨‍💻
+Row: 1599 number=+918072285202, date=1682527091920, type=2, duration=27, name=Ezhil👨‍💻
+Row: 1600 number=+917738098250, date=1682527178649, type=2, duration=0, name=Abhinav ⚽
+Row: 1601 number=+918681047129, date=1681306801597, type=2, duration=0, name=
+Row: 1602 number=+919750063777, date=1682527668728, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1603 number=+919524404333, date=1682527878512, type=3, duration=25, name=
+Row: 1604 number=+919080276386, date=1682529048232, type=1, duration=60, name=Aadthiya 🎮
+Row: 1605 number=+919750063777, date=1682529802707, type=1, duration=1, name=Shreevarsaan VIT
+Row: 1606 number=+919524404333, date=1682566269003, type=2, duration=53, name=
+Row: 1607 number=+917738098250, date=1682566386234, type=2, duration=0, name=Abhinav ⚽
+Row: 1608 number=+919524404333, date=1682567169808, type=1, duration=13, name=
+Row: 1609 number=+919445410570, date=1682567227703, type=1, duration=42, name=
+Row: 1610 number=+917738098250, date=1682567296132, type=3, duration=8, name=Abhinav ⚽
+Row: 1611 number=+919445410570, date=1682567289070, type=2, duration=24, name=
+Row: 1612 number=+917738098250, date=1681307578805, type=2, duration=0, name=Abhinav ⚽
+Row: 1613 number=+917738098250, date=1682567478448, type=2, duration=27, name=Abhinav ⚽
+Row: 1614 number=8220273849, date=1682568015209, type=2, duration=45, name=Tharun VIT
+Row: 1615 number=+918220273849, date=1682568086904, type=1, duration=10, name=
+Row: 1616 number=+917448500929, date=1682568837826, type=2, duration=177, name=
+Row: 1617 number=+919524404333, date=1682569019958, type=1, duration=55, name=
+Row: 1618 number=+917738098250, date=1682569094781, type=2, duration=23, name=Abhinav ⚽
+Row: 1619 number=+919524404333, date=1682569310016, type=1, duration=19, name=
+Row: 1620 number=+919750063777, date=1682569412850, type=5, duration=4, name=Shreevarsaan VIT
+Row: 1621 number=+919750063777, date=1682569450448, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1622 number=+919750063777, date=1682569974577, type=1, duration=14, name=Shreevarsaan VIT
+Row: 1623 number=+917738098250, date=1681309201336, type=2, duration=44, name=Abhinav ⚽
+Row: 1624 number=+919524404333, date=1682570531687, type=2, duration=17, name=
+Row: 1625 number=+919524404333, date=1682570673731, type=1, duration=18, name=
+Row: 1626 number=+919750063777, date=1682570769856, type=2, duration=31, name=Shreevarsaan VIT
+Row: 1627 number=+919445410570, date=1682571012427, type=2, duration=24, name=
+Row: 1628 number=+918220273849, date=1682571115790, type=2, duration=0, name=
+Row: 1629 number=+919677372245, date=1682571163304, type=2, duration=0, name=
+Row: 1630 number=8220273849, date=1682571430432, type=2, duration=0, name=Tharun VIT
+Row: 1631 number=+919445410570, date=1682571610862, type=2, duration=26, name=
+Row: 1632 number=+919080276386, date=1682572074339, type=1, duration=107, name=Aadthiya 🎮
+Row: 1633 number=+919750063777, date=1682572346649, type=2, duration=6, name=Shreevarsaan VIT
+Row: 1634 number=+917738098250, date=1681310588311, type=2, duration=65, name=Abhinav ⚽
+Row: 1635 number=+919080276386, date=1682572405708, type=1, duration=14, name=Aadthiya 🎮
+Row: 1636 number=+919080276386, date=1682572616308, type=1, duration=43, name=Aadthiya 🎮
+Row: 1637 number=+919080276386, date=1682572728955, type=2, duration=3, name=Aadthiya 🎮
+Row: 1638 number=+919080276386, date=1682583276329, type=2, duration=31, name=Aadthiya 🎮
+Row: 1639 number=+918072285202, date=1682584090400, type=3, duration=34, name=Ezhil👨‍💻
+Row: 1640 number=+918072285202, date=1682584186931, type=2, duration=33, name=Ezhil👨‍💻
+Row: 1641 number=+919445410570, date=1682584234124, type=2, duration=25, name=
+Row: 1642 number=+918072285202, date=1682585266694, type=5, duration=11, name=Ezhil👨‍💻
+Row: 1643 number=+919445410570, date=1682585307251, type=3, duration=6, name=
+Row: 1644 number=9500522229, date=1682587378298, type=2, duration=359, name=
+Row: 1645 number=+917738098250, date=1681310904387, type=2, duration=52, name=Abhinav ⚽
+Row: 1646 number=+918870364842, date=1682596420587, type=1, duration=13, name=Vikram 👨‍⚖️
+Row: 1647 number=+918072285202, date=1682600441576, type=2, duration=95, name=Ezhil👨‍💻
+Row: 1648 number=+919994239369, date=1682600567643, type=1, duration=29, name=
+Row: 1649 number=+919080276386, date=1682606797595, type=2, duration=16, name=Aadthiya 🎮
+Row: 1650 number=+919500696223, date=1682608459135, type=3, duration=3, name=
+Row: 1651 number=+918270700777, date=1682615200127, type=1, duration=22, name=
+Row: 1652 number=+919042398270, date=1682617944657, type=1, duration=27, name=
+Row: 1653 number=+919585339677, date=1682665872481, type=3, duration=23, name=
+Row: 1654 number=+919585339677, date=1682666202613, type=2, duration=0, name=
+Row: 1655 number=+919080276386, date=1681312208299, type=2, duration=8, name=Aadthiya 🎮
+Row: 1656 number=9994239369, date=1682666571111, type=2, duration=19, name=
+Row: 1657 number=+919750063777, date=1682666648516, type=2, duration=5, name=Shreevarsaan VIT
+Row: 1658 number=+919750063777, date=1682666804397, type=2, duration=8, name=Shreevarsaan VIT
+Row: 1659 number=+919080276386, date=1682669549030, type=2, duration=10, name=Aadthiya 🎮
+Row: 1660 number=+919750063777, date=1682669598164, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1661 number=8220273849, date=1682683092400, type=2, duration=0, name=Tharun VIT
+Row: 1662 number=+918072285202, date=1682683013521, type=2, duration=115, name=Ezhil👨‍💻
+Row: 1663 number=9080276386, date=1682683849586, type=2, duration=42, name=
+Row: 1664 number=9080276386, date=1682684317108, type=2, duration=34, name=
+Row: 1665 number=+916369675465, date=1682684636901, type=2, duration=37, name=Vibu ✏️
+Row: 1666 number=+919500522229, date=1681186110679, type=1, duration=258, name=Amma 👩‍👦
+Row: 1667 number=+919750063777, date=1681313176855, type=1, duration=53, name=Shreevarsaan VIT
+Row: 1668 number=8220273849, date=1682685148161, type=2, duration=0, name=Tharun VIT
+Row: 1669 number=9500522229, date=1682685591252, type=2, duration=21, name=
+Row: 1670 number=8220273849, date=1682685900399, type=2, duration=0, name=Tharun VIT
+Row: 1671 number=9500522229, date=1682686322039, type=2, duration=17, name=
+Row: 1672 number=8870364842, date=1682686523053, type=2, duration=65, name=
+Row: 1673 number=+918220273849, date=1682686695825, type=3, duration=25, name=
+Row: 1674 number=9500522229, date=1682686601172, type=2, duration=112, name=
+Row: 1675 number=+918220273849, date=1682686726745, type=2, duration=109, name=
+Row: 1676 number=+919080276386, date=1682687711582, type=1, duration=48, name=Aadthiya 🎮
+Row: 1677 number=+918883666174, date=1682688012275, type=3, duration=3, name=
+Row: 1678 number=+919524404333, date=1681317887511, type=2, duration=7, name=
+Row: 1679 number=+918883666174, date=1682688026894, type=3, duration=34, name=
+Row: 1680 number=+918883666174, date=1682688069258, type=2, duration=61, name=
+Row: 1681 number=+919080276386, date=1682688159791, type=2, duration=63, name=Aadthiya 🎮
+Row: 1682 number=+918220273849, date=1682688909004, type=1, duration=36, name=
+Row: 1683 number=+918220273849, date=1682690130543, type=2, duration=4, name=
+Row: 1684 number=+918220273849, date=1682690160230, type=2, duration=28, name=
+Row: 1685 number=9500522229, date=1682696130716, type=2, duration=36, name=
+Row: 1686 number=+919385621741, date=1682698460111, type=2, duration=17, name=
+Row: 1687 number=+919042398270, date=1682699612397, type=1, duration=72, name=
+Row: 1688 number=8220273849, date=1682699802952, type=2, duration=10, name=Tharun VIT
+Row: 1689 number=+919150270065, date=1681318471902, type=3, duration=0, name=
+Row: 1690 number=9500522229, date=1682705326534, type=2, duration=19, name=
+Row: 1691 number=+919600573555, date=1682731068302, type=2, duration=0, name=
+Row: 1692 number=9500522229, date=1682731116036, type=2, duration=33, name=
+Row: 1693 number=+919600573555, date=1682732055173, type=1, duration=16, name=
+Row: 1694 number=+919600573555, date=1682733154994, type=1, duration=12, name=
+Row: 1695 number=+919600573555, date=1682734013688, type=3, duration=21, name=
+Row: 1696 number=+919600573555, date=1682734043982, type=2, duration=46, name=
+Row: 1697 number=+919600573555, date=1682734130230, type=2, duration=52, name=
+Row: 1698 number=+919443558899, date=1682734438087, type=1, duration=23, name=
+Row: 1699 number=+919600573555, date=1682734702677, type=2, duration=0, name=
+Row: 1700 number=+919080276386, date=1681319123704, type=1, duration=13, name=Aadthiya 🎮
+Row: 1701 number=+919600573555, date=1682734758365, type=2, duration=0, name=
+Row: 1702 number=+919600573555, date=1682735051768, type=2, duration=0, name=
+Row: 1703 number=+919600573555, date=1682735122293, type=1, duration=78, name=
+Row: 1704 number=+919600573555, date=1682735469715, type=1, duration=14, name=
+Row: 1705 number=+919600573555, date=1682736733413, type=1, duration=8, name=
+Row: 1706 number=+919600573555, date=1682736953632, type=2, duration=42, name=
+Row: 1707 number=+919500522229, date=1682738127143, type=1, duration=7, name=Amma 👩‍👦
+Row: 1708 number=+919443558899, date=1682750405007, type=3, duration=29, name=
+Row: 1709 number=+919080276386, date=1682759997019, type=2, duration=0, name=Aadthiya 🎮
+Row: 1710 number=+919080276386, date=1682775139966, type=1, duration=419, name=Aadthiya 🎮
+Row: 1711 number=+917738098250, date=1681319583628, type=2, duration=10, name=Abhinav ⚽
+Row: 1712 number=+919500522229, date=1682776739118, type=1, duration=42, name=Amma 👩‍👦
+Row: 1713 number=+919080276386, date=1682786255903, type=2, duration=0, name=Aadthiya 🎮
+Row: 1714 number=+919445410570, date=1682786286967, type=2, duration=372, name=
+Row: 1715 number=+919445410570, date=1682787043208, type=1, duration=151, name=
+Row: 1716 number=+919080276386, date=1682787380641, type=1, duration=729, name=Aadthiya 🎮
+Row: 1717 number=+919445410570, date=1682795531763, type=2, duration=816, name=
+Row: 1718 number=+919080276386, date=1682833735031, type=2, duration=0, name=Aadthiya 🎮
+Row: 1719 number=+919600573555, date=1682838379726, type=2, duration=5, name=
+Row: 1720 number=+919080276386, date=1682842509509, type=2, duration=0, name=Aadthiya 🎮
+Row: 1721 number=+919080276386, date=1682842556664, type=1, duration=98, name=Aadthiya 🎮
+Row: 1722 number=+919524404333, date=1681321691577, type=2, duration=0, name=
+Row: 1723 number=+919080276386, date=1682848475517, type=1, duration=89, name=Aadthiya 🎮
+Row: 1724 number=+919600573555, date=1682868874827, type=2, duration=28, name=
+Row: 1725 number=+919600573555, date=1682869170636, type=2, duration=33, name=
+Row: 1726 number=+919080276386, date=1682875119256, type=2, duration=0, name=Aadthiya 🎮
+Row: 1727 number=+919080276386, date=1682917425575, type=2, duration=552, name=Aadthiya 🎮
+Row: 1728 number=+919445410570, date=1682920172376, type=2, duration=447, name=
+Row: 1729 number=+919445410570, date=1682922526580, type=1, duration=85, name=
+Row: 1730 number=+919818837687, date=1682923441851, type=5, duration=6, name=
+Row: 1731 number=+919080276386, date=1682932399069, type=2, duration=0, name=Aadthiya 🎮
+Row: 1732 number=+919600573555, date=1682953516285, type=3, duration=13, name=
+Row: 1733 number=+919750063777, date=1681323605338, type=2, duration=26, name=Shreevarsaan VIT
+Row: 1734 number=+919600573555, date=1682953553419, type=2, duration=0, name=
+Row: 1735 number=+919600573555, date=1682953562056, type=2, duration=0, name=
+Row: 1736 number=+919500522229, date=1682953571381, type=2, duration=20, name=Amma 👩‍👦
+Row: 1737 number=+919080276386, date=1682953857225, type=1, duration=242, name=Aadthiya 🎮
+Row: 1738 number=+919080276386, date=1682954370648, type=2, duration=57, name=Aadthiya 🎮
+Row: 1739 number=+917738098250, date=1683000642650, type=1, duration=11, name=Abhinav ⚽
+Row: 1740 number=+918015856869, date=1683012648209, type=1, duration=47, name=
+Row: 1741 number=+919445410570, date=1683025367972, type=1, duration=49, name=
+Row: 1742 number=+919080276386, date=1683025908311, type=2, duration=56, name=Aadthiya 🎮
+Row: 1743 number=+919080276386, date=1683026645163, type=1, duration=38, name=Aadthiya 🎮
+Row: 1744 number=+919080276386, date=1681361250684, type=2, duration=0, name=Aadthiya 🎮
+Row: 1745 number=8925330404, date=1683031780464, type=2, duration=128, name=
+Row: 1746 number=9843039797, date=1683032524239, type=2, duration=50, name=
+Row: 1747 number=+919445410570, date=1683035737255, type=1, duration=53, name=
+Row: 1748 number=+919445410570, date=1683044563054, type=2, duration=12, name=
+Row: 1749 number=+919445410570, date=1683045645452, type=2, duration=37, name=
+Row: 1750 number=+919600573555, date=1683048477221, type=1, duration=46, name=
+Row: 1751 number=+919994239369, date=1683069930515, type=3, duration=34, name=
+Row: 1752 number=+919994239369, date=1683071539816, type=2, duration=14, name=
+Row: 1753 number=+918072285202, date=1683071650981, type=1, duration=23, name=Ezhil👨‍💻
+Row: 1754 number=+918072285202, date=1683072031082, type=2, duration=11, name=Ezhil👨‍💻
+Row: 1755 number=+919080276386, date=1681364777570, type=2, duration=82, name=Aadthiya 🎮
+Row: 1756 number=+919994239369, date=1683074716093, type=2, duration=2, name=
+Row: 1757 number=+919600573555, date=1683074908345, type=2, duration=17, name=
+Row: 1758 number=+919750063777, date=1683079805522, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1759 number=+917738098250, date=1683079855327, type=2, duration=11, name=Abhinav ⚽
+Row: 1760 number=+919750063777, date=1683085958797, type=3, duration=34, name=Shreevarsaan VIT
+Row: 1761 number=+919750063777, date=1683087252882, type=2, duration=9, name=Shreevarsaan VIT
+Row: 1762 number=+919500522229, date=1683088663809, type=2, duration=99, name=Amma 👩‍👦
+Row: 1763 number=+918072285202, date=1683095720975, type=2, duration=17, name=Ezhil👨‍💻
+Row: 1764 number=+918072285202, date=1683096905223, type=3, duration=33, name=Ezhil👨‍💻
+Row: 1765 number=+918072285202, date=1683096985751, type=2, duration=8, name=Ezhil👨‍💻
+Row: 1766 number=+919750063777, date=1681364930757, type=2, duration=167, name=Shreevarsaan VIT
+Row: 1767 number=+916369675465, date=1683101604403, type=1, duration=7, name=Vibu ✏️
+Row: 1768 number=9943369565, date=1683102602616, type=2, duration=10, name=
+Row: 1769 number=9080276386, date=1683102637858, type=2, duration=27, name=
+Row: 1770 number=+917738098250, date=1683102744327, type=2, duration=12, name=Abhinav ⚽
+Row: 1771 number=9080276386, date=1683107675390, type=2, duration=3, name=
+Row: 1772 number=+917418924638, date=1683107924836, type=1, duration=6, name=
+Row: 1773 number=9080276386, date=1683108779875, type=2, duration=0, name=
+Row: 1774 number=9500522229, date=1683120344084, type=2, duration=84, name=
+Row: 1775 number=9080276386, date=1683122943340, type=2, duration=1148, name=
+Row: 1776 number=9080276386, date=1683125973875, type=2, duration=0, name=
+Row: 1777 number=+919524404333, date=1681189743423, type=3, duration=0, name=
+Row: 1778 number=+919080276386, date=1681370245432, type=2, duration=11, name=Aadthiya 🎮
+Row: 1779 number=+919080276386, date=1683126015913, type=1, duration=7, name=Aadthiya 🎮
+Row: 1780 number=+919445410570, date=1683127995635, type=2, duration=0, name=
+Row: 1781 number=+919445410570, date=1683128039151, type=1, duration=16, name=
+Row: 1782 number=+919585339677, date=1683129791182, type=1, duration=47, name=
+Row: 1783 number=9916397714, date=1683132480589, type=2, duration=21, name=
+Row: 1784 number=+917738098250, date=1683132781139, type=2, duration=0, name=Abhinav ⚽
+Row: 1785 number=+917738098250, date=1683132939434, type=1, duration=46, name=Abhinav ⚽
+Row: 1786 number=+917738098250, date=1683133058308, type=1, duration=94, name=Abhinav ⚽
+Row: 1787 number=9080276386, date=1683134447728, type=2, duration=8, name=
+Row: 1788 number=+918072285202, date=1683135602790, type=2, duration=18, name=Ezhil👨‍💻
+Row: 1789 number=+919750063777, date=1681377820529, type=2, duration=27, name=Shreevarsaan VIT
+Row: 1790 number=+919750063777, date=1683172289253, type=5, duration=23, name=Shreevarsaan VIT
+Row: 1791 number=+917738098250, date=1683173896069, type=2, duration=0, name=Abhinav ⚽
+Row: 1792 number=+917738098250, date=1683173984993, type=1, duration=11, name=Abhinav ⚽
+Row: 1793 number=+919750063777, date=1683174399705, type=2, duration=11, name=Shreevarsaan VIT
+Row: 1794 number=+917738098250, date=1683174666819, type=2, duration=0, name=Abhinav ⚽
+Row: 1795 number=8220273849, date=1683180167569, type=2, duration=34, name=Tharun VIT
+Row: 1796 number=9080276386, date=1683188695871, type=2, duration=0, name=
+Row: 1797 number=+919080276386, date=1683188722719, type=1, duration=28, name=Aadthiya 🎮
+Row: 1798 number=+919080276386, date=1683188865783, type=1, duration=11, name=Aadthiya 🎮
+Row: 1799 number=9080276386, date=1683188882071, type=2, duration=14, name=
+Row: 1800 number=+919524404333, date=1681379539916, type=2, duration=43, name=
+Row: 1801 number=+918072285202, date=1683204506010, type=1, duration=131, name=Ezhil👨‍💻
+Row: 1802 number=9500522229, date=1683206321187, type=2, duration=27, name=
+Row: 1803 number=9943369565, date=1683210149325, type=2, duration=28, name=
+Row: 1804 number=9080276386, date=1683210196358, type=2, duration=80, name=
+Row: 1805 number=+919500522229, date=1683210490148, type=1, duration=20, name=Amma 👩‍👦
+Row: 1806 number=9080276386, date=1683210669379, type=2, duration=0, name=
+Row: 1807 number=+919080276386, date=1683210735587, type=1, duration=19, name=Aadthiya 🎮
+Row: 1808 number=+919750063777, date=1683211284869, type=1, duration=19, name=Shreevarsaan VIT
+Row: 1809 number=9916397714, date=1683217064430, type=2, duration=12, name=
+Row: 1810 number=9916397714, date=1683217485322, type=2, duration=11, name=
+Row: 1811 number=+917738098250, date=1681379768620, type=2, duration=10, name=Abhinav ⚽
+Row: 1812 number=+919080276386, date=1683217797353, type=2, duration=13, name=Aadthiya 🎮
+Row: 1813 number=+919500522229, date=1683218498123, type=2, duration=443, name=Amma 👩‍👦
+Row: 1814 number=+919080276386, date=1683218944635, type=1, duration=2, name=Aadthiya 🎮
+Row: 1815 number=+919080276386, date=1683218960447, type=2, duration=87, name=Aadthiya 🎮
+Row: 1816 number=+919080276386, date=1683219625787, type=1, duration=11, name=Aadthiya 🎮
+Row: 1817 number=+919080276386, date=1683221936614, type=2, duration=0, name=Aadthiya 🎮
+Row: 1818 number=+919080276386, date=1683222301104, type=1, duration=28, name=Aadthiya 🎮
+Row: 1819 number=+917738098250, date=1683262230187, type=2, duration=251, name=Abhinav ⚽
+Row: 1820 number=+919500522229, date=1683262854857, type=2, duration=179, name=Amma 👩‍👦
+Row: 1821 number=+919080276386, date=1683274062156, type=2, duration=9, name=Aadthiya 🎮
+Row: 1822 number=+917738098250, date=1681379791512, type=2, duration=59, name=Abhinav ⚽
+Row: 1823 number=+919080276386, date=1683274502728, type=2, duration=6, name=Aadthiya 🎮
+Row: 1824 number=+919080276386, date=1683274536529, type=2, duration=16, name=Aadthiya 🎮
+Row: 1825 number=+919750063777, date=1683279243490, type=3, duration=4, name=Shreevarsaan VIT
+Row: 1826 number=+917738098250, date=1683281290819, type=2, duration=0, name=Abhinav ⚽
+Row: 1827 number=+917738098250, date=1683286165460, type=2, duration=18, name=Abhinav ⚽
+Row: 1828 number=+916374725831, date=1683288151971, type=1, duration=11, name=
+Row: 1829 number=+919080276386, date=1683288454660, type=2, duration=24, name=Aadthiya 🎮
+Row: 1830 number=+919750063777, date=1683293129591, type=2, duration=27, name=Shreevarsaan VIT
+Row: 1831 number=+917738098250, date=1683294032031, type=1, duration=26, name=Abhinav ⚽
+Row: 1832 number=+917738098250, date=1683294901946, type=1, duration=17, name=Abhinav ⚽
+Row: 1833 number=+919080276386, date=1681385925116, type=2, duration=167, name=Aadthiya 🎮
+Row: 1834 number=+919080276386, date=1683295172421, type=2, duration=99, name=Aadthiya 🎮
+Row: 1835 number=8220273849, date=1683295319874, type=2, duration=16, name=Tharun VIT
+Row: 1836 number=+919500522229, date=1683298721618, type=2, duration=283, name=Amma 👩‍👦
+Row: 1837 number=+917738098250, date=1683299029392, type=2, duration=82, name=Abhinav ⚽
+Row: 1838 number=+919080276386, date=1683299300557, type=2, duration=584, name=Aadthiya 🎮
+Row: 1839 number=+919841759993, date=1683301632125, type=1, duration=1573, name=
+Row: 1840 number=+919994239369, date=1683344342941, type=3, duration=7, name=
+Row: 1841 number=+919994239369, date=1683344886462, type=2, duration=12, name=
+Row: 1842 number=+917738098250, date=1683346450883, type=2, duration=11, name=Abhinav ⚽
+Row: 1843 number=+919750063777, date=1683353524426, type=2, duration=135, name=Shreevarsaan VIT
+Row: 1844 number=+919524404333, date=1681388008753, type=1, duration=81, name=
+Row: 1845 number=9080276386, date=1683358770141, type=2, duration=0, name=
+Row: 1846 number=+919080276386, date=1683358863316, type=1, duration=13, name=Aadthiya 🎮
+Row: 1847 number=+919080276386, date=1683359154763, type=3, duration=1, name=Aadthiya 🎮
+Row: 1848 number=+919080276386, date=1683359160388, type=1, duration=9, name=Aadthiya 🎮
+Row: 1849 number=9080276386, date=1683359435722, type=2, duration=0, name=
+Row: 1850 number=+919080276386, date=1683359661628, type=1, duration=20, name=Aadthiya 🎮
+Row: 1851 number=+919080276386, date=1683369912382, type=2, duration=0, name=Aadthiya 🎮
+Row: 1852 number=+919080276386, date=1683371009024, type=1, duration=25, name=Aadthiya 🎮
+Row: 1853 number=+917738098250, date=1683371396064, type=2, duration=0, name=Abhinav ⚽
+Row: 1854 number=+917738098250, date=1683371536331, type=1, duration=56, name=Abhinav ⚽
+Row: 1855 number=9080276386, date=1681390959350, type=2, duration=291, name=
+Row: 1856 number=+917738098250, date=1683375141005, type=1, duration=14, name=Abhinav ⚽
+Row: 1857 number=+919500522229, date=1683375288718, type=2, duration=14, name=Amma 👩‍👦
+Row: 1858 number=+917738098250, date=1683375342701, type=3, duration=29, name=Abhinav ⚽
+Row: 1859 number=+919080276386, date=1683375459867, type=3, duration=24, name=Aadthiya 🎮
+Row: 1860 number=+919500522229, date=1683375587259, type=3, duration=26, name=Amma 👩‍👦
+Row: 1861 number=+919500522229, date=1683375680294, type=2, duration=79, name=Amma 👩‍👦
+Row: 1862 number=+919500522229, date=1683378055401, type=2, duration=236, name=Amma 👩‍👦
+Row: 1863 number=8220273849, date=1683378433269, type=2, duration=13, name=Tharun VIT
+Row: 1864 number=+917738098250, date=1683382466369, type=2, duration=0, name=Abhinav ⚽
+Row: 1865 number=+917738098250, date=1683382575024, type=1, duration=22, name=Abhinav ⚽
+Row: 1866 number=+919750063777, date=1681391571749, type=2, duration=71, name=Shreevarsaan VIT
+Row: 1867 number=+919841759993, date=1683387451284, type=3, duration=10, name=
+Row: 1868 number=+919080276386, date=1683387310512, type=2, duration=177, name=Aadthiya 🎮
+Row: 1869 number=+919841759993, date=1683387512330, type=2, duration=193, name=
+Row: 1870 number=+917448500929, date=1683387739752, type=2, duration=67, name=
+Row: 1871 number=+917448500929, date=1683387925329, type=2, duration=11, name=
+Row: 1872 number=+919841759993, date=1683388355111, type=3, duration=31, name=
+Row: 1873 number=+919994239369, date=1683388639691, type=3, duration=3, name=
+Row: 1874 number=+919994239369, date=1683388648026, type=2, duration=0, name=
+Row: 1875 number=+919841759993, date=1683388665072, type=2, duration=55, name=
+Row: 1876 number=+917738098250, date=1683389607616, type=2, duration=0, name=Abhinav ⚽
+Row: 1877 number=+919500522229, date=1681393535064, type=1, duration=5, name=Amma 👩‍👦
+Row: 1878 number=+917738098250, date=1683389635700, type=1, duration=81, name=Abhinav ⚽
+Row: 1879 number=+919841759993, date=1683389749317, type=1, duration=206, name=
+Row: 1880 number=+919750063777, date=1683391792219, type=1, duration=26, name=Shreevarsaan VIT
+Row: 1881 number=+919750063777, date=1683391839933, type=1, duration=24, name=Shreevarsaan VIT
+Row: 1882 number=+919500522229, date=1683436630397, type=2, duration=709, name=Amma 👩‍👦
+Row: 1883 number=+919750063777, date=1683440188154, type=1, duration=11, name=Shreevarsaan VIT
+Row: 1884 number=+919080276386, date=1683447173402, type=1, duration=12, name=Aadthiya 🎮
+Row: 1885 number=+917448500929, date=1683448563233, type=2, duration=26, name=
+Row: 1886 number=+917448500929, date=1683448750188, type=1, duration=17, name=
+Row: 1887 number=+917448500929, date=1683451929620, type=2, duration=0, name=
+Row: 1888 number=9524404333, date=1681190839739, type=2, duration=106, name=Siva VIT
+Row: 1889 number=+919524404333, date=1681397641943, type=2, duration=265, name=
+Row: 1890 number=+918072285202, date=1683453530693, type=1, duration=9, name=Ezhil👨‍💻
+Row: 1891 number=+919080276386, date=1683459203225, type=2, duration=0, name=Aadthiya 🎮
+Row: 1892 number=+918848751055, date=1683459438654, type=3, duration=2, name=
+Row: 1893 number=+919080276386, date=1683463734069, type=1, duration=4, name=Aadthiya 🎮
+Row: 1894 number=+917358479083, date=1683466705717, type=3, duration=34, name=
+Row: 1895 number=+919080276386, date=1683471008064, type=2, duration=7, name=Aadthiya 🎮
+Row: 1896 number=9994239369, date=1683474830919, type=2, duration=10, name=
+Row: 1897 number=+918072285202, date=1683480344742, type=1, duration=14, name=Ezhil👨‍💻
+Row: 1898 number=+919080276386, date=1683533968866, type=2, duration=18, name=Aadthiya 🎮
+Row: 1899 number=+919750063777, date=1683534431258, type=3, duration=34, name=Shreevarsaan VIT
+Row: 1900 number=+919524404333, date=1681400664270, type=1, duration=82, name=
+Row: 1901 number=+919750063777, date=1683534830727, type=2, duration=12, name=Shreevarsaan VIT
+Row: 1902 number=7339081125, date=1683535020245, type=2, duration=6, name=
+Row: 1903 number=+917738098250, date=1683540766780, type=2, duration=5, name=Abhinav ⚽
+Row: 1904 number=9500522229, date=1683548185054, type=2, duration=700, name=
+Row: 1905 number=+919750063777, date=1683550288811, type=1, duration=29, name=Shreevarsaan VIT
+Row: 1906 number=8220273849, date=1683553298862, type=2, duration=9, name=Tharun VIT
+Row: 1907 number=+919750063777, date=1683554913323, type=1, duration=4, name=Shreevarsaan VIT
+Row: 1908 number=9150216471, date=1683555884947, type=2, duration=0, name=
+Row: 1909 number=+917738098250, date=1683556074992, type=2, duration=14, name=Abhinav ⚽
+Row: 1910 number=+919150216471, date=1683556282010, type=1, duration=26, name=
+Row: 1911 number=8220273849, date=1681401819682, type=2, duration=0, name=Tharun VIT
+Row: 1912 number=+919080276386, date=1683558997331, type=1, duration=19, name=Aadthiya 🎮
+Row: 1913 number=+919600573555, date=1683560602851, type=1, duration=4, name=
+Row: 1914 number=+919600573555, date=1683564248764, type=2, duration=30, name=
+Row: 1915 number=+919080276386, date=1683564304250, type=2, duration=0, name=Aadthiya 🎮
+Row: 1916 number=+919080276386, date=1683566551005, type=1, duration=22, name=Aadthiya 🎮
+Row: 1917 number=+919080276386, date=1683610148731, type=2, duration=0, name=Aadthiya 🎮
+Row: 1918 number=+919080276386, date=1683610185964, type=2, duration=4, name=Aadthiya 🎮
+Row: 1919 number=+918220273849, date=1683617846718, type=1, duration=17, name=
+Row: 1920 number=9500522229, date=1683618507404, type=2, duration=0, name=
+Row: 1921 number=+919500522229, date=1683618528765, type=1, duration=319, name=Amma 👩‍👦
+Row: 1922 number=+918220273849, date=1681401860390, type=1, duration=37, name=
+Row: 1923 number=+919080276386, date=1683622222910, type=2, duration=0, name=Aadthiya 🎮
+Row: 1924 number=+919080276386, date=1683622561030, type=2, duration=0, name=Aadthiya 🎮
+Row: 1925 number=+919080276386, date=1683622838552, type=1, duration=10, name=Aadthiya 🎮
+Row: 1926 number=+919500792865, date=1683630267198, type=1, duration=990, name=
+Row: 1927 number=+919500792865, date=1683631486011, type=1, duration=345, name=
+Row: 1928 number=+919080276386, date=1683634971385, type=2, duration=0, name=Aadthiya 🎮
+Row: 1929 number=+919080276386, date=1683635051569, type=1, duration=17, name=Aadthiya 🎮
+Row: 1930 number=+919750063777, date=1683637018826, type=2, duration=11, name=Shreevarsaan VIT
+Row: 1931 number=+919080276386, date=1683641380034, type=2, duration=0, name=Aadthiya 🎮
+Row: 1932 number=+919080276386, date=1683642886685, type=2, duration=6, name=Aadthiya 🎮
+Row: 1933 number=+919500522229, date=1681402157303, type=2, duration=1679, name=Amma 👩‍👦
+Row: 1934 number=+917448500929, date=1683647976439, type=1, duration=92, name=
+Row: 1935 number=+919750063777, date=1683648170234, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1936 number=+919080276386, date=1683648388290, type=2, duration=28, name=Aadthiya 🎮
+Row: 1937 number=+919080276386, date=1683649918748, type=2, duration=11, name=Aadthiya 🎮
+Row: 1938 number=+917738098250, date=1683695210601, type=2, duration=0, name=Abhinav ⚽
+Row: 1939 number=+917738098250, date=1683695244545, type=1, duration=4, name=Abhinav ⚽
+Row: 1940 number=+918220273849, date=1683720966674, type=1, duration=24, name=
+Row: 1941 number=+918220273849, date=1683721038040, type=1, duration=13, name=
+Row: 1942 number=+919500522229, date=1683721747041, type=2, duration=520, name=Amma 👩‍👦
+Row: 1943 number=+917448500929, date=1683725524117, type=3, duration=22, name=
+Row: 1944 number=+919524404333, date=1681412757095, type=2, duration=0, name=
+Row: 1945 number=+917448500929, date=1683726420532, type=2, duration=166, name=
+Row: 1946 number=+918220273849, date=1683726915610, type=1, duration=25, name=
+Row: 1947 number=+916369675465, date=1683727862100, type=2, duration=33, name=Vibu ✏️
+Row: 1948 number=+919750063777, date=1683729050286, type=2, duration=29, name=Shreevarsaan VIT
+Row: 1949 number=+917738098250, date=1683730514461, type=2, duration=0, name=Abhinav ⚽
+Row: 1950 number=+917738098250, date=1683730572779, type=1, duration=60, name=Abhinav ⚽
+Row: 1951 number=+918220273849, date=1683730643777, type=2, duration=1, name=
+Row: 1952 number=+918220273849, date=1683730669829, type=2, duration=9, name=
+Row: 1953 number=+918072285202, date=1683731930796, type=2, duration=0, name=Ezhil👨‍💻
+Row: 1954 number=+917448500929, date=1683731946908, type=2, duration=9, name=
+Row: 1955 number=+919524404333, date=1681412814252, type=1, duration=16, name=
+Row: 1956 number=+917448500929, date=1683732227959, type=2, duration=0, name=
+Row: 1957 number=+918220273849, date=1683732326729, type=1, duration=21, name=
+Row: 1958 number=+917448500929, date=1683732359406, type=2, duration=0, name=
+Row: 1959 number=+918667781305, date=1683733463605, type=3, duration=34, name=
+Row: 1960 number=+917448500929, date=1683734018768, type=3, duration=30, name=
+Row: 1961 number=+919750063777, date=1683734868119, type=1, duration=19, name=Shreevarsaan VIT
+Row: 1962 number=+918220273849, date=1683735930302, type=1, duration=5, name=
+Row: 1963 number=+918220273849, date=1683736452740, type=1, duration=18, name=
+Row: 1964 number=+917358479083, date=1683742166016, type=3, duration=20, name=
+Row: 1965 number=+917738098250, date=1683778608207, type=2, duration=12, name=Abhinav ⚽
+Row: 1966 number=9080276386, date=1681455857948, type=2, duration=33, name=
+Row: 1967 number=+919750063777, date=1683778777651, type=2, duration=19, name=Shreevarsaan VIT
+Row: 1968 number=+917448500929, date=1683786582298, type=2, duration=5, name=
+Row: 1969 number=+919600573555, date=1683787506844, type=1, duration=5, name=
+Row: 1970 number=+917448500929, date=1683792644175, type=2, duration=14, name=
+Row: 1971 number=+917738098250, date=1683793964052, type=2, duration=7, name=Abhinav ⚽
+Row: 1972 number=8220273849, date=1683812260364, type=2, duration=9, name=Tharun VIT
+Row: 1973 number=8220273849, date=1683816124783, type=2, duration=0, name=Tharun VIT
+Row: 1974 number=+919750063777, date=1683816199024, type=2, duration=10, name=Shreevarsaan VIT
+Row: 1975 number=+919750063777, date=1683816653541, type=1, duration=8, name=Shreevarsaan VIT
+Row: 1976 number=+919080276386, date=1683816805358, type=2, duration=12, name=Aadthiya 🎮
+Row: 1977 number=+919524404333, date=1681460795119, type=2, duration=8, name=
+Row: 1978 number=+919500522229, date=1683819921903, type=1, duration=179, name=Amma 👩‍👦
+Row: 1979 number=+919080276386, date=1683872272042, type=2, duration=31, name=Aadthiya 🎮
+Row: 1980 number=+919585339677, date=1683897209782, type=1, duration=44, name=
+Row: 1981 number=+919500522229, date=1683898819229, type=2, duration=29, name=Amma 👩‍👦
+Row: 1982 number=+919080276386, date=1683901455123, type=2, duration=0, name=Aadthiya 🎮
+Row: 1983 number=+919080276386, date=1683903837256, type=2, duration=0, name=Aadthiya 🎮
+Row: 1984 number=+919080276386, date=1683904086439, type=2, duration=11, name=Aadthiya 🎮
+Row: 1985 number=8220273849, date=1683907370759, type=2, duration=14, name=Tharun VIT
+Row: 1986 number=+919750063777, date=1683908110127, type=1, duration=16, name=Shreevarsaan VIT
+Row: 1987 number=+919080276386, date=1683909371581, type=2, duration=0, name=Aadthiya 🎮
+Row: 1988 number=+919524404333, date=1681463368896, type=2, duration=10, name=
+Row: 1989 number=+919080276386, date=1683911413677, type=1, duration=24, name=Aadthiya 🎮
+Row: 1990 number=+917448500929, date=1683911629353, type=1, duration=27, name=
+Row: 1991 number=+917448500929, date=1683913184680, type=2, duration=13, name=
+Row: 1992 number=+917448500929, date=1683916181197, type=1, duration=18, name=
+Row: 1993 number=+917448500929, date=1683920353905, type=2, duration=37, name=
+Row: 1994 number=+917448500929, date=1683920558648, type=1, duration=11, name=
+Row: 1995 number=+919750063777, date=1683944138070, type=2, duration=0, name=Shreevarsaan VIT
+Row: 1996 number=+919750063777, date=1683944430301, type=1, duration=9, name=Shreevarsaan VIT
+Row: 1997 number=+917738098250, date=1683945633481, type=1, duration=14, name=Abhinav ⚽
+Row: 1998 number=+919677372245, date=1683950852844, type=1, duration=34, name=
+Row: 1999 number=+919080276386, date=1681199628209, type=2, duration=0, name=Aadthiya 🎮
+Row: 2000 number=+919750063777, date=1681469515302, type=1, duration=30, name=Shreevarsaan VIT
+Row: 2001 number=+919500522229, date=1683950970080, type=2, duration=432, name=Amma 👩‍👦
+Row: 2002 number=+919080276386, date=1683961964483, type=2, duration=707, name=Aadthiya 🎮
+Row: 2003 number=+919080276386, date=1683964724979, type=2, duration=383, name=Aadthiya 🎮
+Row: 2004 number=+917738098250, date=1683966091055, type=2, duration=14, name=Abhinav ⚽
+Row: 2005 number=+916369675465, date=1683966407787, type=3, duration=0, name=Vibu ✏️
+Row: 2006 number=+916369675465, date=1683966416270, type=2, duration=7, name=Vibu ✏️
+Row: 2007 number=+919176968629, date=1683966433637, type=1, duration=15, name=
+Row: 2008 number=+919750063777, date=1683966745290, type=1, duration=18, name=Shreevarsaan VIT
+Row: 2009 number=+919750063777, date=1683966878778, type=2, duration=4, name=Shreevarsaan VIT
+Row: 2010 number=+919176968629, date=1683966917170, type=2, duration=0, name=
+Row: 2011 number=9080276386, date=1681471914812, type=2, duration=0, name=
+Row: 2012 number=+919524404333, date=1683973567442, type=5, duration=17, name=
+Row: 2013 number=+919080276386, date=1683983811750, type=1, duration=146, name=Aadthiya 🎮
+Row: 2014 number=+919750063777, date=1683985429633, type=2, duration=90, name=Shreevarsaan VIT
+Row: 2015 number=+919080276386, date=1683985608750, type=2, duration=0, name=Aadthiya 🎮
+Row: 2016 number=+919080276386, date=1683985655119, type=2, duration=0, name=Aadthiya 🎮
+Row: 2017 number=+919750063777, date=1683987770062, type=2, duration=21, name=Shreevarsaan VIT
+Row: 2018 number=+919080276386, date=1683990770868, type=2, duration=17, name=Aadthiya 🎮
+Row: 2019 number=+919080276386, date=1683991115574, type=2, duration=20, name=Aadthiya 🎮
+Row: 2020 number=+919677372245, date=1683992321748, type=2, duration=24, name=
+Row: 2021 number=+919669662159, date=1683993728185, type=1, duration=22, name=
+Row: 2022 number=+919080276386, date=1681472346976, type=1, duration=154, name=Aadthiya 🎮
+Row: 2023 number=+917448500929, date=1683995597387, type=1, duration=19, name=
+Row: 2024 number=+919080276386, date=1684000263480, type=2, duration=64, name=Aadthiya 🎮
+Row: 2025 number=+919600573555, date=1684001305058, type=2, duration=217, name=
+Row: 2026 number=8220273849, date=1684001891479, type=2, duration=29, name=Tharun VIT
+Row: 2027 number=8220273849, date=1684002080313, type=2, duration=8, name=Tharun VIT
+Row: 2028 number=+917448500929, date=1684003021545, type=2, duration=22, name=
+Row: 2029 number=9080276386, date=1684003608096, type=2, duration=12, name=
+Row: 2030 number=+919080276386, date=1684007992507, type=3, duration=25, name=Aadthiya 🎮
+Row: 2031 number=+918220273849, date=1684038565771, type=3, duration=34, name=
+Row: 2032 number=+918220273849, date=1684039406220, type=2, duration=0, name=
+Row: 2033 number=+919524404333, date=1681475131681, type=1, duration=39, name=
+Row: 2034 number=+918220273849, date=1684039511607, type=2, duration=25, name=
+Row: 2035 number=+918220273849, date=1684041134284, type=2, duration=12, name=
+Row: 2036 number=+918220273849, date=1684042082740, type=2, duration=6, name=
+Row: 2037 number=+919750063777, date=1684042588821, type=1, duration=15, name=Shreevarsaan VIT
+Row: 2038 number=+919500522229, date=1684043740797, type=2, duration=59, name=Amma 👩‍👦
+Row: 2039 number=+919080276386, date=1684052774372, type=1, duration=10, name=Aadthiya 🎮
+Row: 2040 number=9500522229, date=1684067970361, type=2, duration=352, name=
+Row: 2041 number=+918220273849, date=1684072838855, type=1, duration=11, name=
+Row: 2042 number=+919080276386, date=1684075629939, type=1, duration=40, name=Aadthiya 🎮
+Row: 2043 number=+919080276386, date=1684076107095, type=2, duration=0, name=Aadthiya 🎮
+Row: 2044 number=+919524404333, date=1681475220140, type=1, duration=26, name=
+Row: 2045 number=+919080276386, date=1684076646942, type=1, duration=164, name=Aadthiya 🎮
+Row: 2046 number=+919445410570, date=1684078465863, type=2, duration=0, name=
+Row: 2047 number=+919445410570, date=1684078902918, type=2, duration=0, name=
+Row: 2048 number=+919750063777, date=1684084202908, type=1, duration=6, name=Shreevarsaan VIT
+Row: 2049 number=+919750063777, date=1684085080452, type=1, duration=5, name=Shreevarsaan VIT
+Row: 2050 number=+919080276386, date=1684085284995, type=2, duration=47, name=Aadthiya 🎮
+Row: 2051 number=+919080276386, date=1684138425403, type=1, duration=38, name=Aadthiya 🎮
+Row: 2052 number=+919080276386, date=1684140186008, type=2, duration=7, name=Aadthiya 🎮
+Row: 2053 number=+919080276386, date=1684140216936, type=1, duration=7, name=Aadthiya 🎮
+Row: 2054 number=+919080276386, date=1684149258801, type=2, duration=0, name=Aadthiya 🎮
+Row: 2055 number=+919080276386, date=1681475612090, type=2, duration=16, name=Aadthiya 🎮
+Row: 2056 number=+919080276386, date=1684149275268, type=2, duration=0, name=Aadthiya 🎮
+Row: 2057 number=+919080276386, date=1684149307125, type=2, duration=0, name=Aadthiya 🎮
+Row: 2058 number=+919080276386, date=1684149321747, type=2, duration=0, name=Aadthiya 🎮
+Row: 2059 number=+916369675465, date=1684149369400, type=2, duration=26, name=Vibu ✏️
+Row: 2060 number=7092036331, date=1684149416691, type=2, duration=0, name=
+Row: 2061 number=+919080276386, date=1684151592336, type=2, duration=185, name=Aadthiya 🎮
+Row: 2062 number=+919080276386, date=1684161016236, type=2, duration=14, name=Aadthiya 🎮
+Row: 2063 number=+919080276386, date=1684162755841, type=1, duration=10, name=Aadthiya 🎮
+Row: 2064 number=+919080276386, date=1684163143983, type=2, duration=14, name=Aadthiya 🎮
+Row: 2065 number=9500522229, date=1684166835037, type=2, duration=266, name=
+Row: 2066 number=+919600573555, date=1681478633727, type=2, duration=2030, name=
+Row: 2067 number=+919445410570, date=1684170847342, type=2, duration=0, name=
+Row: 2068 number=+917738098250, date=1684171143688, type=2, duration=102, name=Abhinav ⚽
+Row: 2069 number=+919445410570, date=1684171976763, type=1, duration=40, name=
+Row: 2070 number=+917738098250, date=1684172583757, type=2, duration=0, name=Abhinav ⚽
+Row: 2071 number=+919750063777, date=1684172589944, type=2, duration=0, name=Shreevarsaan VIT
+Row: 2072 number=+918220273849, date=1684172622835, type=2, duration=0, name=
+Row: 2073 number=+918072285202, date=1684173145635, type=2, duration=0, name=Ezhil👨‍💻
+Row: 2074 number=+918072285202, date=1684174436269, type=2, duration=0, name=Ezhil👨‍💻
+Row: 2075 number=+917448500929, date=1684174449441, type=2, duration=101, name=
+Row: 2076 number=+919750063777, date=1684174805216, type=2, duration=73, name=Shreevarsaan VIT
+Row: 2077 number=+917738098250, date=1681483736037, type=1, duration=84, name=Abhinav ⚽
+Row: 2078 number=+917738098250, date=1684211281850, type=2, duration=24, name=Abhinav ⚽
+Row: 2079 number=+919080276386, date=1684224062664, type=1, duration=32, name=Aadthiya 🎮
+Row: 2080 number=+919080276386, date=1684224827722, type=2, duration=26, name=Aadthiya 🎮
+Row: 2081 number=+919080276386, date=1684224997733, type=1, duration=7, name=Aadthiya 🎮
+Row: 2082 number=+919445410570, date=1684232356107, type=2, duration=66, name=
+Row: 2083 number=+919080276386, date=1684239047910, type=2, duration=17, name=Aadthiya 🎮
+Row: 2084 number=+919080276386, date=1684239188547, type=2, duration=0, name=Aadthiya 🎮
+Row: 2085 number=+919841759993, date=1684240163925, type=1, duration=46, name=
+Row: 2086 number=+918870364842, date=1684243864540, type=5, duration=3, name=Vikram 👨‍⚖️
+Row: 2087 number=+918870364842, date=1684243879242, type=3, duration=22, name=Vikram 👨‍⚖️
+Row: 2088 number=+916369675465, date=1681488333712, type=2, duration=25, name=Vibu ✏️
+Row: 2089 number=+919750063777, date=1684247598424, type=3, duration=25, name=Shreevarsaan VIT
+Row: 2090 number=+919080276386, date=1684248748443, type=5, duration=33, name=Aadthiya 🎮
+Row: 2091 number=+919080276386, date=1684250650108, type=2, duration=0, name=Aadthiya 🎮
+Row: 2092 number=+918921135258, date=1684250775560, type=1, duration=131, name=
+Row: 2093 number=+919841759993, date=1684251000762, type=2, duration=0, name=
+Row: 2094 number=+919080276386, date=1684251158239, type=2, duration=0, name=Aadthiya 🎮
+Row: 2095 number=+919841759993, date=1684251540291, type=3, duration=4, name=
+Row: 2096 number=+919080276386, date=1684251488071, type=1, duration=74, name=Aadthiya 🎮
+Row: 2097 number=+919841759993, date=1684251566104, type=2, duration=174, name=
+Row: 2098 number=+919841759993, date=1684253766012, type=2, duration=0, name=
+Row: 2099 number=+919080276386, date=1681490435713, type=2, duration=63, name=Aadthiya 🎮
+Row: 2100 number=+919500522229, date=1684253963610, type=1, duration=36, name=Amma 👩‍👦
+Row: 2101 number=+919080276386, date=1684254437310, type=1, duration=66, name=Aadthiya 🎮
+Row: 2102 number=+919841759993, date=1684254502348, type=1, duration=0, name=
+Row: 2103 number=+919841759993, date=1684254513928, type=2, duration=170, name=
+Row: 2104 number=+919841759993, date=1684254694958, type=2, duration=321, name=
+Row: 2105 number=+919080276386, date=1684255851075, type=1, duration=7, name=Aadthiya 🎮
+Row: 2106 number=+919841759993, date=1684259724117, type=2, duration=0, name=
+Row: 2107 number=+919841759993, date=1684260106461, type=1, duration=57, name=
+Row: 2108 number=+918921135258, date=1684260656512, type=1, duration=44, name=
+Row: 2109 number=+919841759993, date=1684261002380, type=2, duration=22, name=
+Row: 2110 number=+919150216471, date=1688446812634, type=1, duration=0, name=
+Row: 2111 number=+919150216471, date=1688446829262, type=1, duration=65, name=
+Row: 2112 number=+16672790212, date=1688449351526, type=3, duration=0, name=
+Row: 2113 number=+919080276386, date=1688450166164, type=2, duration=0, name=Aadthiya 🎮
+Row: 2114 number=+919080276386, date=1688450374373, type=1, duration=27, name=Aadthiya 🎮
+Row: 2115 number=9500522229, date=1688451168521, type=2, duration=266, name=Amma 👩‍👦
+Row: 2116 number=+919500522229, date=1688453286724, type=1, duration=54, name=Amma 👩‍👦
+Row: 2117 number=+919500522229, date=1688453348620, type=1, duration=50, name=Amma 👩‍👦
+Row: 2118 number=9500522229, date=1688453406298, type=2, duration=34, name=Amma 👩‍👦
+Row: 2119 number=+917598730840, date=1688459681535, type=5, duration=0, name=CD Hari 💻
+Row: 2120 number=+919080276386, date=1688465615242, type=2, duration=82, name=Aadthiya 🎮
+Row: 2121 number=+917010916456, date=1688466139578, type=1, duration=20, name=Director Ashwath 🕶️✨
+Row: 2122 number=+919080276386, date=1688468385701, type=2, duration=3, name=Aadthiya 🎮
+Row: 2123 number=+919080276386, date=1688468780283, type=2, duration=6, name=Aadthiya 🎮
+Row: 2124 number=+919080276386, date=1688469124257, type=2, duration=14, name=Aadthiya 🎮
+Row: 2125 number=+912271897485, date=1688478719183, type=3, duration=0, name=+912271897485
+Row: 2126 number=+919080276386, date=1688480678193, type=2, duration=66, name=Aadthiya 🎮
+Row: 2127 number=+917010916456, date=1688480753078, type=1, duration=62, name=Director Ashwath 🕶️✨
+Row: 2128 number=+919080276386, date=1688483917914, type=1, duration=9, name=Aadthiya 🎮
+Row: 2129 number=+919080276386, date=1688487068571, type=2, duration=339, name=Aadthiya 🎮
+Row: 2130 number=+919750063777, date=1688487438609, type=2, duration=23, name=Shreevarsaan VIT
+Row: 2131 number=+917010916456, date=1688488911410, type=2, duration=68, name=Director Ashwath 🕶️✨
+Row: 2132 number=+919750063777, date=1688489147056, type=1, duration=11, name=Shreevarsaan VIT
+Row: 2133 number=+919080276386, date=1688490901189, type=2, duration=0, name=Aadthiya 🎮
+Row: 2134 number=7092036331, date=1688490939414, type=2, duration=269, name=Sri Ram 🏳️‍🌈
+Row: 2135 number=+919750063777, date=1688492273679, type=1, duration=14, name=Shreevarsaan VIT
+Row: 2136 number=+917738098250, date=1688521963189, type=2, duration=53, name=Abhinav ⚽
+Row: 2137 number=9500522229, date=1688522069824, type=2, duration=152, name=Amma 👩‍👦
+Row: 2138 number=+919600573555, date=1688534336425, type=2, duration=0, name=Appa 👨‍👦
+Row: 2139 number=+919600573555, date=1688534358813, type=2, duration=145, name=Appa 👨‍👦
+Row: 2140 number=7092036331, date=1688537835955, type=2, duration=102, name=Sri Ram 🏳️‍🌈
+Row: 2141 number=+919524404333, date=1688539269624, type=1, duration=63, name=Siva VIT
+Row: 2142 number=+919524404333, date=1688539819555, type=2, duration=13, name=Siva VIT
+Row: 2143 number=+919524404333, date=1688540726598, type=2, duration=30, name=Siva VIT
+Row: 2144 number=9500522229, date=1688540832260, type=2, duration=102, name=Amma 👩‍👦
+Row: 2145 number=+917598730840, date=1688541169809, type=2, duration=0, name=CD Hari 💻
+Row: 2146 number=+919042650537, date=1688541236274, type=5, duration=0, name=
+Row: 2147 number=+917738098250, date=1688541322967, type=2, duration=0, name=Abhinav ⚽
+Row: 2148 number=+917598730840, date=1688541423207, type=1, duration=426, name=CD Hari 💻
+Row: 2149 number=+917738098250, date=1688542199899, type=1, duration=14, name=Abhinav ⚽
+Row: 2150 number=+919080276386, date=1688545273152, type=1, duration=27, name=Aadthiya 🎮
+Row: 2151 number=+919080276386, date=1688545884972, type=2, duration=21, name=Aadthiya 🎮
+Row: 2152 number=9176968629, date=1688546126055, type=2, duration=11, name=Vibu ✏️
+Row: 2153 number=+919750063777, date=1688561645470, type=1, duration=10, name=Shreevarsaan VIT
+Row: 2154 number=+919080276386, date=1688561665437, type=2, duration=94, name=Aadthiya 🎮
+Row: 2155 number=+919750063777, date=1688562669423, type=1, duration=23, name=Shreevarsaan VIT
+Row: 2156 number=+917738098250, date=1688566978731, type=2, duration=23, name=Abhinav ⚽
+Row: 2157 number=+919080276386, date=1688568110884, type=1, duration=69, name=Aadthiya 🎮
+Row: 2158 number=+919080276386, date=1688571903741, type=2, duration=9, name=Aadthiya 🎮
+Row: 2159 number=8089569285, date=1688575813900, type=2, duration=0, name=Raees VIT
+Row: 2160 number=+917448500929, date=1688575929944, type=2, duration=160, name=Ezhil👨‍💻
+Row: 2161 number=+919750063777, date=1688576720441, type=2, duration=11, name=Shreevarsaan VIT
+Row: 2162 number=+919080276386, date=1688576838035, type=1, duration=22, name=Aadthiya 🎮
+Row: 2163 number=+917448500929, date=1688576873394, type=2, duration=21, name=Ezhil👨‍💻
+Row: 2164 number=+919080276386, date=1688576907017, type=2, duration=0, name=Aadthiya 🎮
+Row: 2165 number=+917738098250, date=1688576947502, type=2, duration=69, name=Abhinav ⚽
+Row: 2166 number=155223, date=1688577059023, type=2, duration=7, name=
+Row: 2167 number=+919080276386, date=1688580542454, type=1, duration=46, name=Aadthiya 🎮
+Row: 2168 number=8754201399, date=1688615103633, type=2, duration=0, name=
+Row: 2169 number=+918681047129, date=1688615855652, type=5, duration=0, name=Archith(VIT)
+Row: 2170 number=+919080276386, date=1688616385861, type=2, duration=0, name=Aadthiya 🎮
+Row: 2171 number=+918220273849, date=1688616752082, type=1, duration=16, name=Tharun VIT
+Row: 2172 number=+917738098250, date=1688616858583, type=2, duration=0, name=Abhinav ⚽
+Row: 2173 number=+919750063777, date=1688616878461, type=2, duration=0, name=Shreevarsaan VIT
+Row: 2174 number=+919750063777, date=1688616912035, type=1, duration=12, name=Shreevarsaan VIT
+Row: 2175 number=+917738098250, date=1688617246320, type=2, duration=0, name=Abhinav ⚽
+Row: 2176 number=+919080276386, date=1688617353892, type=2, duration=180, name=Aadthiya 🎮
+Row: 2177 number=+917448500929, date=1688623343775, type=2, duration=65, name=Ezhil👨‍💻
+Row: 2178 number=+918072285202, date=1688623529071, type=1, duration=75, name=Ezhil👨‍💻
+Row: 2179 number=+919750063777, date=1688623619321, type=2, duration=0, name=Shreevarsaan VIT
+Row: 2180 number=+917448500929, date=1688624096409, type=2, duration=8, name=Ezhil👨‍💻
+Row: 2181 number=+918072285202, date=1688624985538, type=2, duration=50, name=Ezhil👨‍💻
+Row: 2182 number=+919360202741, date=1688625078063, type=2, duration=22, name=Mithun VIT
+Row: 2183 number=+918072285202, date=1688625504434, type=3, duration=0, name=Ezhil👨‍💻
+Row: 2184 number=+918072285202, date=1688625539681, type=2, duration=65, name=Ezhil👨‍💻
+Row: 2185 number=+918072285202, date=1688625616560, type=2, duration=48, name=Ezhil👨‍💻
+Row: 2186 number=+916374725831, date=1688626649552, type=1, duration=41, name=Lochan
+Row: 2187 number=+916374725831, date=1688626737673, type=1, duration=29, name=Lochan
+Row: 2188 number=+918072285202, date=1688627144298, type=1, duration=37, name=Ezhil👨‍💻
+Row: 2189 number=+918072285202, date=1688627622950, type=1, duration=24, name=Ezhil👨‍💻
+Row: 2190 number=09266292666, date=1688627846352, type=2, duration=0, name=Karur vysa bank Balance
+Row: 2191 number=+918072285202, date=1688628326872, type=2, duration=16, name=Ezhil👨‍💻
+Row: 2192 number=+918072285202, date=1688628642214, type=1, duration=16, name=Ezhil👨‍💻
+Row: 2193 number=+918072285202, date=1688632487765, type=1, duration=4, name=Ezhil👨‍💻
+Row: 2194 number=09266292666, date=1688632934205, type=2, duration=0, name=Karur vysa bank Balance
+Row: 2195 number=9500522229, date=1688638609833, type=2, duration=322, name=Amma 👩‍👦
+Row: 2196 number=9500522229, date=1688638961140, type=2, duration=175, name=Amma 👩‍👦
+Row: 2197 number=9500522229, date=1688639211072, type=2, duration=690, name=Amma 👩‍👦
+Row: 2198 number=9500522229, date=1688639908223, type=2, duration=47, name=Amma 👩‍👦
+Row: 2199 number=9500522229, date=1688639966777, type=2, duration=170, name=Amma 👩‍👦
+Row: 2200 number=+918220273849, date=1688640904552, type=1, duration=15, name=Tharun VIT
+Row: 2201 number=+918220273849, date=1688642152318, type=1, duration=8, name=Tharun VIT
+Row: 2202 number=+917448500929, date=1688643390426, type=2, duration=21, name=Ezhil👨‍💻
+Row: 2203 number=+919080276386, date=1688644880976, type=2, duration=0, name=Aadthiya 🎮
+Row: 2204 number=+919080276386, date=1688644978606, type=2, duration=0, name=Aadthiya 🎮
+Row: 2205 number=+917010916456, date=1688645438839, type=1, duration=134, name=Director Ashwath 🕶️✨
+Row: 2206 number=+919080276386, date=1688646181303, type=2, duration=0, name=Aadthiya 🎮
+Row: 2207 number=9176968629, date=1688646229704, type=2, duration=0, name=Vibu ✏️
+Row: 2208 number=+919445410570, date=1688646328236, type=2, duration=30, name=Ashwanth Balakrishnan
+Row: 2209 number=+919080276386, date=1688646555231, type=1, duration=1126, name=Aadthiya 🎮
+Row: 2210 number=+917708470667, date=1688648203394, type=1, duration=133, name=Sibi 🎵 VIT
+Row: 2211 number=+919445410570, date=1688648386672, type=1, duration=412, name=Ashwanth Balakrishnan
+Row: 2212 number=9524404333, date=1688649624528, type=2, duration=0, name=Siva VIT
+Row: 2213 number=+919750063777, date=1688649645416, type=2, duration=36, name=Shreevarsaan VIT
+Row: 2214 number=8220273849, date=1688651138657, type=2, duration=0, name=Tharun VIT
+Row: 2215 number=+918220273849, date=1688651188555, type=1, duration=24, name=Tharun VIT
+Row: 2216 number=+917738098250, date=1688651830893, type=2, duration=298, name=Abhinav ⚽
+Row: 2217 number=+918072285202, date=1688652153545, type=2, duration=36, name=Ezhil👨‍💻
+Row: 2218 number=+919080276386, date=1688653954305, type=2, duration=29, name=Aadthiya 🎮
+Row: 2219 number=+919445410570, date=1688657478658, type=1, duration=22, name=Ashwanth Balakrishnan
+Row: 2220 number=+919445410570, date=1688658552121, type=1, duration=22, name=Ashwanth Balakrishnan
+Row: 2221 number=+919080543130, date=1688661700151, type=2, duration=0, name=Vishnu Varthan
+Row: 2222 number=+919750063777, date=1688661838257, type=2, duration=12, name=Shreevarsaan VIT
+Row: 2223 number=+918220273849, date=1688661867326, type=2, duration=31, name=Tharun VIT
+Row: 2224 number=+919445410570, date=1688662213179, type=2, duration=0, name=Ashwanth Balakrishnan
+Row: 2225 number=+919445410570, date=1688662327934, type=2, duration=11, name=Ashwanth Balakrishnan
+Row: 2226 number=+919080543130, date=1688664542655, type=3, duration=0, name=Vishnu Varthan
+Row: 2227 number=+919750063777, date=1688668588613, type=1, duration=16, name=Shreevarsaan VIT
+Row: 2228 number=+919080276386, date=1688697888234, type=2, duration=0, name=Aadthiya 🎮
+Row: 2229 number=+919080276386, date=1688698001483, type=2, duration=0, name=Aadthiya 🎮
+Row: 2230 number=+919445410570, date=1688699709226, type=2, duration=66, name=Ashwanth Balakrishnan
+Row: 2231 number=+919080276386, date=1688699842402, type=1, duration=254, name=Aadthiya 🎮
+Row: 2232 number=+919080276386, date=1688699842402, type=1, duration=254, name=Aadthiya 🎮
+Row: 2233 number=+917738098250, date=1688701413644, type=2, duration=0, name=Abhinav ⚽
+Row: 2234 number=+917738098250, date=1688701686925, type=1, duration=45, name=Abhinav ⚽
+Row: 2235 number=+918220273849, date=1688704619860, type=1, duration=30, name=Tharun VIT
+Row: 2236 number=+919445410570, date=1688709200716, type=3, duration=0, name=Ashwanth Balakrishnan
+Row: 2237 number=+919445410570, date=1688709803965, type=2, duration=27, name=Ashwanth Balakrishnan
+Row: 2238 number=+919445410570, date=1688710337404, type=1, duration=5, name=Ashwanth Balakrishnan
+Row: 2239 number=+919445410570, date=1688711028197, type=2, duration=4, name=Ashwanth Balakrishnan
+Row: 2240 number=+917738098250, date=1688712657129, type=2, duration=0, name=Abhinav ⚽
+Row: 2241 number=+919750063777, date=1688712758412, type=2, duration=32, name=Shreevarsaan VIT
+Row: 2242 number=+919750063777, date=1688713461420, type=2, duration=0, name=Shreevarsaan VIT
+Row: 2243 number=+919750063777, date=1688713461420, type=2, duration=0, name=Shreevarsaan VIT
+Row: 2244 number=+919080276386, date=1688713490778, type=1, duration=68, name=Aadthiya 🎮
+Row: 2245 number=+919750063777, date=1688713572641, type=2, duration=22, name=Shreevarsaan VIT
