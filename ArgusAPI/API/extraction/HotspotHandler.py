@@ -42,6 +42,7 @@ class HotspotHandler:
         code, output = CommandHandler().executeCommand(["iw", "dev"])
         # only obtain the name of the device
         self.physical_interface_name = output.split()[2].strip()
+        self.physical_interface_name = "wlp0s20f3"
         # create the hotspot
         code, output = CommandHandler().executeCommand(["nmcli", "dev", "wifi", "hotspot", "ifname", self.physical_interface_name, "con-name", "argusVnet", "ssid", "argusVnet", "password", "argusVnet"])
 
