@@ -46,33 +46,34 @@ class Contacts(models.Model):
 
 
 class CallLog(models.Model):
-    INCOMING = 'Incoming'
-    OUTGOING = 'Outgoing'
-    MISSED = 'Missed'
-    CALL_TYPE_CHOICES = [
-        (INCOMING, 'Incoming'),
-        (OUTGOING, 'Outgoing'),
-        (MISSED, 'Missed')
-    ]
+    # INCOMING = 'Incoming'
+    # OUTGOING = 'Outgoing'
+    # MISSED = 'Missed'
+    # CALL_TYPE_CHOICES = [
+    #     (INCOMING, 'Incoming'),
+    #     (OUTGOING, 'Outgoing'),
+    #     (MISSED, 'Missed')
+    # ]
 
     number = PhoneNumberField(default='+91')
-    call_type = models.CharField(max_length=10, choices=CALL_TYPE_CHOICES)
+    call_type = models.CharField(max_length=255)
     datetime = models.DateTimeField()
     duration = models.PositiveIntegerField()
+    name = models.CharField(max_length=255,null=True,blank=True)
     contacts = models.ForeignKey(
         Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
 
 
 class SmsLog(models.Model):
-    INCOMING = 'Incoming'
-    OUTGOING = 'Outgoing'
-    SMS_TYPE_CHOICES = [
-        (INCOMING, 'Incoming'),
-        (OUTGOING, 'Outgoing'),
-    ]
+    # INCOMING = 'Incoming'
+    # OUTGOING = 'Outgoing'
+    # SMS_TYPE_CHOICES = [
+    #     (INCOMING, 'Incoming'),
+    #     (OUTGOING, 'Outgoing'),
+    # ]
     address = models.CharField(max_length=100)
-    sms_type = models.CharField(max_length=10, choices=SMS_TYPE_CHOICES)
-    datetime = models.DateTimeField()
+    sms_type = models.CharField(max_length=100)
+    datetime = models.CharField(max_length=100)
     message = models.TextField()
     Contacts = models.ForeignKey(
         Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
@@ -86,7 +87,7 @@ class Photo(models.Model):
     pixels = models.CharField(max_length=255, null=True)
     color_depth = models.CharField(max_length=255, null=True)
     image_comp = models.CharField(max_length=255, null=True)
-    exif_date_time = models.DateTimeField(null=True)
+    exif_date_time = models.CharField(max_length=255,null=True)
     camera = models.CharField(max_length=255, null=True)
     exposure_time = models.CharField(max_length=255, null=True)
     f_number = models.CharField(max_length=255, null=True)

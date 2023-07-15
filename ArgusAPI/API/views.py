@@ -22,6 +22,10 @@ def start_listening(request):
     start_extraction.delay()
     return Response({"start_listening":True})
 
+@api_view()
+def wifi(request):
+    return Response({"connection":True})
+
 
 @api_view(['POST'])
 def face_reg(request):
@@ -33,10 +37,10 @@ def face_reg(request):
         nparr = np.frombuffer(image_data, np.uint8)
         input_img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
         
-        #found = predict(input_img)
-        found = True
+        found = predict(input_img)
+        #found = True
 
-    return Response({'found': "found"})
+    return Response({'found': found})
 
 
 @api_view(['POST'])
@@ -63,7 +67,7 @@ class DBStatusViewSet(ReadOnlyModelViewSet):
 
 
 class CallLogViewSet(ReadOnlyModelViewSet):
-    queryset = CallLog.objects.prefetch_related('contacts').all()
+    queryset = CallLog.objects.all()
     serializer_class = CallLogSerializer
     filter_backends = [DjangoFilterBackend, OrderingFilter]
     filterset_class = CallLogFilter
@@ -75,7 +79,7 @@ class SmsLogViewSet(ReadOnlyModelViewSet):
     serializer_class = SmsLogSerializer
     filter_backends = [DjangoFilterBackend, SearchFilter]
     filterset_class = SmsLogFilter
-    search_fields = ['address', 'message']
+    search_fields = ['message']
 
 
 class ContactsViewSet(ReadOnlyModelViewSet):
@@ -93,3 +97,5 @@ class PhotoViewSet(ReadOnlyModelViewSet):
 class VideoViewSet(ReadOnlyModelViewSet):
     queryset = Video.objects.all()
     serializer_class = VideoSerializer
+
+# class ConnectionMethodViewSet(Read)

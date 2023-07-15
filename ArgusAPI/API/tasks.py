@@ -9,15 +9,33 @@ from .scripts.photometadata import PhotoMeta
 from .scripts.videometadata import VideoMeta
 from .scripts.facedata import face_data
 
+# @shared_task
+# def PhotoMetaToDB():
+#     PhotoMeta()
+#     db_status.photo_meta_status = True
+#     db_status.save()
+
+# @shared_task
+# def VideoMetaToDB():
+#     VideoMeta()
+#     db_status.video_meta_status = True
+#     db_status.save()
+
+# @shared_task
+# def FaceToDB():
+#     face_data()
+#     db_status.face_data_status = False
+#     db_status.save()
+    
 @shared_task
 def start_extraction():
-    pass
+    print("start extraction")
     adb_handler = start_payload()
     # if status.get("key") != "value":
     #     return "Error"
     sleep(5)
     db_status = DBStatus.objects.create()
-
+    print("db status created")
     import_contacts()
     db_status.contacts_status = True
     db_status.save()
@@ -32,17 +50,22 @@ def start_extraction():
     db_status.save()
     print("main data over")
     
-    adb_handler.get_files()
-    # After Photos recieved
+    # adb_handler.get_files()
+    # # After Photos recieved
     PhotoMeta()
     db_status.photo_meta_status = True
     db_status.save()
-    VideoMeta()
+    # PhotoMetaToDB.delay()
+    #VideoMeta()
     db_status.video_meta_status = True
     db_status.save()
-    #face_data()
+    # VideoMetaToDB.delay()
+    face_data()
     db_status.face_data_status = False
     db_status.save()
+    # FaceToDB.delay()
+
+
     
 
 

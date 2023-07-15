@@ -7,7 +7,7 @@ import os
 import shutil
 import django
 import sys
-import nmap
+# import nmap
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
@@ -57,12 +57,16 @@ class AdbHandler:
         Will return a warning if multiple devices are connected.
         Runs on its own thread
         """
+        print("starting adb db status")
         adb = ADBStatus.objects.create()
         adb.save()
         adbstatus = ADBStatus.objects.get(pk=1)
         # Keep listing out the devices that are connected till we detect one using 
+        print("dihsfoidshfodsjof")
         while True:
+            print("entering true")
             code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "devices"])
+            print(output)
             #remove other lines
             output = output.split()
             del output[:4]
@@ -80,6 +84,8 @@ class AdbHandler:
                         continue
                     #notify the callback
                     LogHandler.LogHandler().logMessage("Detected ADB device with id: "+output[0])
+                    adbstatus.connec_status = "Device Connected Waiting for Device Info"
+                    adbstatus.save()
                     callback("Device Connected", adb_handler)
                     break
                 else:
@@ -120,6 +126,13 @@ class AdbHandler:
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "connect",ip+":5555"])
         LogHandler.LogHandler().logMessage("Device is now in Wireless Debugging Mode on ip:"+ip+":5555")
         print("You can unplug the device from the PC Now")
+
+    def disable_mobile_data(self):
+        """
+        Disables the mobile data of the device
+        """
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "svc", "data", "disable"])
+
 
     def accept_install(self):
         """
@@ -185,6 +198,8 @@ class AdbHandler:
         code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb exec-out screencap -p >> "+ARTIFACTS_PATH+"homescreen.png"])
         # create the json file and store it
         device_name = "Iphonee"
+        # move the homescreen.png file from our artifacts to our root directory
+        shutil.move(ARTIFACTS_PATH+"homescreen.png", FILE_PATH+"homescreen.png")
         device = Device.objects.create(
             device_name=device_name,
             vnet_status=vnet_status,
@@ -224,7 +239,7 @@ class AdbHandler:
             for file in files:
                 try:
                     src_path = os.path.join(root, file)
-                    dst_path = os.path.join(STORAGE_ROOT, file)
+                    dst_path = os.path.join(STORAGE_ROOT+"/files/", file)
                     shutil.copy2(src_path, dst_path)  
                 except:
                     pass
